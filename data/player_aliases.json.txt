@@ -1,0 +1,1934 @@
+{
+  "V Kohli": [
+    "Virat Kohli",
+    "Kohli",
+    "Virat",
+    "King Kohli",
+    "vk"
+  ],
+  "RG Sharma": [
+    "Rohit Sharma",
+    "Rohit",
+    "Hitman",
+    "ro sharma",
+    "rohit sharma"
+  ],
+  "S Dhawan": [
+    "Shikhar Dhawan",
+    "Dhawan",
+    "Gabbar",
+    "shikhar"
+  ],
+  "DA Warner": [
+    "David Warner",
+    "Warner",
+    "dave warner",
+    "davey warner"
+  ],
+  "KL Rahul": [
+    "KL Rahul",
+    "Rahul",
+    "lokesh rahul",
+    "k l rahul"
+  ],
+  "SK Raina": [
+    "Suresh Raina",
+    "Raina",
+    "suresh",
+    "chinna thala"
+  ],
+  "MS Dhoni": [
+    "MS Dhoni",
+    "Dhoni",
+    "Mahi",
+    "MSD",
+    "captain cool",
+    "mahendra singh dhoni"
+  ],
+  "AM Rahane": [
+    "Ajinkya Rahane",
+    "Rahane",
+    "ajinkya"
+  ],
+  "AB de Villiers": [
+    "AB de Villiers",
+    "ABD",
+    "AB",
+    "de villiers",
+    "mr 360"
+  ],
+  "SV Samson": [
+    "Sanju Samson",
+    "Samson",
+    "Sanju"
+  ],
+  "CH Gayle": [
+    "Chris Gayle",
+    "Gayle",
+    "Universe Boss",
+    "chris"
+  ],
+  "RV Uthappa": [
+    "Robin Uthappa",
+    "Uthappa",
+    "robin"
+  ],
+  "KD Karthik": [
+    "Dinesh Karthik",
+    "Karthik",
+    "DK",
+    "dinesh"
+  ],
+  "F du Plessis": [
+    "Faf du Plessis",
+    "Faf",
+    "du plessis"
+  ],
+  "SA Yadav": [
+    "Surya Kumar Yadav",
+    "Suryakumar",
+    "SKY",
+    "surya",
+    "suryakumar yadav"
+  ],
+  "JC Buttler": [
+    "Jos Buttler",
+    "Buttler",
+    "Jos"
+  ],
+  "AT Rayudu": [
+    "Ambati Rayudu",
+    "Rayudu",
+    "ambati"
+  ],
+  "G Gambhir": [
+    "Gautam Gambhir",
+    "Gambhir",
+    "gautam"
+  ],
+  "Shubman Gill": [
+    "Shubman Gill",
+    "Gill",
+    "shubman"
+  ],
+  "SS Iyer": [
+    "Shreyas Iyer",
+    "Iyer",
+    "Shreyas"
+  ],
+  "MK Pandey": [
+    "Manish Pandey",
+    "Manish",
+    "pandey"
+  ],
+  "SR Watson": [
+    "Shane Watson",
+    "Watson",
+    "shane"
+  ],
+  "RR Pant": [
+    "Rishabh Pant",
+    "Pant",
+    "Rishabh",
+    "rp"
+  ],
+  "Q de Kock": [
+    "Quinton de Kock",
+    "de Kock",
+    "quinton"
+  ],
+  "KA Pollard": [
+    "Kieron Pollard",
+    "Pollard",
+    "kieron"
+  ],
+  "RA Jadeja": [
+    "Ravindra Jadeja",
+    "Jadeja",
+    "Jaddu",
+    "ravindra",
+    "Sir Jadeja"
+  ],
+  "Ishan Kishan": [
+    "Ishan Kishan",
+    "Ishan"
+  ],
+  "YK Pathan": [
+    "Yusuf Pathan",
+    "Yusuf",
+    "pathan"
+  ],
+  "DA Miller": [
+    "David Miller",
+    "Miller",
+    "Killer Miller",
+    "david"
+  ],
+  "N Rana": [
+    "Nitish Rana",
+    "Nitish",
+    "rana"
+  ],
+  "WP Saha": [
+    "Wriddhiman Saha",
+    "Saha",
+    "wriddhiman"
+  ],
+  "BB McCullum": [
+    "Brendon McCullum",
+    "McCullum",
+    "Baz",
+    "brendon"
+  ],
+  "HH Pandya": [
+    "Hardik Pandya",
+    "Hardik",
+    "pandya"
+  ],
+  "PA Patel": [
+    "Parthiv Patel",
+    "Parthiv"
+  ],
+  "GJ Maxwell": [
+    "Glenn Maxwell",
+    "Maxwell",
+    "Maxi",
+    "Big Show",
+    "glenn"
+  ],
+  "MA Agarwal": [
+    "Mayank Agarwal",
+    "Mayank"
+  ],
+  "Yuvraj Singh": [
+    "Yuvraj Singh",
+    "Yuvraj",
+    "Yuvi"
+  ],
+  "V Sehwag": [
+    "Virender Sehwag",
+    "Sehwag",
+    "Viru",
+    "virender"
+  ],
+  "RD Gaikwad": [
+    "Ruturaj Gaikwad",
+    "Ruturaj",
+    "gaikwad"
+  ],
+  "AD Russell": [
+    "Andre Russell",
+    "Russell",
+    "Dre Russ",
+    "andre"
+  ],
+  "M Vijay": [
+    "Murali Vijay",
+    "Vijay",
+    "murali"
+  ],
+  "SPD Smith": [
+    "Steve Smith",
+    "Smith",
+    "steve"
+  ],
+  "SE Marsh": [
+    "Shaun Marsh",
+    "Marsh",
+    "shaun"
+  ],
+  "YBK Jaiswal": [
+    "Yashasvi Jaiswal",
+    "Jaiswal",
+    "Yashasvi"
+  ],
+  "JH Kallis": [
+    "Jacques Kallis",
+    "Kallis",
+    "jacques"
+  ],
+  "DR Smith": [
+    "Dwayne Smith",
+    "Dwayne"
+  ],
+  "N Pooran": [
+    "Nicholas Pooran",
+    "Pooran",
+    "nicholas"
+  ],
+  "SR Tendulkar": [
+    "Sachin Tendulkar",
+    "Sachin",
+    "Tendulkar",
+    "Master Blaster",
+    "little master"
+  ],
+  "RA Tripathi": [
+    "Rahul Tripathi",
+    "Tripathi"
+  ],
+  "Abhishek Sharma": [
+    "Abhishek Sharma",
+    "Abhishek"
+  ],
+  "R Dravid": [
+    "Rahul Dravid",
+    "Dravid",
+    "The Wall",
+    "rahul dravid"
+  ],
+  "MP Stoinis": [
+    "Marcus Stoinis",
+    "Stoinis",
+    "marcus"
+  ],
+  "KS Williamson": [
+    "Kane Williamson",
+    "Williamson",
+    "Kane"
+  ],
+  "B Sai Sudharsan": [
+    "Sai Sudharsan",
+    "Sudharsan"
+  ],
+  "AJ Finch": [
+    "Aaron Finch",
+    "Finch",
+    "aaron"
+  ],
+  "AC Gilchrist": [
+    "Adam Gilchrist",
+    "Gilchrist",
+    "Gilly",
+    "adam"
+  ],
+  "D Padikkal": [
+    "Devdutt Padikkal",
+    "Padikkal",
+    "devdutt"
+  ],
+  "JP Duminy": [
+    "Jean-Paul Duminy",
+    "Duminy"
+  ],
+  "S Dube": [
+    "Shivam Dube",
+    "Dube",
+    "shivam"
+  ],
+  "MEK Hussey": [
+    "Mike Hussey",
+    "Hussey",
+    "Mr Cricket",
+    "mike hussey"
+  ],
+  "AR Patel": [
+    "Axar Patel",
+    "Axar"
+  ],
+  "PP Shaw": [
+    "Prithvi Shaw",
+    "Shaw",
+    "Prithvi"
+  ],
+  "H Klaasen": [
+    "Heinrich Klaasen",
+    "Klaasen",
+    "heinrich"
+  ],
+  "SP Narine": [
+    "Sunil Narine",
+    "Narine",
+    "sunil"
+  ],
+  "DPMD Jayawardene": [
+    "Mahela Jayawardene",
+    "Jayawardene",
+    "Mahela"
+  ],
+  "KH Pandya": [
+    "Krunal Pandya",
+    "Krunal"
+  ],
+  "Mandeep Singh": [
+    "Mandeep Singh",
+    "Mandeep"
+  ],
+  "P Simran Singh": [
+    "Simran Singh",
+    "Simran"
+  ],
+  "KK Nair": [
+    "Karun Nair",
+    "Karun"
+  ],
+  "MK Tiwary": [
+    "Manoj Tiwary",
+    "Manoj"
+  ],
+  "KC Sangakkara": [
+    "Kumar Sangakkara",
+    "Sangakkara",
+    "Kumar"
+  ],
+  "R Parag": [
+    "Riyan Parag",
+    "Parag",
+    "Riyan"
+  ],
+  "Tilak Varma": [
+    "Tilak Varma",
+    "Tilak"
+  ],
+  "JM Bairstow": [
+    "Jonny Bairstow",
+    "Bairstow",
+    "Jonny"
+  ],
+  "AK Markram": [
+    "Aiden Markram",
+    "Markram",
+    "Aiden"
+  ],
+  "SO Hetmyer": [
+    "Shimron Hetmyer",
+    "Hetmyer",
+    "shimron"
+  ],
+  "DJ Bravo": [
+    "Dwayne Bravo",
+    "Bravo",
+    "Champion",
+    "dwayne"
+  ],
+  "NV Ojha": [
+    "Naman Ojha",
+    "Ojha"
+  ],
+  "MR Marsh": [
+    "Mitchell Marsh",
+    "Mitchell Marsh",
+    "mitch marsh"
+  ],
+  "DJ Hooda": [
+    "Deepak Hooda",
+    "Deepak",
+    "hooda"
+  ],
+  "VR Iyer": [
+    "Venkatesh Iyer",
+    "Venkatesh"
+  ],
+  "SS Tiwary": [
+    "Saurabh Tiwary",
+    "Saurabh"
+  ],
+  "S Badrinath": [
+    "Subramaniam Badrinath",
+    "Badrinath"
+  ],
+  "EJG Morgan": [
+    "Eoin Morgan",
+    "Morgan",
+    "eoin"
+  ],
+  "BJ Hodge": [
+    "Brad Hodge",
+    "Hodge"
+  ],
+  "SC Ganguly": [
+    "Sourav Ganguly",
+    "Ganguly",
+    "Dada",
+    "sourav"
+  ],
+  "RM Patidar": [
+    "Rajat Patidar",
+    "Patidar",
+    "Rajat"
+  ],
+  "TM Head": [
+    "Travis Head",
+    "Head",
+    "travis"
+  ],
+  "CA Lynn": [
+    "Chris Lynn",
+    "Lynn",
+    "chris lynn"
+  ],
+  "DJ Hussey": [
+    "David Hussey",
+    "david hussey"
+  ],
+  "RK Singh": [
+    "RP Singh",
+    "rp singh"
+  ],
+  "PD Salt": [
+    "Phil Salt",
+    "Salt",
+    "phil"
+  ],
+  "V Shankar": [
+    "Vijay Shankar",
+    "Vijay Shankar"
+  ],
+  "KM Jadhav": [
+    "Kedar Jadhav",
+    "Kedar"
+  ],
+  "MM Ali": [
+    "Moeen Ali",
+    "Moeen"
+  ],
+  "R Tewatia": [
+    "Rahul Tewatia",
+    "Tewatia"
+  ],
+  "TM Dilshan": [
+    "Tillakaratne Dilshan",
+    "Dilshan",
+    "Dilscoop"
+  ],
+  "IK Pathan": [
+    "Irfan Pathan",
+    "Irfan"
+  ],
+  "A Badoni": [
+    "Ayush Badoni",
+    "Badoni",
+    "ayush"
+  ],
+  "ML Hayden": [
+    "Matthew Hayden",
+    "Hayden",
+    "matt hayden"
+  ],
+  "M Vohra": [
+    "Manan Vohra",
+    "Manan"
+  ],
+  "DP Conway": [
+    "Devon Conway",
+    "Conway",
+    "devon"
+  ],
+  "LMP Simmons": [
+    "Lendl Simmons",
+    "Simmons"
+  ],
+  "LS Livingstone": [
+    "Liam Livingstone",
+    "Livingstone",
+    "liam"
+  ],
+  "JM Sharma": [
+    "Jaydev Unadkat",
+    "jm sharma"
+  ],
+  "TH David": [
+    "Tim David",
+    "David",
+    "tim david"
+  ],
+  "LRPL Taylor": [
+    "Ross Taylor",
+    "Taylor",
+    "ross taylor"
+  ],
+  "KP Pietersen": [
+    "Kevin Pietersen",
+    "Pietersen",
+    "KP"
+  ],
+  "MC Henriques": [
+    "Moises Henriques",
+    "Henriques"
+  ],
+  "SM Curran": [
+    "Sam Curran",
+    "Curran",
+    "sam"
+  ],
+  "Y Venugopal Rao": [
+    "Venugopal Rao",
+    "Venu"
+  ],
+  "JA Morkel": [
+    "Albie Morkel",
+    "albie morkel"
+  ],
+  "A Symonds": [
+    "Andrew Symonds",
+    "Symonds",
+    "andrew"
+  ],
+  "CL White": [
+    "Cameron White",
+    "Cameron"
+  ],
+  "BA Stokes": [
+    "Ben Stokes",
+    "Stokes",
+    "ben"
+  ],
+  "Dhruv Jurel": [
+    "Dhruv Jurel",
+    "Dhruv"
+  ],
+  "T Stubbs": [
+    "Tristan Stubbs",
+    "Stubbs"
+  ],
+  "C Green": [
+    "Cameron Green",
+    "cameron green"
+  ],
+  "HH Gibbs": [
+    "Herschelle Gibbs",
+    "Gibbs"
+  ],
+  "STR Binny": [
+    "Stuart Binny",
+    "Binny"
+  ],
+  "Shashank Singh": [
+    "Shashank Singh",
+    "Shashank"
+  ],
+  "R Ashwin": [
+    "Ravichandran Ashwin",
+    "Ashwin",
+    "ravichandran"
+  ],
+  "Harbhajan Singh": [
+    "Harbhajan Singh",
+    "Harbhajan",
+    "Bhajji",
+    "turbanator"
+  ],
+  "Priyansh Arya": [
+    "Priyansh Arya",
+    "Priyansh"
+  ],
+  "Abdul Samad": [
+    "Abdul Samad",
+    "Samad"
+  ],
+  "MS Bisla": [
+    "Manvinder Bisla",
+    "Bisla"
+  ],
+  "Shakib Al Hasan": [
+    "Shakib Al Hasan",
+    "Shakib"
+  ],
+  "N Wadhera": [
+    "Neeraj Wadhera",
+    "Wadhera"
+  ],
+  "ST Jayasuriya": [
+    "Sanath Jayasuriya",
+    "Jayasuriya",
+    "sanath"
+  ],
+  "M Shahrukh Khan": [
+    "Shahrukh Khan",
+    "shahrukh"
+  ],
+  "SN Khan": [
+    "Sarfaraz Khan",
+    "Sarfaraz"
+  ],
+  "GC Smith": [
+    "Graeme Smith",
+    "Smith graeme",
+    "graeme"
+  ],
+  "AD Mathews": [
+    "Angelo Mathews",
+    "Mathews",
+    "angelo"
+  ],
+  "Abishek Porel": [
+    "Abishek Porel",
+    "Porel"
+  ],
+  "TL Suman": [
+    "Tirumalasetti Suman",
+    "Suman"
+  ],
+  "AM Nayar": [
+    "Abhishek Nayar",
+    "nayar"
+  ],
+  "A Raghuvanshi": [
+    "Anmol Raghuvanshi",
+    "raghuvanshi"
+  ],
+  "Washington Sundar": [
+    "Washington Sundar",
+    "Washington",
+    "Sundar"
+  ],
+  "GJ Bailey": [
+    "George Bailey",
+    "Bailey",
+    "george"
+  ],
+  "Nithish Kumar Reddy": [
+    "Nithish Kumar Reddy",
+    "Nithish"
+  ],
+  "E Lewis": [
+    "Evin Lewis",
+    "Lewis",
+    "evin"
+  ],
+  "V Suryavanshi": [
+    "Vaibhav Suryavanshi",
+    "Vaibhav"
+  ],
+  "PP Chawla": [
+    "Piyush Chawla",
+    "Chawla",
+    "piyush"
+  ],
+  "CH Morris": [
+    "Chris Morris",
+    "Morris",
+    "chris morris"
+  ],
+  "JJ Roy": [
+    "Jason Roy",
+    "Roy",
+    "jason"
+  ],
+  "Rashid Khan": [
+    "Rashid Khan",
+    "Rashid"
+  ],
+  "PJ Cummins": [
+    "Pat Cummins",
+    "Cummins",
+    "pat"
+  ],
+  "JD Ryder": [
+    "Jesse Ryder",
+    "Ryder"
+  ],
+  "HM Amla": [
+    "Hashim Amla",
+    "Amla",
+    "hashim"
+  ],
+  "Shahbaz Ahmed": [
+    "Shahbaz Ahmed",
+    "Shahbaz"
+  ],
+  "Naman Dhir": [
+    "Naman Dhir",
+    "Naman"
+  ],
+  "CJ Anderson": [
+    "Corey Anderson",
+    "corey anderson"
+  ],
+  "RS Bopara": [
+    "Ravi Bopara",
+    "Bopara"
+  ],
+  "MK Lomror": [
+    "Mahipal Lomror",
+    "Lomror"
+  ],
+  "JP Faulkner": [
+    "James Faulkner",
+    "Faulkner"
+  ],
+  "RD Rickelton": [
+    "Ryan Rickelton",
+    "Rickelton"
+  ],
+  "D Brevis": [
+    "Dewald Brevis",
+    "Brevis",
+    "baby ab"
+  ],
+  "M Manhas": [
+    "Mithun Manhas",
+    "Manhas"
+  ],
+  "Gurkeerat Singh": [
+    "Gurkeerat Singh",
+    "Gurkeerat"
+  ],
+  "OA Shah": [
+    "Owais Shah",
+    "Shah owais"
+  ],
+  "PC Valthaty": [
+    "Paul Valthaty",
+    "Valthaty"
+  ],
+  "SW Billings": [
+    "Sam Billings",
+    "Billings"
+  ],
+  "SE Rutherford": [
+    "Sherfane Rutherford",
+    "Rutherford"
+  ],
+  "R Powell": [
+    "Rovman Powell",
+    "Powell",
+    "rovman"
+  ],
+  "RR Rossouw": [
+    "Rilee Rossouw",
+    "Rossouw"
+  ],
+  "WG Jacks": [
+    "Will Jacks",
+    "Jacks",
+    "will"
+  ],
+  "DT Christian": [
+    "Dan Christian",
+    "dan christian"
+  ],
+  "A Mhatre": [
+    "Ankush Mhatre",
+    "Mhatre"
+  ],
+  "Ashutosh Sharma": [
+    "Ashutosh Sharma",
+    "Ashutosh"
+  ],
+  "NLTC Perera": [
+    "Thisara Perera",
+    "Perera thisara"
+  ],
+  "SA Asnodkar": [
+    "Swapnil Asnodkar",
+    "Asnodkar"
+  ],
+  "JR Hopes": [
+    "James Hopes",
+    "Hopes"
+  ],
+  "R Ravindra": [
+    "Rachin Ravindra",
+    "Rachin"
+  ],
+  "J Botha": [
+    "Johan Botha",
+    "botha"
+  ],
+  "LR Shukla": [
+    "Lakshmipathy Balaji",
+    "shukla"
+  ],
+  "AL Menaria": [
+    "Ankur Menaria",
+    "Menaria"
+  ],
+  "MV Boucher": [
+    "Mark Boucher",
+    "Boucher"
+  ],
+  "CA Pujara": [
+    "Cheteshwar Pujara",
+    "Pujara",
+    "cheteshwar"
+  ],
+  "Azhar Mahmood": [
+    "Azhar Mahmood",
+    "Azhar"
+  ],
+  "J Fraser-McGurk": [
+    "Jake Fraser-McGurk",
+    "Fraser-McGurk",
+    "jake"
+  ],
+  "Sameer Rizvi": [
+    "Sameer Rizvi",
+    "Sameer"
+  ],
+  "A Mishra": [
+    "Amit Mishra",
+    "amit mishra",
+    "Mishra"
+  ],
+  "KR Mayers": [
+    "Kyle Mayers",
+    "Mayers"
+  ],
+  "DB Ravi Teja": [
+    "Ravi Teja",
+    "ravi teja"
+  ],
+  "S Sohal": [
+    "Gurjit Sohal",
+    "sohal"
+  ],
+  "P Negi": [
+    "Pawan Negi",
+    "Pawan"
+  ],
+  "Rahmanullah Gurbaz": [
+    "Rahmanullah Gurbaz",
+    "Gurbaz"
+  ],
+  "KV Sharma": [
+    "Karun Sharma",
+    "kv sharma",
+    "Karn Sharma",
+    "karn sharma"
+  ],
+  "DJ Mitchell": [
+    "Daryl Mitchell",
+    "daryl mitchell"
+  ],
+  "R Bhatia": [
+    "Rajat Bhatia",
+    "rajat bhatia"
+  ],
+  "P Kumar": [
+    "Praveen Kumar",
+    "praveen"
+  ],
+  "AP Tare": [
+    "Aditya Tare",
+    "tare"
+  ],
+  "SN Thakur": [
+    "Shardul Thakur",
+    "Shardul",
+    "lord shardul"
+  ],
+  "B Kumar": [
+    "Bhuvneshwar Kumar",
+    "Bhuvneshwar",
+    "Bhuvi"
+  ],
+  "JEC Franklin": [
+    "James Franklin",
+    "franklin"
+  ],
+  "RN ten Doeschate": [
+    "Ryan ten Doeschate",
+    "ten doeschate"
+  ],
+  "Anuj Rawat": [
+    "Anuj Rawat",
+    "Anuj"
+  ],
+  "R Vinay Kumar": [
+    "Vinay Kumar",
+    "vinay"
+  ],
+  "Aniket Verma": [
+    "Aniket Verma",
+    "Aniket"
+  ],
+  "Lalit Yadav": [
+    "Lalit Yadav",
+    "Lalit"
+  ],
+  "DB Das": [
+    "Biplab Das",
+    "db das"
+  ],
+  "C de Grandhomme": [
+    "Colin de Grandhomme",
+    "de grandhomme"
+  ],
+  "LA Pomersbach": [
+    "Luke Pomersbach",
+    "Pomersbach"
+  ],
+  "UBT Chand": [
+    "Unmukt Chand",
+    "Unmukt"
+  ],
+  "Ramandeep Singh": [
+    "Ramandeep Singh",
+    "Ramandeep"
+  ],
+  "DJG Sammy": [
+    "Darren Sammy",
+    "Sammy",
+    "darren"
+  ],
+  "SP Goswami": [
+    "Swapnil Goswami",
+    "goswami"
+  ],
+  "A Manohar": [
+    "Akshay Manohar",
+    "manohar"
+  ],
+  "Y Nagar": [
+    "Yashpal Nagar",
+    "nagar"
+  ],
+  "GH Vihari": [
+    "Hanuma Vihari",
+    "Vihari",
+    "hanuma"
+  ],
+  "JO Holder": [
+    "Jason Holder",
+    "Holder",
+    "jason holder"
+  ],
+  "VVS Laxman": [
+    "VVS Laxman",
+    "Laxman",
+    "very very special"
+  ],
+  "A Ashish Reddy": [
+    "Ashish Reddy",
+    "ashish reddy"
+  ],
+  "B Chipli": [
+    "Balachandra Chipli",
+    "chipli"
+  ],
+  "JP Inglis": [
+    "Josh Inglis",
+    "Inglis"
+  ],
+  "MJ Lumb": [
+    "Michael Lumb",
+    "lumb"
+  ],
+  "PBB Rajapaksa": [
+    "Bhanuka Rajapaksa",
+    "Rajapaksa"
+  ],
+  "JC Archer": [
+    "Jofra Archer",
+    "Archer",
+    "jofra"
+  ],
+  "HV Patel": [
+    "Hiral Patel",
+    "hiral",
+    "Hardik Patel",
+    "hv patel"
+  ],
+  "PK Garg": [
+    "Prabhsimran Garg",
+    "garg"
+  ],
+  "MJ Guptill": [
+    "Martin Guptill",
+    "Guptill",
+    "martin"
+  ],
+  "C Connolly": [
+    "Connor Connolly",
+    "connolly"
+  ],
+  "R Sathish": [
+    "Rajagopal Sathish",
+    "sathish"
+  ],
+  "Atharva Taide": [
+    "Atharva Taide",
+    "Atharva"
+  ],
+  "M Kaif": [
+    "Mohammad Kaif",
+    "Kaif",
+    "mohammad kaif"
+  ],
+  "K Rabada": [
+    "Kagiso Rabada",
+    "Rabada",
+    "KG",
+    "kagiso"
+  ],
+  "K Gowtham": [
+    "Krishnappa Gowtham",
+    "Gowtham"
+  ],
+  "Harpreet Brar": [
+    "Harpreet Brar",
+    "Harpreet"
+  ],
+  "SM Katich": [
+    "Simon Katich",
+    "Katich"
+  ],
+  "BCJ Cutting": [
+    "Ben Cutting",
+    "Cutting",
+    "ben cutting"
+  ],
+  "MD Mishra": [
+    "Mishra md",
+    "md mishra"
+  ],
+  "R Shepherd": [
+    "Romario Shepherd",
+    "Shepherd"
+  ],
+  "Mohammad Nabi": [
+    "Mohammad Nabi",
+    "Nabi"
+  ],
+  "K Goel": [
+    "Kartik Goel",
+    "goel"
+  ],
+  "AA Jhunjhunwala": [
+    "Ankit Jhunjhunwala",
+    "jhunjhunwala"
+  ],
+  "R Dhawan": [
+    "Rahul Dhawan",
+    "r dhawan"
+  ],
+  "Kuldeep Yadav": [
+    "Kuldeep Yadav",
+    "Kuldeep"
+  ],
+  "UT Yadav": [
+    "Umesh Yadav",
+    "Umesh"
+  ],
+  "CA Ingram": [
+    "Colin Ingram",
+    "Ingram"
+  ],
+  "PD Collingwood": [
+    "Paul Collingwood",
+    "Collingwood"
+  ],
+  "JD Unadkat": [
+    "Jaydev Unadkat",
+    "Unadkat",
+    "jaydev"
+  ],
+  "KS Bharat": [
+    "KS Bharat",
+    "bharat"
+  ],
+  "SK Warne": [
+    "Shane Warne",
+    "Warne",
+    "shane warne"
+  ],
+  "SP Fleming": [
+    "Stephen Fleming",
+    "Fleming"
+  ],
+  "AS Raut": [
+    "Aniket Raut",
+    "raut"
+  ],
+  "Salman Butt": [
+    "Salman Butt",
+    "Salman"
+  ],
+  "BJ Rohrer": [
+    "Ben Rohrer",
+    "rohrer"
+  ],
+  "YV Takawale": [
+    "Yogesh Takawale",
+    "takawale"
+  ],
+  "D Ferreira": [
+    "Donavon Ferreira",
+    "ferreira"
+  ],
+  "HC Brook": [
+    "Harry Brook",
+    "Brook",
+    "harry"
+  ],
+  "SB Dubey": [
+    "Shivam Dubey",
+    "shivam dubey"
+  ],
+  "Bipul Sharma": [
+    "Bipul Sharma",
+    "Bipul"
+  ],
+  "MS Wade": [
+    "Matthew Wade",
+    "Wade",
+    "matthew wade"
+  ],
+  "SD Hope": [
+    "Shai Hope",
+    "Hope",
+    "shai"
+  ],
+  "FY Fazal": [
+    "Fazalhaq Farooqi",
+    "fazal"
+  ],
+  "Sikandar Raza": [
+    "Sikandar Raza",
+    "Sikandar"
+  ],
+  "CR Brathwaite": [
+    "Carlos Brathwaite",
+    "Brathwaite"
+  ],
+  "AC Voges": [
+    "Adam Voges",
+    "Voges"
+  ],
+  "S Gopal": [
+    "Shreyas Gopal",
+    "shreyas gopal"
+  ],
+  "AB Agarkar": [
+    "Ajit Agarkar",
+    "Agarkar"
+  ],
+  "C Munro": [
+    "Colin Munro",
+    "Munro",
+    "colin"
+  ],
+  "MF Maharoof": [
+    "Farveez Maharoof",
+    "Maharoof"
+  ],
+  "DH Yagnik": [
+    "Dileep Yagnik",
+    "yagnik"
+  ],
+  "CM Gautam": [
+    "CM Gautam",
+    "cm gautam"
+  ],
+  "DW Steyn": [
+    "Dale Steyn",
+    "Steyn",
+    "dale"
+  ],
+  "MG Johnson": [
+    "Mitchell Johnson",
+    "johnson mitchell"
+  ],
+  "MN van Wyk": [
+    "Morne van Wyk",
+    "van wyk"
+  ],
+  "PA Reddy": [
+    "Ambati Reddy",
+    "pa reddy"
+  ],
+  "N Jagadeesan": [
+    "Narayan Jagadeesan",
+    "Jagadeesan"
+  ],
+  "MN Samuels": [
+    "Marlon Samuels",
+    "Samuels"
+  ],
+  "RE van der Merwe": [
+    "Roelof van der Merwe",
+    "van der merwe"
+  ],
+  "R McLaren": [
+    "Ryan McLaren",
+    "mclaren"
+  ],
+  "MD Choudhary": [
+    "Mohit Choudhary",
+    "mohit"
+  ],
+  "V Nigam": [
+    "Vivek Nigam",
+    "nigam"
+  ],
+  "MW Short": [
+    "Marcus Short",
+    "mw short"
+  ],
+  "J Overton": [
+    "Jamie Overton",
+    "Overton"
+  ],
+  "M Jansen": [
+    "Marco Jansen",
+    "Jansen",
+    "marco"
+  ],
+  "AD Hales": [
+    "Alex Hales",
+    "Hales",
+    "alex"
+  ],
+  "D Wiese": [
+    "David Wiese",
+    "Wiese"
+  ],
+  "P Nissanka": [
+    "Pathum Nissanka",
+    "Nissanka"
+  ],
+  "SM Pollock": [
+    "Shaun Pollock",
+    "Pollock",
+    "shaun pollock"
+  ],
+  "S Vidyut": [
+    "S Vidyut",
+    "vidyut"
+  ],
+  "Sachin Baby": [
+    "Sachin Baby",
+    "sachin baby"
+  ],
+  "N Saini": [
+    "Navdeep Saini",
+    "Navdeep"
+  ],
+  "Anmolpreet Singh": [
+    "Anmolpreet Singh",
+    "Anmolpreet"
+  ],
+  "MJ Santner": [
+    "Mitchell Santner",
+    "Santner"
+  ],
+  "S Anirudha": [
+    "Srikkanth Anirudha",
+    "anirudha"
+  ],
+  "GD Phillips": [
+    "Glenn Phillips",
+    "phillips glenn"
+  ],
+  "SB Styris": [
+    "Scott Styris",
+    "Styris"
+  ],
+  "W Jaffer": [
+    "Wasim Jaffer",
+    "Jaffer",
+    "wasim"
+  ],
+  "RD Chahar": [
+    "Rahul Chahar",
+    "rahul chahar"
+  ],
+  "Kamran Akmal": [
+    "Kamran Akmal",
+    "Kamran"
+  ],
+  "TK Curran": [
+    "Tom Curran",
+    "tom curran"
+  ],
+  "UT Khawaja": [
+    "Usman Khawaja",
+    "Khawaja",
+    "usman"
+  ],
+  "P Dogra": [
+    "Pankaj Dogra",
+    "dogra"
+  ],
+  "M Morkel": [
+    "Morne Morkel",
+    "morne morkel"
+  ],
+  "SS Prabhudessai": [
+    "Suyash Prabhudessai",
+    "prabhudessai"
+  ],
+  "MM Sharma": [
+    "Mohit Sharma",
+    "mohit sharma"
+  ],
+  "MC Juneja": [
+    "Manan Juneja",
+    "juneja"
+  ],
+  "BB Samantray": [
+    "Babasai Samantray",
+    "samantray"
+  ],
+  "B Lee": [
+    "Brett Lee",
+    "Lee",
+    "brett"
+  ],
+  "DL Chahar": [
+    "Deepak Chahar",
+    "Deepak Chahar"
+  ],
+  "Harpreet Singh": [
+    "Harpreet Singh"
+  ],
+  "AB McDonald": [
+    "Andrew McDonald",
+    "andrew mcdonald"
+  ],
+  "DL Vettori": [
+    "Daniel Vettori",
+    "Vettori"
+  ],
+  "NK Patel": [
+    "Nikin Patel",
+    "nikin"
+  ],
+  "TG Southee": [
+    "Tim Southee",
+    "Southee",
+    "tim"
+  ],
+  "AC Blizzard": [
+    "Aiden Blizzard",
+    "blizzard"
+  ],
+  "Arshad Khan": [
+    "Arshad Khan",
+    "arshad"
+  ],
+  "Z Khan": [
+    "Zaheer Khan",
+    "Zaheer"
+  ],
+  "RJ Harris": [
+    "Ryan Harris",
+    "ryan harris"
+  ],
+  "Misbah-ul-Haq": [
+    "Misbah ul Haq",
+    "Misbah"
+  ],
+  "KK Cooper": [
+    "Kevon Cooper",
+    "cooper"
+  ],
+  "DJM Short": [
+    "D'Arcy Short",
+    "darcy short"
+  ],
+  "Aman Hakim Khan": [
+    "Aman Hakim Khan",
+    "aman"
+  ],
+  "Mohammed Shami": [
+    "Mohammed Shami",
+    "Shami",
+    "mohammad shami"
+  ],
+  "M Kartik": [
+    "Murali Kartik",
+    "kartik"
+  ],
+  "Mohammed Siraj": [
+    "Mohammed Siraj",
+    "Siraj",
+    "mohammad siraj"
+  ],
+  "MA Starc": [
+    "Mitchell Starc",
+    "Starc",
+    "mitchell"
+  ],
+  "JDP Oram": [
+    "Jacob Oram",
+    "oram"
+  ],
+  "LJ Wright": [
+    "Luke Wright",
+    "wright luke"
+  ],
+  "DS Kulkarni": [
+    "Dhawal Kulkarni",
+    "dhawal"
+  ],
+  "RJ Quiney": [
+    "Rob Quiney",
+    "quiney"
+  ],
+  "YS Chahal": [
+    "Yuzvendra Chahal",
+    "Chahal",
+    "yuzvendra"
+  ],
+  "JJ Bumrah": [
+    "Jasprit Bumrah",
+    "Bumrah",
+    "Jassi",
+    "jasprit"
+  ],
+  "SL Malinga": [
+    "Lasith Malinga",
+    "Malinga",
+    "lasith",
+    "slinga malinga"
+  ],
+  "Sandeep Sharma": [
+    "Sandeep Sharma",
+    "Sandeep"
+  ],
+  "TA Boult": [
+    "Trent Boult",
+    "Boult",
+    "trent"
+  ],
+  "CV Varun": [
+    "Varun Chakravarthy",
+    "Varun",
+    "varun chakravarthy"
+  ],
+  "A Nehra": [
+    "Ashish Nehra",
+    "Nehra",
+    "ashish"
+  ],
+  "Arshdeep Singh": [
+    "Arshdeep Singh",
+    "Arshdeep"
+  ],
+  "I Sharma": [
+    "Ishant Sharma",
+    "Ishant"
+  ],
+  "Avesh Khan": [
+    "Avesh Khan",
+    "Avesh"
+  ],
+  "KK Ahmed": [
+    "Kamran Khan",
+    "kk ahmed"
+  ],
+  "RP Singh": [
+    "RP Singh",
+    "rp singh"
+  ],
+  "PP Ojha": [
+    "Pragyan Ojha",
+    "Ojha",
+    "pragyan"
+  ],
+  "M Prasidh Krishna": [
+    "Prasidh Krishna",
+    "Prasidh",
+    "prasidh krishna"
+  ],
+  "Ravi Bishnoi": [
+    "Ravi Bishnoi",
+    "bishnoi"
+  ],
+  "Imran Tahir": [
+    "Imran Tahir",
+    "Tahir",
+    "imran"
+  ],
+  "L Balaji": [
+    "Lakshmipathy Balaji",
+    "Balaji"
+  ],
+  "MM Patel": [
+    "Munaf Patel",
+    "Munaf",
+    "munaf patel"
+  ],
+  "T Natarajan": [
+    "T Natarajan",
+    "Natarajan",
+    "nattu"
+  ],
+  "MJ McClenaghan": [
+    "Mitchell McClenaghan",
+    "McClenaghan",
+    "mitchell"
+  ],
+  "AB Dinda": [
+    "Ashok Dinda",
+    "Dinda",
+    "ashok dinda"
+  ],
+  "Mustafizur Rahman": [
+    "Mustafizur Rahman",
+    "Mustafizur",
+    "fizz"
+  ],
+  "JR Hazlewood": [
+    "Josh Hazlewood",
+    "Hazlewood",
+    "josh"
+  ],
+  "SK Trivedi": [
+    "Siddarth Trivedi",
+    "trivedi"
+  ],
+  "M Muralitharan": [
+    "Muttiah Muralitharan",
+    "Murali",
+    "muralitharan"
+  ],
+  "A Nortje": [
+    "Anrich Nortje",
+    "nortje"
+  ],
+  "S Kaul": [
+    "Siddarth Kaul",
+    "siddarth kaul"
+  ],
+  "Noor Ahmad": [
+    "Noor Ahmad",
+    "Noor"
+  ],
+  "TU Deshpande": [
+    "Tushar Deshpande",
+    "tushar deshpande"
+  ],
+  "LH Ferguson": [
+    "Lockie Ferguson",
+    "Ferguson",
+    "lockie"
+  ],
+  "NM Coulter-Nile": [
+    "Nathan Coulter-Nile",
+    "Coulter-Nile",
+    "nathan"
+  ],
+  "S Nadeem": [
+    "Shahbaz Nadeem",
+    "Nadeem",
+    "shahbaz nadeem"
+  ],
+  "SB Jakati": [
+    "Shadab Jakati",
+    "jakati"
+  ],
+  "M Pathirana": [
+    "Matheesha Pathirana",
+    "pathirana"
+  ],
+  "PWH de Silva": [
+    "Wanindu Hasaranga",
+    "Hasaranga",
+    "wanindu"
+  ],
+  "A Kumble": [
+    "Anil Kumble",
+    "Kumble",
+    "anil"
+  ],
+  "S Aravind": [
+    "S Aravind",
+    "aravind"
+  ],
+  "VG Arora": [
+    "Vaibhav Arora",
+    "vaibhav arora"
+  ],
+  "VR Aaron": [
+    "Varun Aaron",
+    "varun aaron"
+  ],
+  "AJ Tye": [
+    "Andrew Tye",
+    "tye",
+    "andrew tye"
+  ],
+  "Mukesh Kumar": [
+    "Mukesh Kumar",
+    "Mukesh"
+  ],
+  "Yash Dayal": [
+    "Yash Dayal",
+    "yash dayal"
+  ],
+  "S Sreesanth": [
+    "S Sreesanth",
+    "Sreesanth"
+  ],
+  "Iqbal Abdulla": [
+    "Iqbal Abdulla",
+    "iqbal abdulla"
+  ],
+  "R Sharma": [
+    "Rohit Sharma",
+    "rohit"
+  ],
+  "Harshit Rana": [
+    "Harshit Rana",
+    "harshit rana"
+  ],
+  "P Awana": [
+    "Parvinder Awana",
+    "awana"
+  ],
+  "PJ Sangwan": [
+    "Pradeep Sangwan",
+    "sangwan"
+  ],
+  "DE Bollinger": [
+    "Doug Bollinger",
+    "Bollinger",
+    "bollinger"
+  ],
+  "MS Gony": [
+    "Manpreet Gony",
+    "gony"
+  ],
+  "M Markande": [
+    "Mayank Markande",
+    "markande"
+  ],
+  "L Ngidi": [
+    "Lungi Ngidi",
+    "Ngidi",
+    "lungi"
+  ],
+  "Mohsin Khan": [
+    "Mohsin Khan",
+    "mohsin khan"
+  ],
+  "M Theekshana": [
+    "Maheesh Theekshana",
+    "theekshana"
+  ],
+  "M Ashwin": [
+    "Murugan Ashwin",
+    "murugan ashwin"
+  ],
+  "WD Parnell": [
+    "Wayne Parnell",
+    "Parnell",
+    "wayne"
+  ],
+  "R Sai Kishore": [
+    "R Sai Kishore",
+    "sai kishore"
+  ],
+  "A Zampa": [
+    "Adam Zampa",
+    "zampa"
+  ],
+  "CJ Jordan": [
+    "Chris Jordan",
+    "jordan chris"
+  ],
+  "CR Woakes": [
+    "Chris Woakes",
+    "Woakes",
+    "chris woakes"
+  ],
+  "Shivam Mavi": [
+    "Shivam Mavi",
+    "mavi"
+  ],
+  "Umran Malik": [
+    "Umran Malik",
+    "umran"
+  ],
+  "DP Nannes": [
+    "Dirk Nannes",
+    "nannes"
+  ],
+  "PV Tambe": [
+    "Pravin Tambe",
+    "tambe"
+  ],
+  "Naveen-ul-Haq": [
+    "Naveen ul Haq",
+    "naveen"
+  ],
+  "Navdeep Saini": [
+    "Navdeep Saini",
+    "Navdeep"
+  ],
+  "Suyash Sharma": [
+    "Suyash Sharma",
+    "suyash sharma"
+  ],
+  "Akash Madhwal": [
+    "Akash Madhwal",
+    "madhwal"
+  ],
+  "AS Rajpoot": [
+    "Ankit Rajpoot",
+    "rajpoot"
+  ],
+  "Kartik Tyagi": [
+    "Kartik Tyagi",
+    "kartik tyagi"
+  ],
+  "Vijaykumar Vyshak": [
+    "Vijaykumar Vyshak",
+    "vyshak"
+  ],
+  "Sohail Tanvir": [
+    "Sohail Tanvir",
+    "sohail"
+  ],
+  "Basil Thampi": [
+    "Basil Thampi",
+    "basil thampi"
+  ],
+  "Mujeeb Ur Rahman": [
+    "Mujeeb Ur Rahman",
+    "Mujeeb"
+  ],
+  "Mukesh Choudhary": [
+    "Mukesh Choudhary",
+    "mukesh choudhary"
+  ],
+  "KA Jamieson": [
+    "Kyle Jamieson",
+    "Jamieson",
+    "kyle"
+  ],
+  "DR Sams": [
+    "Daniel Sams",
+    "sams"
+  ],
+  "CK Langeveldt": [
+    "Charl Langeveldt",
+    "langeveldt"
+  ],
+  "PVD Chameera": [
+    "Dushmantha Chameera",
+    "Chameera"
+  ],
+  "S Lamichhane": [
+    "Sandeep Lamichhane",
+    "Lamichhane"
+  ],
+  "Azmatullah Omarzai": [
+    "Azmatullah Omarzai",
+    "Omarzai"
+  ],
+  "Umar Gul": [
+    "Umar Gul",
+    "umar gul"
+  ],
+  "GD McGrath": [
+    "Glenn McGrath",
+    "McGrath",
+    "pigeon"
+  ],
+  "Joginder Sharma": [
+    "Joginder Sharma",
+    "joginder"
+  ],
+  "MA Wood": [
+    "Mark Wood",
+    "Wood",
+    "mark wood"
+  ],
+  "OC McCoy": [
+    "Obed McCoy",
+    "mccoy"
+  ],
+  "Akash Deep": [
+    "Akash Deep",
+    "akash deep"
+  ],
+  "SE Bond": [
+    "Shane Bond",
+    "Bond",
+    "shane bond"
+  ],
+  "Shahid Afridi": [
+    "Shahid Afridi",
+    "Afridi",
+    "boom boom"
+  ],
+  "IS Sodhi": [
+    "Ish Sodhi",
+    "Sodhi"
+  ],
+  "Fazalhaq Farooqi": [
+    "Fazalhaq Farooqi",
+    "Farooqi"
+  ],
+  "JE Taylor": [
+    "Jerome Taylor",
+    "jerome taylor"
+  ],
+  "DJ Willey": [
+    "David Willey",
+    "Willey"
+  ],
+  "SS Cottrell": [
+    "Sheldon Cottrell",
+    "Cottrell"
+  ],
+  "KMDN Kulasekara": [
+    "Nuwan Kulasekara",
+    "Kulasekara"
+  ],
+  "RJW Topley": [
+    "Reece Topley",
+    "Topley"
+  ],
+  "KL Nagarkoti": [
+    "Kamlesh Nagarkoti",
+    "Nagarkoti"
+  ],
+  "Yash Thakur": [
+    "Yash Thakur",
+    "yash thakur"
+  ],
+  "Karanveer Singh": [
+    "Karanveer Singh",
+    "karanveer"
+  ],
+  "Simarjeet Singh": [
+    "Simarjeet Singh",
+    "simarjeet"
+  ],
+  "G Coetzee": [
+    "Gerald Coetzee",
+    "Coetzee"
+  ],
+  "C Sakariya": [
+    "Chetan Sakariya",
+    "sakariya"
+  ],
+  "AS Joseph": [
+  "Alzarri Joseph",
+  "joseph"
+  ],
+  "FH Allen": [
+  "Fin Allen",
+  "Allen"
+  ],
+  "JG Bethell": [
+  "Jacob Bethell",
+  "Bethell"
+  ],
+  "S Arora": [
+  "Salil Arora",
+  "Arora"
+  ],
+  "A Kamboj": [
+  "Anshul Kamboj",
+  "Kamboj"
+  ],
+  "A Chandila": [
+  "Ajit Chandila",
+  "Chandila"
+  ],
+  "AD Mascarenhas": [
+  "Dimitri Mascarenhas",
+  "Mascarenhas"
+  ],
+  "E Malinga": [
+  "Eshan Malinga",
+  "Malinga"
+  ]
+
+}

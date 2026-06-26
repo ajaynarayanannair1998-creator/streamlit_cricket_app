@@ -1,0 +1,1359 @@
+{
+    "team": {
+        "Kolkata Knight Riders": {
+            "overall": {
+                "total_wins": 140,
+                "total_matches": 278,
+                "win_%": 50.36,
+                "first_year": "2007",
+                "last_year": "2026",
+                "best_season": "2012",
+                "champions": [
+                    "2012",
+                    "2014",
+                    "2024"
+                ],
+                "most_runs_player": "Gautam Gambhir (3000+ runs)",
+                "best_team_score": 272,
+                "most_wickets_player": "Sunil Narine (200+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2007",
+                    "wins": 6,
+                    "matches": 13,
+                    "win%": 46.15,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2009",
+                    "wins": 10,
+                    "matches": 27,
+                    "win%": 37.04,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2011",
+                    "wins": 8,
+                    "matches": 15,
+                    "win%": 53.33,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2012",
+                    "wins": 12,
+                    "matches": 17,
+                    "win%": 70.59,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2013",
+                    "wins": 6,
+                    "matches": 16,
+                    "win%": 37.5,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2014",
+                    "wins": 11,
+                    "matches": 16,
+                    "win%": 68.75,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2015",
+                    "wins": 7,
+                    "matches": 13,
+                    "win%": 53.85,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2016",
+                    "wins": 8,
+                    "matches": 15,
+                    "win%": 53.33,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2017",
+                    "wins": 9,
+                    "matches": 16,
+                    "win%": 56.25,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2018",
+                    "wins": 9,
+                    "matches": 16,
+                    "win%": 56.25,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2019",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2020",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2021",
+                    "wins": 9,
+                    "matches": 17,
+                    "win%": 52.94,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2022",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2023",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2024",
+                    "wins": 11,
+                    "matches": 14,
+                    "win%": 78.57,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2025",
+                    "wins": 5,
+                    "matches": 13,
+                    "win%": 38.46,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2026",
+                    "wins": 5,
+                    "matches": 14,
+                    "win%": 35.71,
+                    "result": "League stage"
+                }
+            ]
+        },
+        "Royal Challengers Bengaluru": {
+            "overall": {
+                "total_wins": 143,
+                "total_matches": 286,
+                "win_%": 50.0,
+                "first_year": "2007",
+                "last_year": "2026",
+                "best_season": "2009",
+                "champions": [
+                    "2025",
+                    "2026"
+                ],
+                "most_runs_player": "Virat Kohli (9300+ runs)",
+                "best_team_score": 263,
+                "most_wickets_player": "Yuzvendra Chahal (130+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2007",
+                    "wins": 4,
+                    "matches": 14,
+                    "win%": 28.57,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2009",
+                    "wins": 17,
+                    "matches": 32,
+                    "win%": 53.12,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2011",
+                    "wins": 10,
+                    "matches": 16,
+                    "win%": 62.5,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2012",
+                    "wins": 8,
+                    "matches": 15,
+                    "win%": 53.33,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2013",
+                    "wins": 8,
+                    "matches": 16,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2014",
+                    "wins": 5,
+                    "matches": 14,
+                    "win%": 35.71,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2015",
+                    "wins": 8,
+                    "matches": 16,
+                    "win%": 50.0,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2016",
+                    "wins": 9,
+                    "matches": 16,
+                    "win%": 56.25,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2017",
+                    "wins": 3,
+                    "matches": 13,
+                    "win%": 23.08,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2018",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2019",
+                    "wins": 5,
+                    "matches": 14,
+                    "win%": 35.71,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2020",
+                    "wins": 6,
+                    "matches": 15,
+                    "win%": 40.0,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2021",
+                    "wins": 9,
+                    "matches": 15,
+                    "win%": 60.0,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2022",
+                    "wins": 9,
+                    "matches": 16,
+                    "win%": 56.25,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2023",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2024",
+                    "wins": 7,
+                    "matches": 15,
+                    "win%": 46.67,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2025",
+                    "wins": 11,
+                    "matches": 15,
+                    "win%": 73.33,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2026",
+                    "wins": 11,
+                    "matches": 16,
+                    "win%": 68.75,
+                    "result": "Champions"
+                }
+            ]
+        },
+        "Chennai Super Kings": {
+            "overall": {
+                "total_wins": 148,
+                "total_matches": 266,
+                "win_%": 55.64,
+                "first_year": "2007",
+                "last_year": "2026",
+                "best_season": "2009",
+                "champions": [
+                    "2009",
+                    "2011",
+                    "2018",
+                    "2021",
+                    "2023"
+                ],
+                "most_runs_player": "MS Dhoni (4800+ runs)",
+                "best_team_score": 246,
+                "most_wickets_player": "Ravindra Jadeja (140+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2007",
+                    "wins": 9,
+                    "matches": 16,
+                    "win%": 56.25,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2009",
+                    "wins": 17,
+                    "matches": 30,
+                    "win%": 56.67,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2011",
+                    "wins": 11,
+                    "matches": 16,
+                    "win%": 68.75,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2012",
+                    "wins": 10,
+                    "matches": 18,
+                    "win%": 55.56,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2013",
+                    "wins": 12,
+                    "matches": 18,
+                    "win%": 66.67,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2014",
+                    "wins": 10,
+                    "matches": 16,
+                    "win%": 62.5,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2015",
+                    "wins": 10,
+                    "matches": 17,
+                    "win%": 58.82,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2018",
+                    "wins": 11,
+                    "matches": 16,
+                    "win%": 68.75,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2019",
+                    "wins": 10,
+                    "matches": 17,
+                    "win%": 58.82,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2020",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2021",
+                    "wins": 11,
+                    "matches": 16,
+                    "win%": 68.75,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2022",
+                    "wins": 4,
+                    "matches": 14,
+                    "win%": 28.57,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2023",
+                    "wins": 10,
+                    "matches": 16,
+                    "win%": 62.5,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2024",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2025",
+                    "wins": 4,
+                    "matches": 14,
+                    "win%": 28.57,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2026",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                }
+            ]
+        },
+        "Punjab Kings": {
+            "overall": {
+                "total_wins": 126,
+                "total_matches": 278,
+                "win_%": 45.32,
+                "first_year": "2007",
+                "last_year": "2026",
+                "best_season": "2014",
+                "champions": [],
+                "most_runs_player": "KL Rahul (2500+ runs)",
+                "best_team_score": 265,
+                "most_wickets_player": "Arshdeep Singh (110+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2007",
+                    "wins": 10,
+                    "matches": 15,
+                    "win%": 66.67,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2009",
+                    "wins": 10,
+                    "matches": 28,
+                    "win%": 35.71,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2011",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2012",
+                    "wins": 8,
+                    "matches": 16,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2013",
+                    "wins": 8,
+                    "matches": 16,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2014",
+                    "wins": 12,
+                    "matches": 17,
+                    "win%": 70.59,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2015",
+                    "wins": 2,
+                    "matches": 14,
+                    "win%": 14.29,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2016",
+                    "wins": 4,
+                    "matches": 14,
+                    "win%": 28.57,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2017",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2018",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2019",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2020",
+                    "wins": 5,
+                    "matches": 14,
+                    "win%": 35.71,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2021",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2022",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2023",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2024",
+                    "wins": 5,
+                    "matches": 14,
+                    "win%": 35.71,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2025",
+                    "wins": 10,
+                    "matches": 18,
+                    "win%": 55.56,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2026",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                }
+            ]
+        },
+        "Rajasthan Royals": {
+            "overall": {
+                "total_wins": 123,
+                "total_matches": 251,
+                "win_%": 49.0,
+                "first_year": "2007",
+                "last_year": "2026",
+                "best_season": "2007",
+                "champions": [
+                    "2007"
+                ],
+                "most_runs_player": "Sanju Samson (4000+ runs)",
+                "best_team_score": 243,
+                "most_wickets_player": "Jofra Archer (80+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2007",
+                    "wins": 13,
+                    "matches": 16,
+                    "win%": 81.25,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2009",
+                    "wins": 11,
+                    "matches": 27,
+                    "win%": 40.74,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2011",
+                    "wins": 6,
+                    "matches": 13,
+                    "win%": 46.15,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2012",
+                    "wins": 7,
+                    "matches": 16,
+                    "win%": 43.75,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2013",
+                    "wins": 11,
+                    "matches": 18,
+                    "win%": 61.11,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2014",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2015",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2018",
+                    "wins": 7,
+                    "matches": 15,
+                    "win%": 46.67,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2019",
+                    "wins": 5,
+                    "matches": 14,
+                    "win%": 35.71,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2020",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2021",
+                    "wins": 5,
+                    "matches": 14,
+                    "win%": 35.71,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2022",
+                    "wins": 10,
+                    "matches": 17,
+                    "win%": 58.82,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2023",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2024",
+                    "wins": 9,
+                    "matches": 15,
+                    "win%": 60.0,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2025",
+                    "wins": 4,
+                    "matches": 14,
+                    "win%": 28.57,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2026",
+                    "wins": 9,
+                    "matches": 16,
+                    "win%": 56.25,
+                    "result": "Playoffs"
+                }
+            ]
+        },
+        "Delhi Capitals": {
+            "overall": {
+                "total_wins": 125,
+                "total_matches": 281,
+                "win_%": 44.48,
+                "first_year": "2007",
+                "last_year": "2026",
+                "best_season": "2009",
+                "champions": [],
+                "most_runs_player": "Rishabh Pant (3200+ runs)",
+                "best_team_score": 264,
+                "most_wickets_player": "Amit Mishra (100+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2007",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2009",
+                    "wins": 17,
+                    "matches": 29,
+                    "win%": 58.62,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2011",
+                    "wins": 4,
+                    "matches": 14,
+                    "win%": 28.57,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2012",
+                    "wins": 11,
+                    "matches": 18,
+                    "win%": 61.11,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2013",
+                    "wins": 3,
+                    "matches": 16,
+                    "win%": 18.75,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2014",
+                    "wins": 2,
+                    "matches": 14,
+                    "win%": 14.29,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2015",
+                    "wins": 5,
+                    "matches": 14,
+                    "win%": 35.71,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2016",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2017",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2018",
+                    "wins": 5,
+                    "matches": 14,
+                    "win%": 35.71,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2019",
+                    "wins": 9,
+                    "matches": 16,
+                    "win%": 56.25,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2020",
+                    "wins": 8,
+                    "matches": 17,
+                    "win%": 47.06,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2021",
+                    "wins": 9,
+                    "matches": 16,
+                    "win%": 56.25,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2022",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2023",
+                    "wins": 5,
+                    "matches": 14,
+                    "win%": 35.71,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2024",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2025",
+                    "wins": 6,
+                    "matches": 15,
+                    "win%": 40.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2026",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                }
+            ]
+        },
+        "Mumbai Indians": {
+            "overall": {
+                "total_wins": 155,
+                "total_matches": 291,
+                "win_%": 53.26,
+                "first_year": "2007",
+                "last_year": "2026",
+                "best_season": "2009",
+                "champions": [
+                    "2013",
+                    "2015",
+                    "2017",
+                    "2019",
+                    "2020"
+                ],
+                "most_runs_player": "Rohit Sharma (6100+ runs)",
+                "best_team_score": 247,
+                "most_wickets_player": "Jasprit Bumrah (180+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2007",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2009",
+                    "wins": 16,
+                    "matches": 29,
+                    "win%": 55.17,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2011",
+                    "wins": 10,
+                    "matches": 16,
+                    "win%": 62.5,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2012",
+                    "wins": 10,
+                    "matches": 17,
+                    "win%": 58.82,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2013",
+                    "wins": 13,
+                    "matches": 19,
+                    "win%": 68.42,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2014",
+                    "wins": 7,
+                    "matches": 15,
+                    "win%": 46.67,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2015",
+                    "wins": 10,
+                    "matches": 16,
+                    "win%": 62.5,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2016",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2017",
+                    "wins": 11,
+                    "matches": 17,
+                    "win%": 64.71,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2018",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2019",
+                    "wins": 10,
+                    "matches": 16,
+                    "win%": 62.5,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2020",
+                    "wins": 11,
+                    "matches": 16,
+                    "win%": 68.75,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2021",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2022",
+                    "wins": 4,
+                    "matches": 14,
+                    "win%": 28.57,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2023",
+                    "wins": 9,
+                    "matches": 16,
+                    "win%": 56.25,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2024",
+                    "wins": 4,
+                    "matches": 14,
+                    "win%": 28.57,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2025",
+                    "wins": 9,
+                    "matches": 16,
+                    "win%": 56.25,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2026",
+                    "wins": 4,
+                    "matches": 14,
+                    "win%": 28.57,
+                    "result": "League stage"
+                }
+            ]
+        },
+        "Sunrisers Hyderabad": {
+            "overall": {
+                "total_wins": 131,
+                "total_matches": 286,
+                "win_%": 45.8,
+                "first_year": "2007",
+                "last_year": "2026",
+                "best_season": "2009",
+                "champions": [
+                    "2016"
+                ],
+                "most_runs_player": "David Warner (4000+ runs)",
+                "best_team_score": 287,
+                "most_wickets_player": "Bhuvneshwar Kumar (150+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2007",
+                    "wins": 2,
+                    "matches": 14,
+                    "win%": 14.29,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2009",
+                    "wins": 17,
+                    "matches": 32,
+                    "win%": 53.12,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2011",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2012",
+                    "wins": 4,
+                    "matches": 15,
+                    "win%": 26.67,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2013",
+                    "wins": 9,
+                    "matches": 17,
+                    "win%": 52.94,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2014",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2015",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2016",
+                    "wins": 11,
+                    "matches": 17,
+                    "win%": 64.71,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2017",
+                    "wins": 8,
+                    "matches": 14,
+                    "win%": 57.14,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2018",
+                    "wins": 10,
+                    "matches": 17,
+                    "win%": 58.82,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2019",
+                    "wins": 6,
+                    "matches": 15,
+                    "win%": 40.0,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2020",
+                    "wins": 8,
+                    "matches": 16,
+                    "win%": 50.0,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2021",
+                    "wins": 3,
+                    "matches": 14,
+                    "win%": 21.43,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2022",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2023",
+                    "wins": 4,
+                    "matches": 14,
+                    "win%": 28.57,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2024",
+                    "wins": 9,
+                    "matches": 16,
+                    "win%": 56.25,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2025",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2026",
+                    "wins": 9,
+                    "matches": 15,
+                    "win%": 60.0,
+                    "result": "Playoffs"
+                }
+            ]
+        },
+        "Kochi Tuskers Kerala": {
+            "overall": {
+                "total_wins": 6,
+                "total_matches": 14,
+                "win_%": 42.86,
+                "first_year": "2011",
+                "last_year": "2011",
+                "best_season": "2011",
+                "champions": [],
+                "most_runs_player": "Brendon McCullum (300+ runs)",
+                "best_team_score": 184,
+                "most_wickets_player": "RP Singh (10+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2011",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                }
+            ]
+        },
+        "Pune Warriors": {
+            "overall": {
+                "total_wins": 12,
+                "total_matches": 46,
+                "win_%": 26.09,
+                "first_year": "2011",
+                "last_year": "2013",
+                "best_season": "2011",
+                "champions": [],
+                "most_runs_player": "Robin Uthappa (1100+ runs)",
+                "best_team_score": 192,
+                "most_wickets_player": "Rohit Sharma (30+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2011",
+                    "wins": 4,
+                    "matches": 14,
+                    "win%": 28.57,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2012",
+                    "wins": 4,
+                    "matches": 16,
+                    "win%": 25.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2013",
+                    "wins": 4,
+                    "matches": 16,
+                    "win%": 25.0,
+                    "result": "League stage"
+                }
+            ]
+        },
+        "Rising Pune Supergiant": {
+            "overall": {
+                "total_wins": 15,
+                "total_matches": 30,
+                "win_%": 50.0,
+                "first_year": "2016",
+                "last_year": "2017",
+                "best_season": "2017",
+                "champions": [],
+                "most_runs_player": "Ajinkya Rahane (800+ runs)",
+                "best_team_score": 195,
+                "most_wickets_player": "Jaydev Unadkat (20+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2016",
+                    "wins": 5,
+                    "matches": 14,
+                    "win%": 35.71,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2017",
+                    "wins": 10,
+                    "matches": 16,
+                    "win%": 62.5,
+                    "result": "Runner-up"
+                }
+            ]
+        },
+        "Gujarat Lions": {
+            "overall": {
+                "total_wins": 13,
+                "total_matches": 30,
+                "win_%": 43.33,
+                "first_year": "2016",
+                "last_year": "2017",
+                "best_season": "2016",
+                "champions": [],
+                "most_runs_player": "Suresh Raina (800+ runs)",
+                "best_team_score": 208,
+                "most_wickets_player": "Dhawal Kulkarni (20+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2016",
+                    "wins": 9,
+                    "matches": 16,
+                    "win%": 56.25,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2017",
+                    "wins": 4,
+                    "matches": 14,
+                    "win%": 28.57,
+                    "result": "League stage"
+                }
+            ]
+        },
+        "Lucknow Super Giants": {
+            "overall": {
+                "total_wins": 34,
+                "total_matches": 72,
+                "win_%": 47.22,
+                "first_year": "2022",
+                "last_year": "2026",
+                "best_season": "2022",
+                "champions": [],
+                "most_runs_player": "Nicholas Pooran (1600+ runs)",
+                "best_team_score": 257,
+                "most_wickets_player": "Ravi Bishnoi (40+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2022",
+                    "wins": 9,
+                    "matches": 15,
+                    "win%": 60.0,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2023",
+                    "wins": 8,
+                    "matches": 15,
+                    "win%": 53.33,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2024",
+                    "wins": 7,
+                    "matches": 14,
+                    "win%": 50.0,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2025",
+                    "wins": 6,
+                    "matches": 14,
+                    "win%": 42.86,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2026",
+                    "wins": 4,
+                    "matches": 14,
+                    "win%": 28.57,
+                    "result": "League stage"
+                }
+            ]
+        },
+        "Gujarat Titans": {
+            "overall": {
+                "total_wins": 47,
+                "total_matches": 77,
+                "win_%": 61.04,
+                "first_year": "2022",
+                "last_year": "2026",
+                "best_season": "2022",
+                "champions": [
+                    "2022"
+                ],
+                "most_runs_player": "Shubman Gill (3100+ runs)",
+                "best_team_score": 233,
+                "most_wickets_player": "Rashid Khan (80+ wickets)"
+            },
+            "season_wise": [
+                {
+                    "year": "2022",
+                    "wins": 12,
+                    "matches": 16,
+                    "win%": 75.0,
+                    "result": "Champions"
+                },
+                {
+                    "year": "2023",
+                    "wins": 11,
+                    "matches": 17,
+                    "win%": 64.71,
+                    "result": "Runner-up"
+                },
+                {
+                    "year": "2024",
+                    "wins": 5,
+                    "matches": 12,
+                    "win%": 41.67,
+                    "result": "League stage"
+                },
+                {
+                    "year": "2025",
+                    "wins": 9,
+                    "matches": 15,
+                    "win%": 60.0,
+                    "result": "Playoffs"
+                },
+                {
+                    "year": "2026",
+                    "wins": 10,
+                    "matches": 17,
+                    "win%": 58.82,
+                    "result": "Runner-up"
+                }
+            ]
+        }
+    }
+}

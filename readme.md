@@ -1,0 +1,88 @@
+﻿﻿IPL Analytics Dashboard
+A comprehensive multi-tab web application for exploring Indian Premier League (IPL) match data — from single-match breakdowns to team playoff predictions and AI-powered player insights.
+
+Features
+### 1. Single Match Analytics
+- Select any IPL match and instantly see team-colored UI that visually maps to each franchise
+- Run rate chart with a **chase tracker** in the 2nd innings — compare the required run rate pace vs. actual runs scored ball-by-ball
+### 2. Stadium Analytics
+- Venue-level breakdowns: average scores, toss impact, win trends, and more
+- Understand how pitch and ground conditions have historically affected outcomes
+### 3. Player analytics with AI Chatbot
+- Detailed player profiles with batting/bowling stats across seasons
+- **AI Chatbot** lets you ask natural language questions like:
+  - *"How does Virat Kohli perform in the powerplay vs. death overs?"*
+  - *"Compare Bumrah and Shami in high-pressure matches"*
+- Built on summarized stat datasets to work within LLM token limits
+### 4. Team Analysis & Playoff Predictor
+- Side-by-side team comparison across key performance metrics
+- **Predictive analytics** model that estimates each team's probability (%) of qualifying for the knockouts based on current standings and form
+### 5. Feedback Form
+- In-app user feedback form to collect suggestions and ratings
+
+## 🛠️ Tech Stack
+
+| Layer      | Technology              |
+|------------|-------------------------|
+| Frontend   | Streamlit, HTML, CSS    |
+| Backend    | Python                  |
+| Database   | SQLite, CSV             |
+| AI/ML      | LLM API (chatbot), custom predictive model |
+
+---
+
+## Installation
+1. Clone the repository ```bash git clone https://github.com/yourusername/your-repo-name.git cd your-repo-name ``` 2. Create a virtual environment (optional)
+2.  ```bash python -m venv venv source venv/bin/activate # Mac/Linux venv\Scripts\activate # Windows ``` 
+3.  Install dependencies ```bash pip install -r requirements.txt ``` 
+4.  Run the app ```bash streamlit run app.py ```
+---
+
+## 📁 Project Structure
+└── my-project/
+    ├── README.md
+    ├── assets/
+    │   ├── style.py
+    │   ├── team1_side_ball.jpg
+    │   └── team2_side_ball.jfif
+    ├── data/
+    │   ├── datasets/
+    │   │   ├── batter_knockout.csv
+    │   │   ├── batter_phase.csv
+    │   │   ├── batter_summary.csv
+    │   │   ├── batter_yearly.csv
+    │   │   ├── fixtures.csv
+    │   │   ├── schedule.csv
+    │   │   ├── bowler_phase.csv
+    │   │   ├── bowler_summary.csv
+    │   │   └── bowler_yearly.csv
+    │   ├── cricket.db
+    │   ├── ipl_franchise_perfect_analytics.json
+    │   ├── player_alaises.json
+    │   └── colors.json
+    └── src/
+        ├── tabs/
+        │   ├── single_match.py
+        │   ├── stadium_analysis.py
+        │   ├── feedback.py
+        │   ├── player_stats.py
+        │   └── team_analysis.py
+        ├── build_db.py
+        ├── player_list_and_commentary.py
+        ├── phase_chart.py
+        └── team_wise_data
+
+
+
+##  Development Journey
+This project started as a simple single-match data exploration exercise. Over time it evolved into a full analytics platform — a few things I learned along the way:
+- **Data architecture:** Working directly with CSV files got messy fast. Migrating to SQLite made queries cleaner and the app significantly faster.
+- **AI chatbot constraints:** Passing raw JSON player data to an LLM hit token limits quickly. The fix was pre-processing data into compact summary datasets before sending to the model.
+- **Scope creep (the good kind):** Realizing there was enough data to build stadium analytics, team comparisons, and a playoff predictor turned this into a much richer project than originally planned.
+
+
+##  Data Source
+All the cricket data was used from cricsheet.org
+
+## License
+MIT License — feel free to fork and build on this.
