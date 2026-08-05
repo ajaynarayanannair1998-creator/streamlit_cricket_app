@@ -1,0 +1,3648 @@
+{
+    "Sunrisers Hyderabad": {
+        "overall": {
+            "total_matches": 211,
+            "total_wins": 102,
+            "win_pct": 48.34,
+            "first_year": 2013,
+            "last_year": 2026,
+            "best_season": {
+                "year": 2016,
+                "wins": 11
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "DA Warner",
+                "runs": 3961
+            },
+            "most_wickets_player": {
+                "player": "B Kumar",
+                "wickets": 156
+            },
+            "best_team_score": 287
+        },
+        "season_wise": {
+            "2017": {
+                "year": 2017,
+                "wins": 8,
+                "matches": 14,
+                "win_pct": 57.14,
+                "retained_players": [
+                    "A Nehra",
+                    "B Kumar",
+                    "BB Sran",
+                    "BCJ Cutting",
+                    "Bipul Sharma",
+                    "DA Warner",
+                    "DJ Hooda",
+                    "KS Williamson",
+                    "MC Henriques",
+                    "Mustafizur Rahman",
+                    "NV Ojha",
+                    "S Dhawan",
+                    "Yuvraj Singh"
+                ],
+                "result": "Group Stage"
+            },
+            "2018": {
+                "year": 2018,
+                "wins": 10,
+                "matches": 17,
+                "win_pct": 58.82,
+                "retained_players": [
+                    "B Kumar",
+                    "CJ Jordan",
+                    "DJ Hooda",
+                    "KS Williamson",
+                    "Mohammad Nabi",
+                    "Rashid Khan",
+                    "S Dhawan",
+                    "S Kaul"
+                ],
+                "result": "Group Stage"
+            },
+            "2019": {
+                "year": 2019,
+                "wins": 6,
+                "matches": 15,
+                "win_pct": 40.0,
+                "retained_players": [
+                    "B Kumar",
+                    "Basil Thampi",
+                    "DJ Hooda",
+                    "KK Ahmed",
+                    "KS Williamson",
+                    "MK Pandey",
+                    "Mohammad Nabi",
+                    "RK Bhui",
+                    "Rashid Khan",
+                    "S Kaul",
+                    "Sandeep Sharma",
+                    "Shakib Al Hasan",
+                    "WP Saha",
+                    "YK Pathan"
+                ],
+                "result": "Group Stage"
+            },
+            "2020": {
+                "year": 2020,
+                "wins": 8,
+                "matches": 16,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "Abhishek Sharma",
+                    "B Kumar",
+                    "DA Warner",
+                    "JM Bairstow",
+                    "KK Ahmed",
+                    "KS Williamson",
+                    "MK Pandey",
+                    "Mohammad Nabi",
+                    "Rashid Khan",
+                    "S Kaul",
+                    "S Nadeem",
+                    "Sandeep Sharma",
+                    "V Shankar",
+                    "WP Saha"
+                ],
+                "result": "Group Stage"
+            },
+            "2021": {
+                "year": 2021,
+                "wins": 3,
+                "matches": 14,
+                "win_pct": 21.43,
+                "retained_players": [
+                    "Abdul Samad",
+                    "Abhishek Sharma",
+                    "B Kumar",
+                    "DA Warner",
+                    "JM Bairstow",
+                    "JO Holder",
+                    "KK Ahmed",
+                    "KS Williamson",
+                    "MK Pandey",
+                    "Mohammad Nabi",
+                    "PK Garg",
+                    "Rashid Khan",
+                    "S Kaul",
+                    "S Nadeem",
+                    "Sandeep Sharma",
+                    "T Natarajan",
+                    "V Shankar",
+                    "WP Saha"
+                ],
+                "result": "Group Stage"
+            },
+            "2022": {
+                "year": 2022,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "Abdul Samad",
+                    "Abhishek Sharma",
+                    "B Kumar",
+                    "J Suchith",
+                    "KS Williamson",
+                    "PK Garg",
+                    "T Natarajan",
+                    "Umran Malik"
+                ],
+                "result": "Group Stage"
+            },
+            "2023": {
+                "year": 2023,
+                "wins": 4,
+                "matches": 14,
+                "win_pct": 28.57,
+                "retained_players": [
+                    "AK Markram",
+                    "Abdul Samad",
+                    "Abhishek Sharma",
+                    "B Kumar",
+                    "Fazalhaq Farooqi",
+                    "Kartik Tyagi",
+                    "M Jansen",
+                    "RA Tripathi",
+                    "T Natarajan",
+                    "Umran Malik",
+                    "Washington Sundar"
+                ],
+                "result": "Group Stage"
+            },
+            "2024": {
+                "year": 2024,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": [
+                    "AK Markram",
+                    "Abdul Samad",
+                    "Abhishek Sharma",
+                    "Anmolpreet Singh",
+                    "B Kumar",
+                    "H Klaasen",
+                    "M Jansen",
+                    "M Markande",
+                    "MA Agarwal",
+                    "Nithish Kumar Reddy",
+                    "RA Tripathi",
+                    "Sanvir Singh",
+                    "T Natarajan",
+                    "Umran Malik",
+                    "Washington Sundar"
+                ],
+                "result": "Group Stage"
+            },
+            "2025": {
+                "year": 2025,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "Abhishek Sharma",
+                    "H Klaasen",
+                    "JD Unadkat",
+                    "Nithish Kumar Reddy",
+                    "PJ Cummins",
+                    "TM Head"
+                ],
+                "result": "Group Stage"
+            },
+            "2026": {
+                "year": 2026,
+                "wins": 9,
+                "matches": 15,
+                "win_pct": 60.0,
+                "retained_players": [
+                    "Abhishek Sharma",
+                    "Aniket Verma",
+                    "E Malinga",
+                    "H Klaasen",
+                    "HV Patel",
+                    "Harsh Dubey",
+                    "Ishan Kishan",
+                    "JD Unadkat",
+                    "Nithish Kumar Reddy",
+                    "PJ Cummins",
+                    "TM Head"
+                ],
+                "result": "Group Stage"
+            },
+            "2013": {
+                "year": 2013,
+                "wins": 9,
+                "matches": 17,
+                "win_pct": 52.94,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2014": {
+                "year": 2014,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "A Mishra",
+                    "AJ Finch",
+                    "B Kumar",
+                    "DA Warner",
+                    "DJG Sammy",
+                    "DW Steyn",
+                    "IK Pathan",
+                    "JO Holder",
+                    "KL Rahul",
+                    "KV Sharma",
+                    "MC Henriques",
+                    "NV Ojha",
+                    "Parvez Rasool",
+                    "S Dhawan",
+                    "Y Venugopal Rao"
+                ],
+                "result": "Group Stage"
+            },
+            "2015": {
+                "year": 2015,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "B Kumar",
+                    "DA Warner",
+                    "DW Steyn",
+                    "KL Rahul",
+                    "KV Sharma",
+                    "MC Henriques",
+                    "NV Ojha",
+                    "Parvez Rasool",
+                    "S Dhawan"
+                ],
+                "result": "Group Stage"
+            },
+            "2016": {
+                "year": 2016,
+                "wins": 11,
+                "matches": 17,
+                "win_pct": 64.71,
+                "retained_players": [
+                    "A Ashish Reddy",
+                    "B Kumar",
+                    "Bipul Sharma",
+                    "DA Warner",
+                    "EJG Morgan",
+                    "KV Sharma",
+                    "MC Henriques",
+                    "NV Ojha",
+                    "S Dhawan",
+                    "TA Boult"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Royal Challengers Bangalore": {
+        "overall": {
+            "total_matches": 240,
+            "total_wins": 114,
+            "win_pct": 47.5,
+            "first_year": 2008,
+            "last_year": 2023,
+            "best_season": {
+                "year": 2011,
+                "wins": 10
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "V Kohli",
+                "runs": 7122
+            },
+            "most_wickets_player": {
+                "player": "YS Chahal",
+                "wickets": 135
+            },
+            "best_team_score": 263
+        },
+        "season_wise": {
+            "2017": {
+                "year": 2017,
+                "wins": 3,
+                "matches": 13,
+                "win_pct": 23.08,
+                "retained_players": [
+                    "AB de Villiers",
+                    "AF Milne",
+                    "CH Gayle",
+                    "HV Patel",
+                    "Iqbal Abdulla",
+                    "KM Jadhav",
+                    "S Aravind",
+                    "SR Watson",
+                    "STR Binny",
+                    "Sachin Baby",
+                    "TM Head",
+                    "V Kohli",
+                    "YS Chahal"
+                ],
+                "result": "Group Stage"
+            },
+            "2018": {
+                "year": 2018,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "AB de Villiers",
+                    "Mandeep Singh",
+                    "P Negi",
+                    "V Kohli",
+                    "YS Chahal"
+                ],
+                "result": "Group Stage"
+            },
+            "2019": {
+                "year": 2019,
+                "wins": 5,
+                "matches": 14,
+                "win_pct": 35.71,
+                "retained_players": [
+                    "AB de Villiers",
+                    "C de Grandhomme",
+                    "K Khejroliya",
+                    "MM Ali",
+                    "Mohammed Siraj",
+                    "Navdeep Saini",
+                    "P Negi",
+                    "PA Patel",
+                    "S Dube",
+                    "TG Southee",
+                    "UT Yadav",
+                    "V Kohli",
+                    "Washington Sundar",
+                    "YS Chahal"
+                ],
+                "result": "Group Stage"
+            },
+            "2020": {
+                "year": 2020,
+                "wins": 6,
+                "matches": 15,
+                "win_pct": 40.0,
+                "retained_players": [
+                    "AB de Villiers",
+                    "DW Steyn",
+                    "Gurkeerat Singh",
+                    "MM Ali",
+                    "Mohammed Siraj",
+                    "Navdeep Saini",
+                    "S Dube",
+                    "UT Yadav",
+                    "V Kohli",
+                    "Washington Sundar",
+                    "YS Chahal"
+                ],
+                "result": "Group Stage"
+            },
+            "2021": {
+                "year": 2021,
+                "wins": 9,
+                "matches": 15,
+                "win_pct": 60.0,
+                "retained_players": [
+                    "AB de Villiers",
+                    "D Padikkal",
+                    "DT Christian",
+                    "GJ Maxwell",
+                    "HV Patel",
+                    "KA Jamieson",
+                    "Mohammed Siraj",
+                    "Navdeep Saini",
+                    "RM Patidar",
+                    "Shahbaz Ahmed",
+                    "V Kohli",
+                    "Washington Sundar",
+                    "YS Chahal"
+                ],
+                "result": "Group Stage"
+            },
+            "2022": {
+                "year": 2022,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": [
+                    "GJ Maxwell",
+                    "HV Patel",
+                    "Mohammed Siraj",
+                    "PWH de Silva",
+                    "RM Patidar",
+                    "Shahbaz Ahmed",
+                    "V Kohli"
+                ],
+                "result": "Group Stage"
+            },
+            "2023": {
+                "year": 2023,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "Akash Deep",
+                    "Anuj Rawat",
+                    "DJ Willey",
+                    "F du Plessis",
+                    "GJ Maxwell",
+                    "HV Patel",
+                    "JR Hazlewood",
+                    "KD Karthik",
+                    "MK Lomror",
+                    "Mohammed Siraj",
+                    "PWH de Silva",
+                    "SS Prabhudessai",
+                    "Shahbaz Ahmed",
+                    "V Kohli"
+                ],
+                "result": "Group Stage"
+            },
+            "2008": {
+                "year": 2008,
+                "wins": 4,
+                "matches": 14,
+                "win_pct": 28.57,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2009": {
+                "year": 2009,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": [
+                    "A Kumble",
+                    "B Akhil",
+                    "DW Steyn",
+                    "JD Ryder",
+                    "JH Kallis",
+                    "LRPL Taylor",
+                    "MV Boucher",
+                    "P Kumar",
+                    "R Dravid",
+                    "R Vinay Kumar",
+                    "SP Goswami",
+                    "V Kohli",
+                    "W Jaffer"
+                ],
+                "result": "Group Stage"
+            },
+            "2010": {
+                "year": 2010,
+                "wins": 8,
+                "matches": 16,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "A Kumble",
+                    "A Mithun",
+                    "B Akhil",
+                    "DW Steyn",
+                    "JH Kallis",
+                    "KP Appanna",
+                    "KP Pietersen",
+                    "LRPL Taylor",
+                    "MK Pandey",
+                    "MV Boucher",
+                    "P Kumar",
+                    "Pankaj Singh",
+                    "R Dravid",
+                    "R Vinay Kumar",
+                    "RE van der Merwe",
+                    "RV Uthappa",
+                    "SP Goswami",
+                    "V Kohli"
+                ],
+                "result": "Group Stage"
+            },
+            "2011": {
+                "year": 2011,
+                "wins": 10,
+                "matches": 16,
+                "win_pct": 62.5,
+                "retained_players": [
+                    "A Mithun",
+                    "V Kohli"
+                ],
+                "result": "Group Stage"
+            },
+            "2012": {
+                "year": 2012,
+                "wins": 8,
+                "matches": 15,
+                "win_pct": 53.33,
+                "retained_players": [
+                    "A Mithun",
+                    "AB de Villiers",
+                    "AUK Pathan",
+                    "CA Pujara",
+                    "CH Gayle",
+                    "DL Vettori",
+                    "J Syed Mohammad",
+                    "M Kaif",
+                    "MA Agarwal",
+                    "S Aravind",
+                    "SS Tiwary",
+                    "TM Dilshan",
+                    "V Kohli",
+                    "Z Khan"
+                ],
+                "result": "Group Stage"
+            },
+            "2013": {
+                "year": 2013,
+                "wins": 8,
+                "matches": 16,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "A Mithun",
+                    "AB de Villiers",
+                    "CA Pujara",
+                    "CH Gayle",
+                    "DT Christian",
+                    "HV Patel",
+                    "J Syed Mohammad",
+                    "JD Unadkat",
+                    "M Kartik",
+                    "M Muralitharan",
+                    "MA Agarwal",
+                    "R Vinay Kumar",
+                    "S Aravind",
+                    "SS Tiwary",
+                    "TM Dilshan",
+                    "V Kohli",
+                    "Z Khan"
+                ],
+                "result": "Group Stage"
+            },
+            "2014": {
+                "year": 2014,
+                "wins": 5,
+                "matches": 14,
+                "win_pct": 35.71,
+                "retained_players": [
+                    "AB Dinda",
+                    "AB de Villiers",
+                    "AN Ahmed",
+                    "CH Gayle",
+                    "HV Patel",
+                    "JA Morkel",
+                    "M Muralitharan",
+                    "MA Starc",
+                    "PA Patel",
+                    "R Rampaul",
+                    "RR Rossouw",
+                    "S Rana",
+                    "V Kohli",
+                    "VR Aaron",
+                    "YS Chahal",
+                    "YV Takawale",
+                    "Yuvraj Singh"
+                ],
+                "result": "Group Stage"
+            },
+            "2015": {
+                "year": 2015,
+                "wins": 8,
+                "matches": 16,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "AB Dinda",
+                    "AB de Villiers",
+                    "AN Ahmed",
+                    "CH Gayle",
+                    "HV Patel",
+                    "MA Starc",
+                    "V Kohli",
+                    "VR Aaron",
+                    "YS Chahal"
+                ],
+                "result": "Group Stage"
+            },
+            "2016": {
+                "year": 2016,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": [
+                    "AB de Villiers",
+                    "CH Gayle",
+                    "D Wiese",
+                    "HV Patel",
+                    "Iqbal Abdulla",
+                    "S Aravind",
+                    "SN Khan",
+                    "V Kohli",
+                    "VR Aaron",
+                    "YS Chahal"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Rising Pune Supergiant": {
+        "overall": {
+            "total_matches": 16,
+            "total_wins": 10,
+            "win_pct": 62.5,
+            "first_year": 2017,
+            "last_year": 2017,
+            "best_season": {
+                "year": 2017,
+                "wins": 10
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "SPD Smith",
+                "runs": 472
+            },
+            "most_wickets_player": {
+                "player": "JD Unadkat",
+                "wickets": 24
+            },
+            "best_team_score": 187
+        },
+        "season_wise": {
+            "2017": {
+                "year": 2017,
+                "wins": 10,
+                "matches": 16,
+                "win_pct": 62.5,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Mumbai Indians": {
+        "overall": {
+            "total_matches": 291,
+            "total_wins": 155,
+            "win_pct": 53.26,
+            "first_year": 2008,
+            "last_year": 2026,
+            "best_season": {
+                "year": 2013,
+                "wins": 13
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "RG Sharma",
+                "runs": 6113
+            },
+            "most_wickets_player": {
+                "player": "JJ Bumrah",
+                "wickets": 180
+            },
+            "best_team_score": 247
+        },
+        "season_wise": {
+            "2017": {
+                "year": 2017,
+                "wins": 11,
+                "matches": 17,
+                "win_pct": 64.71,
+                "retained_players": [
+                    "AT Rayudu",
+                    "HH Pandya",
+                    "Harbhajan Singh",
+                    "JC Buttler",
+                    "JJ Bumrah",
+                    "KA Pollard",
+                    "KH Pandya",
+                    "LMP Simmons",
+                    "MJ McClenaghan",
+                    "N Rana",
+                    "PA Patel",
+                    "R Vinay Kumar",
+                    "RG Sharma",
+                    "TG Southee"
+                ],
+                "result": "Group Stage"
+            },
+            "2018": {
+                "year": 2018,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "HH Pandya",
+                    "JJ Bumrah",
+                    "KA Pollard",
+                    "KH Pandya",
+                    "MJ McClenaghan",
+                    "RG Sharma"
+                ],
+                "result": "Group Stage"
+            },
+            "2019": {
+                "year": 2019,
+                "wins": 10,
+                "matches": 16,
+                "win_pct": 62.5,
+                "retained_players": [
+                    "BCJ Cutting",
+                    "E Lewis",
+                    "HH Pandya",
+                    "Ishan Kishan",
+                    "JJ Bumrah",
+                    "KA Pollard",
+                    "KH Pandya",
+                    "M Markande",
+                    "MJ McClenaghan",
+                    "RG Sharma",
+                    "SA Yadav"
+                ],
+                "result": "Group Stage"
+            },
+            "2020": {
+                "year": 2020,
+                "wins": 11,
+                "matches": 16,
+                "win_pct": 68.75,
+                "retained_players": [
+                    "HH Pandya",
+                    "Ishan Kishan",
+                    "J Yadav",
+                    "JJ Bumrah",
+                    "JL Pattinson",
+                    "KA Pollard",
+                    "KH Pandya",
+                    "Q de Kock",
+                    "RD Chahar",
+                    "RG Sharma",
+                    "SA Yadav",
+                    "TA Boult"
+                ],
+                "result": "Group Stage"
+            },
+            "2021": {
+                "year": 2021,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "DS Kulkarni",
+                    "HH Pandya",
+                    "Ishan Kishan",
+                    "J Yadav",
+                    "JJ Bumrah",
+                    "KA Pollard",
+                    "KH Pandya",
+                    "M Jansen",
+                    "NM Coulter-Nile",
+                    "Q de Kock",
+                    "RD Chahar",
+                    "RG Sharma",
+                    "SA Yadav",
+                    "SS Tiwary",
+                    "TA Boult"
+                ],
+                "result": "Group Stage"
+            },
+            "2022": {
+                "year": 2022,
+                "wins": 4,
+                "matches": 14,
+                "win_pct": 28.57,
+                "retained_players": [
+                    "Anmolpreet Singh",
+                    "Basil Thampi",
+                    "DR Sams",
+                    "Ishan Kishan",
+                    "JJ Bumrah",
+                    "KA Pollard",
+                    "M Ashwin",
+                    "RG Sharma",
+                    "SA Yadav",
+                    "TS Mills"
+                ],
+                "result": "Group Stage"
+            },
+            "2023": {
+                "year": 2023,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": [
+                    "HR Shokeen",
+                    "Ishan Kishan",
+                    "K Kartikeya",
+                    "RG Sharma",
+                    "RP Meredith",
+                    "SA Yadav",
+                    "T Stubbs",
+                    "TH David",
+                    "Tilak Varma"
+                ],
+                "result": "Group Stage"
+            },
+            "2024": {
+                "year": 2024,
+                "wins": 4,
+                "matches": 14,
+                "win_pct": 28.57,
+                "retained_players": [
+                    "Akash Madhwal",
+                    "Arjun Tendulkar",
+                    "Ishan Kishan",
+                    "N Wadhera",
+                    "PP Chawla",
+                    "RG Sharma",
+                    "SA Yadav",
+                    "TH David",
+                    "Tilak Varma"
+                ],
+                "result": "Group Stage"
+            },
+            "2025": {
+                "year": 2025,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": [
+                    "HH Pandya",
+                    "JJ Bumrah",
+                    "Naman Dhir",
+                    "RG Sharma",
+                    "SA Yadav",
+                    "Tilak Varma"
+                ],
+                "result": "Group Stage"
+            },
+            "2026": {
+                "year": 2026,
+                "wins": 4,
+                "matches": 14,
+                "win_pct": 28.57,
+                "retained_players": [
+                    "Ashwani Kumar",
+                    "C Bosch",
+                    "DL Chahar",
+                    "HH Pandya",
+                    "JJ Bumrah",
+                    "MJ Santner",
+                    "Naman Dhir",
+                    "R Minz",
+                    "RA Bawa",
+                    "RD Rickelton",
+                    "RG Sharma",
+                    "SA Yadav",
+                    "TA Boult",
+                    "Tilak Varma",
+                    "WG Jacks"
+                ],
+                "result": "Group Stage"
+            },
+            "2008": {
+                "year": 2008,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2009": {
+                "year": 2009,
+                "wins": 5,
+                "matches": 13,
+                "win_pct": 38.46,
+                "retained_players": [
+                    "AM Nayar",
+                    "AM Rahane",
+                    "DJ Bravo",
+                    "DS Kulkarni",
+                    "Harbhajan Singh",
+                    "L Ronchi",
+                    "PR Shah",
+                    "RR Raje",
+                    "SL Malinga",
+                    "SR Tendulkar",
+                    "SS Tiwary",
+                    "ST Jayasuriya",
+                    "YV Takawale",
+                    "Z Khan"
+                ],
+                "result": "Group Stage"
+            },
+            "2010": {
+                "year": 2010,
+                "wins": 11,
+                "matches": 16,
+                "win_pct": 68.75,
+                "retained_players": [
+                    "AM Nayar",
+                    "DJ Bravo",
+                    "DS Kulkarni",
+                    "Harbhajan Singh",
+                    "JP Duminy",
+                    "S Dhawan",
+                    "SL Malinga",
+                    "SR Tendulkar",
+                    "SS Tiwary",
+                    "ST Jayasuriya",
+                    "Z Khan"
+                ],
+                "result": "Group Stage"
+            },
+            "2011": {
+                "year": 2011,
+                "wins": 10,
+                "matches": 16,
+                "win_pct": 62.5,
+                "retained_players": [
+                    "AG Murtaza",
+                    "AN Ahmed",
+                    "AT Rayudu",
+                    "DS Kulkarni",
+                    "Harbhajan Singh",
+                    "KA Pollard",
+                    "R Sathish",
+                    "SL Malinga",
+                    "SR Tendulkar"
+                ],
+                "result": "Group Stage"
+            },
+            "2012": {
+                "year": 2012,
+                "wins": 10,
+                "matches": 17,
+                "win_pct": 58.82,
+                "retained_players": [
+                    "AC Blizzard",
+                    "AN Ahmed",
+                    "AT Rayudu",
+                    "DJ Jacobs",
+                    "DS Kulkarni",
+                    "Harbhajan Singh",
+                    "JEC Franklin",
+                    "KA Pollard",
+                    "MM Patel",
+                    "RE Levi",
+                    "RG Sharma",
+                    "SL Malinga",
+                    "SR Tendulkar",
+                    "TL Suman"
+                ],
+                "result": "Group Stage"
+            },
+            "2013": {
+                "year": 2013,
+                "wins": 13,
+                "matches": 19,
+                "win_pct": 68.42,
+                "retained_players": [
+                    "AN Ahmed",
+                    "AT Rayudu",
+                    "DR Smith",
+                    "DS Kulkarni",
+                    "Harbhajan Singh",
+                    "KA Pollard",
+                    "KD Karthik",
+                    "MM Patel",
+                    "PP Ojha",
+                    "RG Sharma",
+                    "RT Ponting",
+                    "SL Malinga",
+                    "SR Tendulkar"
+                ],
+                "result": "Group Stage"
+            },
+            "2014": {
+                "year": 2014,
+                "wins": 7,
+                "matches": 15,
+                "win_pct": 46.67,
+                "retained_players": [
+                    "AP Tare",
+                    "AT Rayudu",
+                    "BR Dunk",
+                    "CJ Anderson",
+                    "CM Gautam",
+                    "Harbhajan Singh",
+                    "JJ Bumrah",
+                    "K Santokie",
+                    "KA Pollard",
+                    "LMP Simmons",
+                    "M de Lange",
+                    "MEK Hussey",
+                    "P Kumar",
+                    "PP Ojha",
+                    "RG Sharma",
+                    "S Gopal",
+                    "SL Malinga",
+                    "Z Khan"
+                ],
+                "result": "Group Stage"
+            },
+            "2015": {
+                "year": 2015,
+                "wins": 10,
+                "matches": 16,
+                "win_pct": 62.5,
+                "retained_players": [
+                    "AP Tare",
+                    "AT Rayudu",
+                    "CJ Anderson",
+                    "Harbhajan Singh",
+                    "JJ Bumrah",
+                    "KA Pollard",
+                    "LMP Simmons",
+                    "M de Lange",
+                    "RG Sharma",
+                    "S Gopal",
+                    "SL Malinga"
+                ],
+                "result": "Group Stage"
+            },
+            "2016": {
+                "year": 2016,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "AT Rayudu",
+                    "HH Pandya",
+                    "Harbhajan Singh",
+                    "J Suchith",
+                    "JJ Bumrah",
+                    "KA Pollard",
+                    "LMP Simmons",
+                    "MJ McClenaghan",
+                    "PA Patel",
+                    "R Vinay Kumar",
+                    "RG Sharma",
+                    "S Gopal",
+                    "UBT Chand"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Gujarat Lions": {
+        "overall": {
+            "total_matches": 30,
+            "total_wins": 13,
+            "win_pct": 43.33,
+            "first_year": 2016,
+            "last_year": 2017,
+            "best_season": {
+                "year": 2016,
+                "wins": 9
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "SK Raina",
+                "runs": 840
+            },
+            "most_wickets_player": {
+                "player": "DS Kulkarni",
+                "wickets": 21
+            },
+            "best_team_score": 208
+        },
+        "season_wise": {
+            "2017": {
+                "year": 2017,
+                "wins": 4,
+                "matches": 14,
+                "win_pct": 28.57,
+                "retained_players": [
+                    "AD Nath",
+                    "AJ Finch",
+                    "BB McCullum",
+                    "DR Smith",
+                    "DS Kulkarni",
+                    "Ishan Kishan",
+                    "JP Faulkner",
+                    "KD Karthik",
+                    "P Kumar",
+                    "PJ Sangwan",
+                    "RA Jadeja",
+                    "S Kaushik",
+                    "SB Jakati",
+                    "SK Raina"
+                ],
+                "result": "Group Stage"
+            },
+            "2016": {
+                "year": 2016,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Kolkata Knight Riders": {
+        "overall": {
+            "total_matches": 278,
+            "total_wins": 140,
+            "win_pct": 50.36,
+            "first_year": 2008,
+            "last_year": 2026,
+            "best_season": {
+                "year": 2012,
+                "wins": 12
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "G Gambhir",
+                "runs": 2990
+            },
+            "most_wickets_player": {
+                "player": "SP Narine",
+                "wickets": 206
+            },
+            "best_team_score": 272
+        },
+        "season_wise": {
+            "2017": {
+                "year": 2017,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": [
+                    "AS Rajpoot",
+                    "CA Lynn",
+                    "G Gambhir",
+                    "Kuldeep Yadav",
+                    "MK Pandey",
+                    "PP Chawla",
+                    "RV Uthappa",
+                    "SA Yadav",
+                    "SP Narine",
+                    "Shakib Al Hasan",
+                    "UT Yadav",
+                    "YK Pathan"
+                ],
+                "result": "Group Stage"
+            },
+            "2018": {
+                "year": 2018,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": [
+                    "CA Lynn",
+                    "Kuldeep Yadav",
+                    "PP Chawla",
+                    "RV Uthappa",
+                    "SP Narine"
+                ],
+                "result": "Group Stage"
+            },
+            "2019": {
+                "year": 2019,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "AD Russell",
+                    "CA Lynn",
+                    "KD Karthik",
+                    "Kuldeep Yadav",
+                    "M Prasidh Krishna",
+                    "N Rana",
+                    "PP Chawla",
+                    "RK Singh",
+                    "RV Uthappa",
+                    "SP Narine",
+                    "Shubman Gill"
+                ],
+                "result": "Group Stage"
+            },
+            "2020": {
+                "year": 2020,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "AD Russell",
+                    "KD Karthik",
+                    "Kuldeep Yadav",
+                    "LH Ferguson",
+                    "M Prasidh Krishna",
+                    "N Rana",
+                    "RK Singh",
+                    "S Sandeep Warrier",
+                    "SP Narine",
+                    "Shubman Gill"
+                ],
+                "result": "Group Stage"
+            },
+            "2021": {
+                "year": 2021,
+                "wins": 9,
+                "matches": 17,
+                "win_pct": 52.94,
+                "retained_players": [
+                    "AD Russell",
+                    "CV Varun",
+                    "EJG Morgan",
+                    "KD Karthik",
+                    "KL Nagarkoti",
+                    "LH Ferguson",
+                    "M Prasidh Krishna",
+                    "N Rana",
+                    "PJ Cummins",
+                    "RA Tripathi",
+                    "S Sandeep Warrier",
+                    "SP Narine",
+                    "Shivam Mavi",
+                    "Shubman Gill"
+                ],
+                "result": "Group Stage"
+            },
+            "2022": {
+                "year": 2022,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "AD Russell",
+                    "AM Rahane",
+                    "CV Varun",
+                    "N Rana",
+                    "PJ Cummins",
+                    "SP Jackson",
+                    "SP Narine",
+                    "SS Iyer",
+                    "SW Billings",
+                    "Shivam Mavi",
+                    "TG Southee",
+                    "VR Iyer"
+                ],
+                "result": "Group Stage"
+            },
+            "2023": {
+                "year": 2023,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "AD Russell",
+                    "AS Roy",
+                    "CV Varun",
+                    "Harshit Rana",
+                    "N Rana",
+                    "RK Singh",
+                    "SP Narine",
+                    "TG Southee",
+                    "UT Yadav",
+                    "VR Iyer"
+                ],
+                "result": "Group Stage"
+            },
+            "2024": {
+                "year": 2024,
+                "wins": 11,
+                "matches": 14,
+                "win_pct": 78.57,
+                "retained_players": [
+                    "AD Russell",
+                    "AS Roy",
+                    "CV Varun",
+                    "Harshit Rana",
+                    "N Rana",
+                    "RK Singh",
+                    "Rahmanullah Gurbaz",
+                    "SP Narine",
+                    "Suyash Sharma",
+                    "VG Arora",
+                    "VR Iyer"
+                ],
+                "result": "Group Stage"
+            },
+            "2025": {
+                "year": 2025,
+                "wins": 5,
+                "matches": 13,
+                "win_pct": 38.46,
+                "retained_players": [
+                    "A Raghuvanshi",
+                    "AD Russell",
+                    "AS Roy",
+                    "CV Varun",
+                    "Harshit Rana",
+                    "MK Pandey",
+                    "RK Singh",
+                    "Rahmanullah Gurbaz",
+                    "Ramandeep Singh",
+                    "SP Narine",
+                    "VG Arora",
+                    "VR Iyer"
+                ],
+                "result": "Group Stage"
+            },
+            "2026": {
+                "year": 2026,
+                "wins": 5,
+                "matches": 14,
+                "win_pct": 35.71,
+                "retained_players": [
+                    "A Raghuvanshi",
+                    "AM Rahane",
+                    "AS Roy",
+                    "CV Varun",
+                    "MK Pandey",
+                    "R Powell",
+                    "RK Singh",
+                    "Ramandeep Singh",
+                    "SP Narine",
+                    "VG Arora"
+                ],
+                "result": "Group Stage"
+            },
+            "2008": {
+                "year": 2008,
+                "wins": 6,
+                "matches": 13,
+                "win_pct": 46.15,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2009": {
+                "year": 2009,
+                "wins": 3,
+                "matches": 13,
+                "win_pct": 23.08,
+                "retained_players": [
+                    "A Chopra",
+                    "AB Agarkar",
+                    "AB Dinda",
+                    "BAW Mendis",
+                    "BB McCullum",
+                    "BJ Hodge",
+                    "DJ Hussey",
+                    "I Sharma",
+                    "LR Shukla",
+                    "M Kartik",
+                    "SC Ganguly",
+                    "WP Saha"
+                ],
+                "result": "Group Stage"
+            },
+            "2010": {
+                "year": 2010,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "AB Agarkar",
+                    "AB Dinda",
+                    "AD Mathews",
+                    "BAW Mendis",
+                    "BB McCullum",
+                    "BJ Hodge",
+                    "CH Gayle",
+                    "CK Langeveldt",
+                    "DJ Hussey",
+                    "I Sharma",
+                    "LR Shukla",
+                    "M Kartik",
+                    "SC Ganguly",
+                    "WP Saha"
+                ],
+                "result": "Group Stage"
+            },
+            "2011": {
+                "year": 2011,
+                "wins": 8,
+                "matches": 15,
+                "win_pct": 53.33,
+                "retained_players": [
+                    "EJG Morgan",
+                    "G Gambhir",
+                    "Iqbal Abdulla",
+                    "JD Unadkat",
+                    "JH Kallis",
+                    "MK Tiwary",
+                    "MS Bisla",
+                    "R Bhatia",
+                    "YK Pathan"
+                ],
+                "result": "Group Stage"
+            },
+            "2012": {
+                "year": 2012,
+                "wins": 12,
+                "matches": 17,
+                "win_pct": 70.59,
+                "retained_players": [
+                    "B Lee",
+                    "EJG Morgan",
+                    "G Gambhir",
+                    "Iqbal Abdulla",
+                    "JD Unadkat",
+                    "JH Kallis",
+                    "L Balaji",
+                    "M de Lange",
+                    "MK Tiwary",
+                    "MS Bisla",
+                    "R Bhatia",
+                    "RN ten Doeschate",
+                    "Shakib Al Hasan",
+                    "YK Pathan"
+                ],
+                "result": "Group Stage"
+            },
+            "2013": {
+                "year": 2013,
+                "wins": 6,
+                "matches": 16,
+                "win_pct": 37.5,
+                "retained_players": [
+                    "B Lee",
+                    "BB McCullum",
+                    "DB Das",
+                    "EJG Morgan",
+                    "G Gambhir",
+                    "Iqbal Abdulla",
+                    "JH Kallis",
+                    "L Balaji",
+                    "LR Shukla",
+                    "MK Tiwary",
+                    "MS Bisla",
+                    "PJ Sangwan",
+                    "R Bhatia",
+                    "RN ten Doeschate",
+                    "SP Narine",
+                    "Shakib Al Hasan",
+                    "YK Pathan"
+                ],
+                "result": "Group Stage"
+            },
+            "2014": {
+                "year": 2014,
+                "wins": 11,
+                "matches": 16,
+                "win_pct": 68.75,
+                "retained_players": [
+                    "AD Russell",
+                    "CA Lynn",
+                    "G Gambhir",
+                    "JH Kallis",
+                    "M Morkel",
+                    "MK Pandey",
+                    "PJ Cummins",
+                    "PP Chawla",
+                    "R Vinay Kumar",
+                    "RN ten Doeschate",
+                    "RV Uthappa",
+                    "SA Yadav",
+                    "SP Narine",
+                    "Shakib Al Hasan",
+                    "UT Yadav",
+                    "YK Pathan"
+                ],
+                "result": "Group Stage"
+            },
+            "2015": {
+                "year": 2015,
+                "wins": 7,
+                "matches": 13,
+                "win_pct": 53.85,
+                "retained_players": [
+                    "AD Russell",
+                    "G Gambhir",
+                    "M Morkel",
+                    "MK Pandey",
+                    "PJ Cummins",
+                    "PP Chawla",
+                    "RN ten Doeschate",
+                    "RV Uthappa",
+                    "SA Yadav",
+                    "SP Narine",
+                    "Shakib Al Hasan",
+                    "UT Yadav",
+                    "YK Pathan"
+                ],
+                "result": "Group Stage"
+            },
+            "2016": {
+                "year": 2016,
+                "wins": 8,
+                "matches": 15,
+                "win_pct": 53.33,
+                "retained_players": [
+                    "AD Russell",
+                    "G Gambhir",
+                    "GB Hogg",
+                    "M Morkel",
+                    "MK Pandey",
+                    "PP Chawla",
+                    "RV Uthappa",
+                    "SA Yadav",
+                    "SP Narine",
+                    "Shakib Al Hasan",
+                    "UT Yadav",
+                    "YK Pathan"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Kings XI Punjab": {
+        "overall": {
+            "total_matches": 190,
+            "total_wins": 85,
+            "win_pct": 44.74,
+            "first_year": 2008,
+            "last_year": 2020,
+            "best_season": {
+                "year": 2014,
+                "wins": 12
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "SE Marsh",
+                "runs": 2412
+            },
+            "most_wickets_player": {
+                "player": "PP Chawla",
+                "wickets": 83
+            },
+            "best_team_score": 232
+        },
+        "season_wise": {
+            "2017": {
+                "year": 2017,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "AR Patel",
+                    "Anureet Singh",
+                    "DA Miller",
+                    "GJ Maxwell",
+                    "HM Amla",
+                    "KC Cariappa",
+                    "M Vohra",
+                    "MM Sharma",
+                    "MP Stoinis",
+                    "SE Marsh",
+                    "Sandeep Sharma",
+                    "Swapnil Singh",
+                    "WP Saha"
+                ],
+                "result": "Group Stage"
+            },
+            "2018": {
+                "year": 2018,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "AR Patel",
+                    "DA Miller",
+                    "MM Sharma",
+                    "MP Stoinis"
+                ],
+                "result": "Group Stage"
+            },
+            "2019": {
+                "year": 2019,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "AJ Tye",
+                    "AS Rajpoot",
+                    "CH Gayle",
+                    "DA Miller",
+                    "KK Nair",
+                    "KL Rahul",
+                    "MA Agarwal",
+                    "Mujeeb Ur Rahman",
+                    "R Ashwin"
+                ],
+                "result": "Group Stage"
+            },
+            "2020": {
+                "year": 2020,
+                "wins": 5,
+                "matches": 14,
+                "win_pct": 35.71,
+                "retained_players": [
+                    "Arshdeep Singh",
+                    "CH Gayle",
+                    "Harpreet Brar",
+                    "KK Nair",
+                    "KL Rahul",
+                    "M Ashwin",
+                    "MA Agarwal",
+                    "Mandeep Singh",
+                    "Mohammed Shami",
+                    "Mujeeb Ur Rahman",
+                    "N Pooran",
+                    "P Simran Singh",
+                    "SN Khan"
+                ],
+                "result": "Group Stage"
+            },
+            "2008": {
+                "year": 2008,
+                "wins": 10,
+                "matches": 15,
+                "win_pct": 66.67,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2009": {
+                "year": 2009,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "B Lee",
+                    "DPMD Jayawardene",
+                    "IK Pathan",
+                    "K Goel",
+                    "KC Sangakkara",
+                    "LA Pomersbach",
+                    "PP Chawla",
+                    "RR Powar",
+                    "S Sohal",
+                    "S Sreesanth",
+                    "SM Katich",
+                    "TM Srivastava",
+                    "VRV Singh",
+                    "VS Malik",
+                    "WA Mota",
+                    "YA Abdulla",
+                    "Yuvraj Singh"
+                ],
+                "result": "Group Stage"
+            },
+            "2010": {
+                "year": 2010,
+                "wins": 3,
+                "matches": 14,
+                "win_pct": 21.43,
+                "retained_players": [
+                    "B Lee",
+                    "DPMD Jayawardene",
+                    "IK Pathan",
+                    "K Goel",
+                    "KC Sangakkara",
+                    "PP Chawla",
+                    "RR Powar",
+                    "RS Bopara",
+                    "S Sreesanth",
+                    "VRV Singh",
+                    "VS Malik",
+                    "YA Abdulla",
+                    "Yuvraj Singh"
+                ],
+                "result": "Group Stage"
+            },
+            "2011": {
+                "year": 2011,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "Bipul Sharma",
+                    "L Ablish",
+                    "PP Chawla",
+                    "SE Marsh",
+                    "SJ Srivastava",
+                    "VS Malik"
+                ],
+                "result": "Group Stage"
+            },
+            "2012": {
+                "year": 2012,
+                "wins": 8,
+                "matches": 16,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "AC Gilchrist",
+                    "AM Nayar",
+                    "BA Bhatt",
+                    "Bipul Sharma",
+                    "DJ Hussey",
+                    "Mandeep Singh",
+                    "P Kumar",
+                    "PC Valthaty",
+                    "PP Chawla",
+                    "RJ Harris",
+                    "SD Chitnis",
+                    "SE Marsh"
+                ],
+                "result": "Group Stage"
+            },
+            "2013": {
+                "year": 2013,
+                "wins": 8,
+                "matches": 16,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "AC Gilchrist",
+                    "AD Mascarenhas",
+                    "Azhar Mahmood",
+                    "BA Bhatt",
+                    "Bipul Sharma",
+                    "DA Miller",
+                    "DJ Hussey",
+                    "Gurkeerat Singh",
+                    "Harmeet Singh",
+                    "Mandeep Singh",
+                    "P Awana",
+                    "P Kumar",
+                    "PC Valthaty",
+                    "PP Chawla",
+                    "RJ Harris",
+                    "SE Marsh"
+                ],
+                "result": "Group Stage"
+            },
+            "2014": {
+                "year": 2014,
+                "wins": 12,
+                "matches": 17,
+                "win_pct": 70.59,
+                "retained_players": [
+                    "AR Patel",
+                    "BE Hendricks",
+                    "CA Pujara",
+                    "DA Miller",
+                    "GJ Bailey",
+                    "GJ Maxwell",
+                    "Karanveer Singh",
+                    "L Balaji",
+                    "M Kartik",
+                    "M Vohra",
+                    "MG Johnson",
+                    "Mandeep Singh",
+                    "P Awana",
+                    "R Dhawan",
+                    "SE Marsh",
+                    "Sandeep Sharma",
+                    "Shivam Sharma",
+                    "V Sehwag",
+                    "WP Saha"
+                ],
+                "result": "Group Stage"
+            },
+            "2015": {
+                "year": 2015,
+                "wins": 2,
+                "matches": 14,
+                "win_pct": 14.29,
+                "retained_players": [
+                    "AR Patel",
+                    "BE Hendricks",
+                    "DA Miller",
+                    "GJ Bailey",
+                    "GJ Maxwell",
+                    "Karanveer Singh",
+                    "M Vohra",
+                    "MG Johnson",
+                    "R Dhawan",
+                    "SE Marsh",
+                    "Sandeep Sharma",
+                    "V Sehwag",
+                    "WP Saha"
+                ],
+                "result": "Group Stage"
+            },
+            "2016": {
+                "year": 2016,
+                "wins": 4,
+                "matches": 14,
+                "win_pct": 28.57,
+                "retained_players": [
+                    "AR Patel",
+                    "Anureet Singh",
+                    "DA Miller",
+                    "GJ Maxwell",
+                    "Gurkeerat Singh",
+                    "M Vijay",
+                    "M Vohra",
+                    "MG Johnson",
+                    "R Dhawan",
+                    "SE Marsh",
+                    "Sandeep Sharma",
+                    "WP Saha"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Delhi Daredevils": {
+        "overall": {
+            "total_matches": 161,
+            "total_wins": 67,
+            "win_pct": 41.61,
+            "first_year": 2008,
+            "last_year": 2018,
+            "best_season": {
+                "year": 2012,
+                "wins": 11
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "V Sehwag",
+                "runs": 2149
+            },
+            "most_wickets_player": {
+                "player": "A Mishra",
+                "wickets": 86
+            },
+            "best_team_score": 231
+        },
+        "season_wise": {
+            "2017": {
+                "year": 2017,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "A Mishra",
+                    "CH Morris",
+                    "CR Brathwaite",
+                    "J Yadav",
+                    "KK Nair",
+                    "Mohammed Shami",
+                    "RR Pant",
+                    "S Nadeem",
+                    "SS Iyer",
+                    "SV Samson",
+                    "SW Billings",
+                    "Z Khan"
+                ],
+                "result": "Group Stage"
+            },
+            "2018": {
+                "year": 2018,
+                "wins": 5,
+                "matches": 14,
+                "win_pct": 35.71,
+                "retained_players": [
+                    "A Mishra",
+                    "CH Morris",
+                    "Mohammed Shami",
+                    "RR Pant",
+                    "S Nadeem",
+                    "SS Iyer"
+                ],
+                "result": "Group Stage"
+            },
+            "2008": {
+                "year": 2008,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2009": {
+                "year": 2009,
+                "wins": 10,
+                "matches": 15,
+                "win_pct": 66.67,
+                "retained_players": [
+                    "A Mishra",
+                    "AB de Villiers",
+                    "DL Vettori",
+                    "G Gambhir",
+                    "KD Karthik",
+                    "MF Maharoof",
+                    "MK Tiwary",
+                    "PJ Sangwan",
+                    "R Bhatia",
+                    "TM Dilshan",
+                    "V Sehwag",
+                    "VY Mahesh"
+                ],
+                "result": "Group Stage"
+            },
+            "2010": {
+                "year": 2010,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "A Mishra",
+                    "A Nehra",
+                    "AB McDonald",
+                    "AB de Villiers",
+                    "DA Warner",
+                    "DL Vettori",
+                    "DP Nannes",
+                    "G Gambhir",
+                    "KD Karthik",
+                    "M Manhas",
+                    "MF Maharoof",
+                    "PJ Sangwan",
+                    "R Bhatia",
+                    "TM Dilshan",
+                    "V Sehwag",
+                    "VY Mahesh",
+                    "Y Nagar"
+                ],
+                "result": "Group Stage"
+            },
+            "2011": {
+                "year": 2011,
+                "wins": 4,
+                "matches": 14,
+                "win_pct": 28.57,
+                "retained_players": [
+                    "AB McDonald",
+                    "DA Warner",
+                    "UT Yadav",
+                    "V Sehwag",
+                    "Y Nagar"
+                ],
+                "result": "Group Stage"
+            },
+            "2012": {
+                "year": 2012,
+                "wins": 11,
+                "matches": 18,
+                "win_pct": 61.11,
+                "retained_players": [
+                    "AB Agarkar",
+                    "AJ Finch",
+                    "DA Warner",
+                    "GJ Maxwell",
+                    "IK Pathan",
+                    "M Morkel",
+                    "NV Ojha",
+                    "RE van der Merwe",
+                    "S Nadeem",
+                    "UBT Chand",
+                    "UT Yadav",
+                    "V Sehwag",
+                    "VR Aaron",
+                    "Y Nagar",
+                    "Y Venugopal Rao"
+                ],
+                "result": "Group Stage"
+            },
+            "2013": {
+                "year": 2013,
+                "wins": 3,
+                "matches": 16,
+                "win_pct": 18.75,
+                "retained_players": [
+                    "A Nehra",
+                    "AB Agarkar",
+                    "AD Russell",
+                    "DA Warner",
+                    "DPMD Jayawardene",
+                    "IK Pathan",
+                    "J Botha",
+                    "KP Pietersen",
+                    "LRPL Taylor",
+                    "M Morkel",
+                    "NV Ojha",
+                    "P Negi",
+                    "RE van der Merwe",
+                    "S Nadeem",
+                    "UBT Chand",
+                    "UT Yadav",
+                    "V Sehwag"
+                ],
+                "result": "Group Stage"
+            },
+            "2014": {
+                "year": 2014,
+                "wins": 2,
+                "matches": 14,
+                "win_pct": 14.29,
+                "retained_players": [
+                    "Imran Tahir",
+                    "JD Unadkat",
+                    "JDS Neesham",
+                    "JP Duminy",
+                    "KD Karthik",
+                    "KM Jadhav",
+                    "KP Pietersen",
+                    "LR Shukla",
+                    "LRPL Taylor",
+                    "M Vijay",
+                    "MA Agarwal",
+                    "MK Tiwary",
+                    "Mohammed Shami",
+                    "NM Coulter-Nile",
+                    "Q de Kock",
+                    "R Shukla",
+                    "S Kaul",
+                    "S Nadeem",
+                    "WD Parnell"
+                ],
+                "result": "Group Stage"
+            },
+            "2015": {
+                "year": 2015,
+                "wins": 5,
+                "matches": 14,
+                "win_pct": 35.71,
+                "retained_players": [
+                    "Imran Tahir",
+                    "JP Duminy",
+                    "KM Jadhav",
+                    "MA Agarwal",
+                    "MK Tiwary",
+                    "NM Coulter-Nile",
+                    "S Nadeem"
+                ],
+                "result": "Group Stage"
+            },
+            "2016": {
+                "year": 2016,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "A Mishra",
+                    "Imran Tahir",
+                    "J Yadav",
+                    "JP Duminy",
+                    "MA Agarwal",
+                    "NM Coulter-Nile",
+                    "S Nadeem",
+                    "SS Iyer",
+                    "Z Khan"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Chennai Super Kings": {
+        "overall": {
+            "total_matches": 266,
+            "total_wins": 148,
+            "win_pct": 55.64,
+            "first_year": 2008,
+            "last_year": 2026,
+            "best_season": {
+                "year": 2013,
+                "wins": 12
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "MS Dhoni",
+                "runs": 4865
+            },
+            "most_wickets_player": {
+                "player": "RA Jadeja",
+                "wickets": 142
+            },
+            "best_team_score": 246
+        },
+        "season_wise": {
+            "2018": {
+                "year": 2018,
+                "wins": 11,
+                "matches": 16,
+                "win_pct": 68.75,
+                "retained_players": [
+                    "DJ Bravo",
+                    "F du Plessis",
+                    "MS Dhoni",
+                    "RA Jadeja",
+                    "SK Raina"
+                ],
+                "result": "Group Stage"
+            },
+            "2019": {
+                "year": 2019,
+                "wins": 10,
+                "matches": 17,
+                "win_pct": 58.82,
+                "retained_players": [
+                    "AT Rayudu",
+                    "DJ Bravo",
+                    "DL Chahar",
+                    "DR Shorey",
+                    "F du Plessis",
+                    "Harbhajan Singh",
+                    "Imran Tahir",
+                    "KM Jadhav",
+                    "KV Sharma",
+                    "M Vijay",
+                    "MS Dhoni",
+                    "RA Jadeja",
+                    "SK Raina",
+                    "SN Thakur",
+                    "SR Watson",
+                    "SW Billings"
+                ],
+                "result": "Group Stage"
+            },
+            "2020": {
+                "year": 2020,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "AT Rayudu",
+                    "DJ Bravo",
+                    "DL Chahar",
+                    "F du Plessis",
+                    "Imran Tahir",
+                    "KM Jadhav",
+                    "KV Sharma",
+                    "M Vijay",
+                    "MJ Santner",
+                    "MS Dhoni",
+                    "RA Jadeja",
+                    "SM Curran",
+                    "SN Thakur",
+                    "SR Watson"
+                ],
+                "result": "Group Stage"
+            },
+            "2021": {
+                "year": 2021,
+                "wins": 11,
+                "matches": 16,
+                "win_pct": 68.75,
+                "retained_players": [
+                    "AT Rayudu",
+                    "DJ Bravo",
+                    "DL Chahar",
+                    "F du Plessis",
+                    "Imran Tahir",
+                    "JR Hazlewood",
+                    "L Ngidi",
+                    "MJ Santner",
+                    "MS Dhoni",
+                    "RA Jadeja",
+                    "RD Gaikwad",
+                    "SM Curran",
+                    "SN Thakur"
+                ],
+                "result": "Group Stage"
+            },
+            "2022": {
+                "year": 2022,
+                "wins": 4,
+                "matches": 14,
+                "win_pct": 28.57,
+                "retained_players": [
+                    "AT Rayudu",
+                    "DJ Bravo",
+                    "MJ Santner",
+                    "MM Ali",
+                    "MS Dhoni",
+                    "RA Jadeja",
+                    "RD Gaikwad",
+                    "RV Uthappa",
+                    "S Dube",
+                    "TU Deshpande"
+                ],
+                "result": "Group Stage"
+            },
+            "2023": {
+                "year": 2023,
+                "wins": 10,
+                "matches": 16,
+                "win_pct": 62.5,
+                "retained_players": [
+                    "AT Rayudu",
+                    "D Pretorius",
+                    "DP Conway",
+                    "M Pathirana",
+                    "M Theekshana",
+                    "MJ Santner",
+                    "MM Ali",
+                    "MS Dhoni",
+                    "RA Jadeja",
+                    "RD Gaikwad",
+                    "S Dube",
+                    "TU Deshpande"
+                ],
+                "result": "Group Stage"
+            },
+            "2024": {
+                "year": 2024,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "AM Rahane",
+                    "DL Chahar",
+                    "M Pathirana",
+                    "M Theekshana",
+                    "MJ Santner",
+                    "MM Ali",
+                    "MS Dhoni",
+                    "RA Jadeja",
+                    "RD Gaikwad",
+                    "S Dube",
+                    "TU Deshpande"
+                ],
+                "result": "Group Stage"
+            },
+            "2025": {
+                "year": 2025,
+                "wins": 4,
+                "matches": 14,
+                "win_pct": 28.57,
+                "retained_players": [
+                    "M Pathirana",
+                    "MS Dhoni",
+                    "Mukesh Choudhary",
+                    "R Ravindra",
+                    "RA Jadeja",
+                    "RD Gaikwad",
+                    "S Dube"
+                ],
+                "result": "Group Stage"
+            },
+            "2026": {
+                "year": 2026,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "A Kamboj",
+                    "A Mhatre",
+                    "D Brevis",
+                    "J Overton",
+                    "KK Ahmed",
+                    "Mukesh Choudhary",
+                    "Noor Ahmad",
+                    "RD Gaikwad",
+                    "S Dube",
+                    "Urvil Patel"
+                ],
+                "result": "Group Stage"
+            },
+            "2008": {
+                "year": 2008,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2009": {
+                "year": 2009,
+                "wins": 8,
+                "matches": 14,
+                "win_pct": 57.14,
+                "retained_players": [
+                    "A Flintoff",
+                    "JA Morkel",
+                    "JDP Oram",
+                    "Joginder Sharma",
+                    "L Balaji",
+                    "M Muralitharan",
+                    "ML Hayden",
+                    "MS Dhoni",
+                    "MS Gony",
+                    "PA Patel",
+                    "S Badrinath",
+                    "SK Raina",
+                    "T Thushara"
+                ],
+                "result": "Group Stage"
+            },
+            "2010": {
+                "year": 2010,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": [
+                    "GJ Bailey",
+                    "JA Morkel",
+                    "Joginder Sharma",
+                    "L Balaji",
+                    "M Muralitharan",
+                    "M Vijay",
+                    "ML Hayden",
+                    "MS Dhoni",
+                    "MS Gony",
+                    "PA Patel",
+                    "R Ashwin",
+                    "S Badrinath",
+                    "S Tyagi",
+                    "SB Jakati",
+                    "SK Raina",
+                    "T Thushara"
+                ],
+                "result": "Group Stage"
+            },
+            "2011": {
+                "year": 2011,
+                "wins": 11,
+                "matches": 16,
+                "win_pct": 68.75,
+                "retained_players": [
+                    "DE Bollinger",
+                    "JA Morkel",
+                    "Joginder Sharma",
+                    "M Vijay",
+                    "MEK Hussey",
+                    "MS Dhoni",
+                    "R Ashwin",
+                    "S Anirudha",
+                    "S Badrinath",
+                    "S Randiv",
+                    "SB Jakati",
+                    "SK Raina",
+                    "TG Southee"
+                ],
+                "result": "Group Stage"
+            },
+            "2012": {
+                "year": 2012,
+                "wins": 10,
+                "matches": 18,
+                "win_pct": 55.56,
+                "retained_players": [
+                    "DE Bollinger",
+                    "DJ Bravo",
+                    "JA Morkel",
+                    "KMDN Kulasekara",
+                    "M Vijay",
+                    "MEK Hussey",
+                    "MS Dhoni",
+                    "R Ashwin",
+                    "RA Jadeja",
+                    "S Anirudha",
+                    "S Badrinath",
+                    "SB Jakati",
+                    "SK Raina",
+                    "WP Saha"
+                ],
+                "result": "Group Stage"
+            },
+            "2013": {
+                "year": 2013,
+                "wins": 12,
+                "matches": 18,
+                "win_pct": 66.67,
+                "retained_players": [
+                    "BW Hilfenhaus",
+                    "DJ Bravo",
+                    "F du Plessis",
+                    "JA Morkel",
+                    "M Vijay",
+                    "MEK Hussey",
+                    "MS Dhoni",
+                    "R Ashwin",
+                    "RA Jadeja",
+                    "S Anirudha",
+                    "S Badrinath",
+                    "SK Raina",
+                    "WP Saha"
+                ],
+                "result": "Group Stage"
+            },
+            "2014": {
+                "year": 2014,
+                "wins": 10,
+                "matches": 16,
+                "win_pct": 62.5,
+                "retained_players": [
+                    "A Nehra",
+                    "BB McCullum",
+                    "BW Hilfenhaus",
+                    "DJ Bravo",
+                    "DJ Hussey",
+                    "DR Smith",
+                    "F du Plessis",
+                    "IC Pandey",
+                    "M Manhas",
+                    "MM Sharma",
+                    "MS Dhoni",
+                    "R Ashwin",
+                    "RA Jadeja",
+                    "S Badree",
+                    "SK Raina"
+                ],
+                "result": "Group Stage"
+            },
+            "2015": {
+                "year": 2015,
+                "wins": 10,
+                "matches": 17,
+                "win_pct": 58.82,
+                "retained_players": [
+                    "A Nehra",
+                    "BB McCullum",
+                    "DJ Bravo",
+                    "DR Smith",
+                    "F du Plessis",
+                    "IC Pandey",
+                    "MM Sharma",
+                    "MS Dhoni",
+                    "R Ashwin",
+                    "RA Jadeja",
+                    "SK Raina"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Rajasthan Royals": {
+        "overall": {
+            "total_matches": 251,
+            "total_wins": 123,
+            "win_pct": 49.0,
+            "first_year": 2008,
+            "last_year": 2026,
+            "best_season": {
+                "year": 2008,
+                "wins": 13
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "SV Samson",
+                "runs": 3943
+            },
+            "most_wickets_player": {
+                "player": "JC Archer",
+                "wickets": 80
+            },
+            "best_team_score": 243
+        },
+        "season_wise": {
+            "2018": {
+                "year": 2018,
+                "wins": 7,
+                "matches": 15,
+                "win_pct": 46.67,
+                "retained_players": [
+                    "AM Rahane",
+                    "Ankit Sharma",
+                    "DS Kulkarni",
+                    "STR Binny",
+                    "SV Samson"
+                ],
+                "result": "Group Stage"
+            },
+            "2019": {
+                "year": 2019,
+                "wins": 5,
+                "matches": 14,
+                "win_pct": 35.71,
+                "retained_players": [
+                    "AM Rahane",
+                    "BA Stokes",
+                    "DS Kulkarni",
+                    "IS Sodhi",
+                    "JC Archer",
+                    "JC Buttler",
+                    "JD Unadkat",
+                    "K Gowtham",
+                    "MK Lomror",
+                    "RA Tripathi",
+                    "S Gopal",
+                    "STR Binny",
+                    "SV Samson"
+                ],
+                "result": "Group Stage"
+            },
+            "2020": {
+                "year": 2020,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "BA Stokes",
+                    "JC Archer",
+                    "JC Buttler",
+                    "JD Unadkat",
+                    "MK Lomror",
+                    "R Parag",
+                    "S Gopal",
+                    "SPD Smith",
+                    "SV Samson",
+                    "VR Aaron"
+                ],
+                "result": "Group Stage"
+            },
+            "2021": {
+                "year": 2021,
+                "wins": 5,
+                "matches": 14,
+                "win_pct": 35.71,
+                "retained_players": [
+                    "BA Stokes",
+                    "DA Miller",
+                    "JC Buttler",
+                    "JD Unadkat",
+                    "Kartik Tyagi",
+                    "MK Lomror",
+                    "R Parag",
+                    "R Tewatia",
+                    "S Gopal",
+                    "SV Samson",
+                    "YBK Jaiswal"
+                ],
+                "result": "Group Stage"
+            },
+            "2022": {
+                "year": 2022,
+                "wins": 10,
+                "matches": 17,
+                "win_pct": 58.82,
+                "retained_players": [
+                    "JC Buttler",
+                    "R Parag",
+                    "SV Samson",
+                    "YBK Jaiswal"
+                ],
+                "result": "Group Stage"
+            },
+            "2023": {
+                "year": 2023,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "D Padikkal",
+                    "JC Buttler",
+                    "KR Sen",
+                    "Navdeep Saini",
+                    "OC McCoy",
+                    "R Ashwin",
+                    "R Parag",
+                    "SO Hetmyer",
+                    "SV Samson",
+                    "TA Boult",
+                    "YBK Jaiswal",
+                    "YS Chahal"
+                ],
+                "result": "Group Stage"
+            },
+            "2024": {
+                "year": 2024,
+                "wins": 9,
+                "matches": 15,
+                "win_pct": 60.0,
+                "retained_players": [
+                    "Dhruv Jurel",
+                    "JC Buttler",
+                    "KR Sen",
+                    "R Ashwin",
+                    "R Parag",
+                    "SO Hetmyer",
+                    "SV Samson",
+                    "Sandeep Sharma",
+                    "TA Boult",
+                    "YBK Jaiswal",
+                    "YS Chahal"
+                ],
+                "result": "Group Stage"
+            },
+            "2025": {
+                "year": 2025,
+                "wins": 4,
+                "matches": 14,
+                "win_pct": 28.57,
+                "retained_players": [
+                    "Dhruv Jurel",
+                    "R Parag",
+                    "SB Dubey",
+                    "SO Hetmyer",
+                    "SV Samson",
+                    "Sandeep Sharma",
+                    "YBK Jaiswal"
+                ],
+                "result": "Group Stage"
+            },
+            "2026": {
+                "year": 2026,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": [
+                    "Dhruv Jurel",
+                    "JC Archer",
+                    "R Parag",
+                    "SB Dubey",
+                    "SO Hetmyer",
+                    "Sandeep Sharma",
+                    "TU Deshpande",
+                    "V Suryavanshi",
+                    "YBK Jaiswal"
+                ],
+                "result": "Group Stage"
+            },
+            "2008": {
+                "year": 2008,
+                "wins": 13,
+                "matches": 16,
+                "win_pct": 81.25,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2009": {
+                "year": 2009,
+                "wins": 5,
+                "matches": 13,
+                "win_pct": 38.46,
+                "retained_players": [
+                    "AD Mascarenhas",
+                    "GC Smith",
+                    "Kamran Khan",
+                    "M Rawat",
+                    "MM Patel",
+                    "NK Patel",
+                    "RA Jadeja",
+                    "SA Asnodkar",
+                    "SK Trivedi",
+                    "SK Warne",
+                    "T Henderson",
+                    "YK Pathan"
+                ],
+                "result": "Group Stage"
+            },
+            "2010": {
+                "year": 2010,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "AD Mascarenhas",
+                    "AS Raut",
+                    "GC Smith",
+                    "Kamran Khan",
+                    "M Morkel",
+                    "MM Patel",
+                    "NV Ojha",
+                    "SA Asnodkar",
+                    "SK Trivedi",
+                    "SK Warne",
+                    "YK Pathan"
+                ],
+                "result": "Group Stage"
+            },
+            "2011": {
+                "year": 2011,
+                "wins": 6,
+                "matches": 13,
+                "win_pct": 46.15,
+                "retained_players": [
+                    "AG Paunikar",
+                    "AS Raut",
+                    "FY Fazal",
+                    "SA Asnodkar",
+                    "SK Trivedi",
+                    "SK Warne",
+                    "SR Watson",
+                    "SW Tait"
+                ],
+                "result": "Group Stage"
+            },
+            "2012": {
+                "year": 2012,
+                "wins": 7,
+                "matches": 16,
+                "win_pct": 43.75,
+                "retained_players": [
+                    "A Singh",
+                    "AA Chavan",
+                    "AL Menaria",
+                    "AM Rahane",
+                    "DH Yagnik",
+                    "J Botha",
+                    "Pankaj Singh",
+                    "R Dravid",
+                    "SK Trivedi",
+                    "SR Watson",
+                    "STR Binny",
+                    "SW Tait"
+                ],
+                "result": "Group Stage"
+            },
+            "2013": {
+                "year": 2013,
+                "wins": 11,
+                "matches": 18,
+                "win_pct": 61.11,
+                "retained_players": [
+                    "A Chandila",
+                    "AA Chavan",
+                    "AL Menaria",
+                    "AM Rahane",
+                    "BJ Hodge",
+                    "DH Yagnik",
+                    "GB Hogg",
+                    "KK Cooper",
+                    "OA Shah",
+                    "R Dravid",
+                    "SK Trivedi",
+                    "SR Watson",
+                    "STR Binny",
+                    "SW Tait"
+                ],
+                "result": "Group Stage"
+            },
+            "2014": {
+                "year": 2014,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "AM Nayar",
+                    "AM Rahane",
+                    "Ankit Sharma",
+                    "BCJ Cutting",
+                    "BJ Hodge",
+                    "DH Yagnik",
+                    "DS Kulkarni",
+                    "JP Faulkner",
+                    "KK Cooper",
+                    "KK Nair",
+                    "KW Richardson",
+                    "PV Tambe",
+                    "R Bhatia",
+                    "R Tewatia",
+                    "SPD Smith",
+                    "SR Watson",
+                    "STR Binny",
+                    "SV Samson",
+                    "TG Southee",
+                    "VS Malik"
+                ],
+                "result": "Group Stage"
+            },
+            "2015": {
+                "year": 2015,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "AM Rahane",
+                    "Ankit Sharma",
+                    "DS Kulkarni",
+                    "JP Faulkner",
+                    "KK Nair",
+                    "PV Tambe",
+                    "R Bhatia",
+                    "SPD Smith",
+                    "SR Watson",
+                    "STR Binny",
+                    "SV Samson",
+                    "TG Southee"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Delhi Capitals": {
+        "overall": {
+            "total_matches": 120,
+            "total_wins": 58,
+            "win_pct": 48.33,
+            "first_year": 2019,
+            "last_year": 2026,
+            "best_season": {
+                "year": 2019,
+                "wins": 9
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "RR Pant",
+                "runs": 1957
+            },
+            "most_wickets_player": {
+                "player": "AR Patel",
+                "wickets": 74
+            },
+            "best_team_score": 264
+        },
+        "season_wise": {
+            "2019": {
+                "year": 2019,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2020": {
+                "year": 2020,
+                "wins": 8,
+                "matches": 17,
+                "win_pct": 47.06,
+                "retained_players": [
+                    "A Mishra",
+                    "AR Patel",
+                    "Avesh Khan",
+                    "HV Patel",
+                    "I Sharma",
+                    "K Rabada",
+                    "PP Shaw",
+                    "RR Pant",
+                    "S Dhawan",
+                    "SS Iyer"
+                ],
+                "result": "Group Stage"
+            },
+            "2021": {
+                "year": 2021,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": [
+                    "A Mishra",
+                    "A Nortje",
+                    "AM Rahane",
+                    "AR Patel",
+                    "Avesh Khan",
+                    "I Sharma",
+                    "K Rabada",
+                    "MP Stoinis",
+                    "PP Shaw",
+                    "R Ashwin",
+                    "RR Pant",
+                    "S Dhawan",
+                    "SO Hetmyer",
+                    "SS Iyer"
+                ],
+                "result": "Group Stage"
+            },
+            "2022": {
+                "year": 2022,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "A Nortje",
+                    "AR Patel",
+                    "Lalit Yadav",
+                    "Mandeep Singh",
+                    "PP Shaw",
+                    "R Powell",
+                    "RR Pant",
+                    "RV Patel",
+                    "SN Thakur",
+                    "TL Seifert"
+                ],
+                "result": "Group Stage"
+            },
+            "2023": {
+                "year": 2023,
+                "wins": 5,
+                "matches": 14,
+                "win_pct": 35.71,
+                "retained_players": [
+                    "A Nortje",
+                    "AR Patel",
+                    "C Sakariya",
+                    "DA Warner",
+                    "KK Ahmed",
+                    "Kuldeep Yadav",
+                    "Lalit Yadav",
+                    "MR Marsh",
+                    "Mustafizur Rahman",
+                    "PP Shaw",
+                    "R Powell",
+                    "RV Patel",
+                    "SN Khan"
+                ],
+                "result": "Group Stage"
+            },
+            "2024": {
+                "year": 2024,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "A Nortje",
+                    "AR Patel",
+                    "Abishek Porel",
+                    "DA Warner",
+                    "I Sharma",
+                    "KK Ahmed",
+                    "Kuldeep Yadav",
+                    "Lalit Yadav",
+                    "MR Marsh",
+                    "Mukesh Kumar",
+                    "PP Shaw"
+                ],
+                "result": "Group Stage"
+            },
+            "2025": {
+                "year": 2025,
+                "wins": 6,
+                "matches": 15,
+                "win_pct": 40.0,
+                "retained_players": [
+                    "AR Patel",
+                    "Abishek Porel",
+                    "J Fraser-McGurk",
+                    "Kuldeep Yadav",
+                    "Mukesh Kumar",
+                    "T Stubbs"
+                ],
+                "result": "Group Stage"
+            },
+            "2026": {
+                "year": 2026,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "AR Patel",
+                    "Abishek Porel",
+                    "Ashutosh Sharma",
+                    "KK Nair",
+                    "KL Rahul",
+                    "Kuldeep Yadav",
+                    "M Tiwari",
+                    "MA Starc",
+                    "Mukesh Kumar",
+                    "PVD Chameera",
+                    "Sameer Rizvi",
+                    "T Natarajan",
+                    "T Stubbs",
+                    "V Nigam"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Punjab Kings": {
+        "overall": {
+            "total_matches": 88,
+            "total_wins": 41,
+            "win_pct": 46.59,
+            "first_year": 2021,
+            "last_year": 2026,
+            "best_season": {
+                "year": 2025,
+                "wins": 10
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "P Simran Singh",
+                "runs": 1701
+            },
+            "most_wickets_player": {
+                "player": "Arshdeep Singh",
+                "wickets": 99
+            },
+            "best_team_score": 265
+        },
+        "season_wise": {
+            "2021": {
+                "year": 2021,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2022": {
+                "year": 2022,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "Arshdeep Singh",
+                    "Harpreet Brar",
+                    "M Shahrukh Khan",
+                    "MA Agarwal",
+                    "NT Ellis",
+                    "P Simran Singh"
+                ],
+                "result": "Group Stage"
+            },
+            "2023": {
+                "year": 2023,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "Arshdeep Singh",
+                    "Harpreet Brar",
+                    "JM Sharma",
+                    "K Rabada",
+                    "LS Livingstone",
+                    "M Shahrukh Khan",
+                    "NT Ellis",
+                    "P Simran Singh",
+                    "PBB Rajapaksa",
+                    "R Dhawan",
+                    "RD Chahar",
+                    "S Dhawan"
+                ],
+                "result": "Group Stage"
+            },
+            "2024": {
+                "year": 2024,
+                "wins": 5,
+                "matches": 14,
+                "win_pct": 35.71,
+                "retained_players": [
+                    "Arshdeep Singh",
+                    "Atharva Taide",
+                    "Harpreet Brar",
+                    "Harpreet Singh",
+                    "JM Sharma",
+                    "K Rabada",
+                    "LS Livingstone",
+                    "NT Ellis",
+                    "P Simran Singh",
+                    "R Dhawan",
+                    "RD Chahar",
+                    "S Dhawan",
+                    "SM Curran",
+                    "Sikandar Raza"
+                ],
+                "result": "Group Stage"
+            },
+            "2025": {
+                "year": 2025,
+                "wins": 10,
+                "matches": 18,
+                "win_pct": 55.56,
+                "retained_players": [
+                    "Arshdeep Singh",
+                    "Harpreet Brar",
+                    "P Simran Singh",
+                    "Shashank Singh"
+                ],
+                "result": "Group Stage"
+            },
+            "2026": {
+                "year": 2026,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "Arshdeep Singh",
+                    "Azmatullah Omarzai",
+                    "Harpreet Brar",
+                    "LH Ferguson",
+                    "M Jansen",
+                    "MP Stoinis",
+                    "N Wadhera",
+                    "P Simran Singh",
+                    "Priyansh Arya",
+                    "SS Iyer",
+                    "Shashank Singh",
+                    "Suryansh Shedge",
+                    "Vijaykumar Vyshak",
+                    "XC Bartlett",
+                    "YS Chahal",
+                    "Yash Thakur"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Lucknow Super Giants": {
+        "overall": {
+            "total_matches": 72,
+            "total_wins": 34,
+            "win_pct": 47.22,
+            "first_year": 2022,
+            "last_year": 2026,
+            "best_season": {
+                "year": 2022,
+                "wins": 9
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "N Pooran",
+                "runs": 1586
+            },
+            "most_wickets_player": {
+                "player": "Ravi Bishnoi",
+                "wickets": 48
+            },
+            "best_team_score": 257
+        },
+        "season_wise": {
+            "2022": {
+                "year": 2022,
+                "wins": 9,
+                "matches": 15,
+                "win_pct": 60.0,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2023": {
+                "year": 2023,
+                "wins": 8,
+                "matches": 15,
+                "win_pct": 53.33,
+                "retained_players": [
+                    "A Badoni",
+                    "Avesh Khan",
+                    "DJ Hooda",
+                    "K Gowtham",
+                    "KH Pandya",
+                    "KL Rahul",
+                    "KS Sharma",
+                    "MP Stoinis",
+                    "Mohsin Khan",
+                    "Q de Kock",
+                    "Ravi Bishnoi"
+                ],
+                "result": "Group Stage"
+            },
+            "2024": {
+                "year": 2024,
+                "wins": 7,
+                "matches": 14,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "A Badoni",
+                    "A Mishra",
+                    "DJ Hooda",
+                    "K Gowtham",
+                    "KH Pandya",
+                    "KL Rahul",
+                    "MP Stoinis",
+                    "Mohsin Khan",
+                    "N Pooran",
+                    "Naveen-ul-Haq",
+                    "Q de Kock",
+                    "Ravi Bishnoi",
+                    "Yash Thakur",
+                    "Yudhvir Singh"
+                ],
+                "result": "Group Stage"
+            },
+            "2025": {
+                "year": 2025,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "A Badoni",
+                    "M Siddharth",
+                    "MP Yadav",
+                    "N Pooran",
+                    "Ravi Bishnoi"
+                ],
+                "result": "Group Stage"
+            },
+            "2026": {
+                "year": 2026,
+                "wins": 4,
+                "matches": 14,
+                "win_pct": 28.57,
+                "retained_players": [
+                    "A Badoni",
+                    "AK Markram",
+                    "Abdul Samad",
+                    "Akash Singh",
+                    "Avesh Khan",
+                    "DS Rathi",
+                    "M Siddharth",
+                    "MP Yadav",
+                    "MR Marsh",
+                    "N Pooran",
+                    "Prince Yadav",
+                    "RR Pant",
+                    "Shahbaz Ahmed"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Gujarat Titans": {
+        "overall": {
+            "total_matches": 77,
+            "total_wins": 47,
+            "win_pct": 61.04,
+            "first_year": 2022,
+            "last_year": 2026,
+            "best_season": {
+                "year": 2022,
+                "wins": 12
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "Shubman Gill",
+                "runs": 3181
+            },
+            "most_wickets_player": {
+                "player": "Rashid Khan",
+                "wickets": 86
+            },
+            "best_team_score": 233
+        },
+        "season_wise": {
+            "2022": {
+                "year": 2022,
+                "wins": 12,
+                "matches": 16,
+                "win_pct": 75.0,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2023": {
+                "year": 2023,
+                "wins": 11,
+                "matches": 17,
+                "win_pct": 64.71,
+                "retained_players": [
+                    "A Manohar",
+                    "AS Joseph",
+                    "B Sai Sudharsan",
+                    "DA Miller",
+                    "DG Nalkande",
+                    "HH Pandya",
+                    "Mohammed Shami",
+                    "R Tewatia",
+                    "Rashid Khan",
+                    "Shubman Gill",
+                    "V Shankar",
+                    "WP Saha",
+                    "Yash Dayal"
+                ],
+                "result": "Group Stage"
+            },
+            "2024": {
+                "year": 2024,
+                "wins": 5,
+                "matches": 12,
+                "win_pct": 41.67,
+                "retained_players": [
+                    "A Manohar",
+                    "B Sai Sudharsan",
+                    "DA Miller",
+                    "DG Nalkande",
+                    "J Little",
+                    "MM Sharma",
+                    "Noor Ahmad",
+                    "R Tewatia",
+                    "Rashid Khan",
+                    "Shubman Gill",
+                    "V Shankar",
+                    "WP Saha"
+                ],
+                "result": "Group Stage"
+            },
+            "2025": {
+                "year": 2025,
+                "wins": 9,
+                "matches": 15,
+                "win_pct": 60.0,
+                "retained_players": [
+                    "B Sai Sudharsan",
+                    "M Shahrukh Khan",
+                    "R Sai Kishore",
+                    "R Tewatia",
+                    "Rashid Khan",
+                    "Shubman Gill"
+                ],
+                "result": "Group Stage"
+            },
+            "2026": {
+                "year": 2026,
+                "wins": 10,
+                "matches": 17,
+                "win_pct": 58.82,
+                "retained_players": [
+                    "Arshad Khan",
+                    "B Sai Sudharsan",
+                    "JC Buttler",
+                    "K Khejroliya",
+                    "K Rabada",
+                    "M Prasidh Krishna",
+                    "M Shahrukh Khan",
+                    "Mohammed Siraj",
+                    "R Sai Kishore",
+                    "R Tewatia",
+                    "Rashid Khan",
+                    "Shubman Gill",
+                    "Washington Sundar"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Royal Challengers Bengaluru": {
+        "overall": {
+            "total_matches": 46,
+            "total_wins": 29,
+            "win_pct": 63.04,
+            "first_year": 2024,
+            "last_year": 2026,
+            "best_season": {
+                "year": 2025,
+                "wins": 11
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "V Kohli",
+                "runs": 2073
+            },
+            "most_wickets_player": {
+                "player": "B Kumar",
+                "wickets": 45
+            },
+            "best_team_score": 262
+        },
+        "season_wise": {
+            "2024": {
+                "year": 2024,
+                "wins": 7,
+                "matches": 15,
+                "win_pct": 46.67,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2025": {
+                "year": 2025,
+                "wins": 11,
+                "matches": 15,
+                "win_pct": 73.33,
+                "retained_players": [
+                    "RM Patidar",
+                    "V Kohli",
+                    "Yash Dayal"
+                ],
+                "result": "Group Stage"
+            },
+            "2026": {
+                "year": 2026,
+                "wins": 11,
+                "matches": 16,
+                "win_pct": 68.75,
+                "retained_players": [
+                    "B Kumar",
+                    "D Padikkal",
+                    "JG Bethell",
+                    "JM Sharma",
+                    "JR Hazlewood",
+                    "KH Pandya",
+                    "PD Salt",
+                    "R Shepherd",
+                    "RM Patidar",
+                    "Rasikh Salam",
+                    "Suyash Sharma",
+                    "TH David",
+                    "V Kohli"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Deccan Chargers": {
+        "overall": {
+            "total_matches": 75,
+            "total_wins": 29,
+            "win_pct": 38.67,
+            "first_year": 2008,
+            "last_year": 2012,
+            "best_season": {
+                "year": 2009,
+                "wins": 9
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "AC Gilchrist",
+                "runs": 1220
+            },
+            "most_wickets_player": {
+                "player": "PP Ojha",
+                "wickets": 60
+            },
+            "best_team_score": 214
+        },
+        "season_wise": {
+            "2008": {
+                "year": 2008,
+                "wins": 2,
+                "matches": 14,
+                "win_pct": 14.29,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2009": {
+                "year": 2009,
+                "wins": 9,
+                "matches": 16,
+                "win_pct": 56.25,
+                "retained_players": [
+                    "A Symonds",
+                    "AC Gilchrist",
+                    "DB Ravi Teja",
+                    "HH Gibbs",
+                    "PP Ojha",
+                    "RG Sharma",
+                    "RP Singh",
+                    "SB Styris",
+                    "VVS Laxman",
+                    "WPUJC Vaas",
+                    "Y Venugopal Rao"
+                ],
+                "result": "Group Stage"
+            },
+            "2010": {
+                "year": 2010,
+                "wins": 8,
+                "matches": 16,
+                "win_pct": 50.0,
+                "retained_players": [
+                    "A Symonds",
+                    "AA Bilakhia",
+                    "AC Gilchrist",
+                    "DR Smith",
+                    "HH Gibbs",
+                    "Harmeet Singh",
+                    "Jaskaran Singh",
+                    "PP Ojha",
+                    "RG Sharma",
+                    "RJ Harris",
+                    "RP Singh",
+                    "TL Suman",
+                    "VVS Laxman",
+                    "WPUJC Vaas",
+                    "Y Venugopal Rao"
+                ],
+                "result": "Group Stage"
+            },
+            "2011": {
+                "year": 2011,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": [
+                    "Harmeet Singh",
+                    "PP Ojha"
+                ],
+                "result": "Group Stage"
+            },
+            "2012": {
+                "year": 2012,
+                "wins": 4,
+                "matches": 15,
+                "win_pct": 26.67,
+                "retained_players": [
+                    "A Mishra",
+                    "Anand Rajan",
+                    "B Chipli",
+                    "CL White",
+                    "DB Ravi Teja",
+                    "DT Christian",
+                    "DW Steyn",
+                    "IR Jaggi",
+                    "JP Duminy",
+                    "KC Sangakkara",
+                    "MS Gony",
+                    "S Dhawan"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Kochi Tuskers Kerala": {
+        "overall": {
+            "total_matches": 14,
+            "total_wins": 6,
+            "win_pct": 42.86,
+            "first_year": 2011,
+            "last_year": 2011,
+            "best_season": {
+                "year": 2011,
+                "wins": 6
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "BB McCullum",
+                "runs": 357
+            },
+            "most_wickets_player": {
+                "player": "RP Singh",
+                "wickets": 13
+            },
+            "best_team_score": 184
+        },
+        "season_wise": {
+            "2011": {
+                "year": 2011,
+                "wins": 6,
+                "matches": 14,
+                "win_pct": 42.86,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Pune Warriors": {
+        "overall": {
+            "total_matches": 46,
+            "total_wins": 12,
+            "win_pct": 26.09,
+            "first_year": 2011,
+            "last_year": 2013,
+            "best_season": {
+                "year": 2011,
+                "wins": 4
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "RV Uthappa",
+                "runs": 1103
+            },
+            "most_wickets_player": {
+                "player": "R Sharma",
+                "wickets": 34
+            },
+            "best_team_score": 192
+        },
+        "season_wise": {
+            "2011": {
+                "year": 2011,
+                "wins": 4,
+                "matches": 14,
+                "win_pct": 28.57,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            },
+            "2012": {
+                "year": 2012,
+                "wins": 4,
+                "matches": 16,
+                "win_pct": 25.0,
+                "retained_players": [
+                    "AC Thomas",
+                    "B Kumar",
+                    "CJ Ferguson",
+                    "Harpreet Singh",
+                    "JD Ryder",
+                    "M Kartik",
+                    "M Manhas",
+                    "MD Mishra",
+                    "MK Pandey",
+                    "R Sharma",
+                    "RV Uthappa",
+                    "SC Ganguly",
+                    "WD Parnell"
+                ],
+                "result": "Group Stage"
+            },
+            "2013": {
+                "year": 2013,
+                "wins": 4,
+                "matches": 16,
+                "win_pct": 25.0,
+                "retained_players": [
+                    "AB Dinda",
+                    "AD Mathews",
+                    "AG Murtaza",
+                    "B Kumar",
+                    "K Upadhyay",
+                    "LJ Wright",
+                    "M Manhas",
+                    "MK Pandey",
+                    "MN Samuels",
+                    "R Sharma",
+                    "RV Uthappa",
+                    "SPD Smith",
+                    "WD Parnell"
+                ],
+                "result": "Group Stage"
+            }
+        }
+    },
+    "Rising Pune Supergiants": {
+        "overall": {
+            "total_matches": 14,
+            "total_wins": 5,
+            "win_pct": 35.71,
+            "first_year": 2016,
+            "last_year": 2016,
+            "best_season": {
+                "year": 2016,
+                "wins": 5
+            },
+            "champions": [],
+            "most_runs_player": {
+                "player": "AM Rahane",
+                "runs": 480
+            },
+            "most_wickets_player": {
+                "player": "A Zampa",
+                "wickets": 12
+            },
+            "best_team_score": 195
+        },
+        "season_wise": {
+            "2016": {
+                "year": 2016,
+                "wins": 5,
+                "matches": 14,
+                "win_pct": 35.71,
+                "retained_players": "NA",
+                "result": "Group Stage"
+            }
+        }
+    }
+}

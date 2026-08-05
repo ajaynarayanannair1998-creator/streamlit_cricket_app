@@ -1,0 +1,80 @@
+{
+    "team":{
+    "Chennai Super Kings":{
+    "bg-color":"#FFFF00",
+    "text_color":"#0000FF"
+    },
+    "Gujarat Titans":{
+    "bg-color":"#192841",
+    "text_color":"#73C2FB"
+    },
+    "Kolkata Knight Riders":{
+    "bg-color":"#4E1380",
+    "text_color":"#EFBF04"
+    },
+    "Lucknow Super Giants":{
+    "bg-color":"#FF0800",
+    "text_color":"#00008B"
+    },
+    "Rajasthan Royals":{
+    "bg-color":"#FC0FC0",
+    "text_color":"#FFFFFF"
+    },
+    "Sunrisers Hyderabad":{
+    "bg-color":"#FF4D00",
+    "text_color":"#000000"
+    },
+    "Delhi Capitals":{
+    "bg-color":"#033c8d",
+    "text_color":"#eb4159"
+    },
+    "Punjab Kings":{
+    "bg-color":"#c5220c",
+    "text_color":"#e8c41a"
+    },
+    "Royal Challengers Bengaluru":{
+    "bg-color":"#fd2833",
+    "text_color":"#1a193f"
+    },
+    "Royal Challengers Bangalore":{
+    "bg-color":"#fd2833",
+    "text_color":"#1a193f"
+    },
+    "Kings XI Punjab":{
+    "bg-color":"#CE2029",
+    "text_color":"#FFFFFF"
+    },
+    "Deccan Chargers":{
+    "bg-color":"#002147",
+    "text_color":"#FFFFFF"
+    },
+    "Kochi Tuskers Kerala":{
+    "bg-color":"#FF9933",
+    "text_color":"#B200ED"
+    },
+    "Pune Warriors":{
+    "bg-color":"#229fd1",
+    "text_color":"#FFFFFF"
+    },
+    "Delhi Daredevils":{
+    "bg-color":"#D21404",
+    "text_color":"#080838"
+    },
+    "Gujarat Lions":{
+    "bg-color":"#0000FF",
+    "text_color":"#F04A00"
+    },
+    "Rising Pune Supergiant":{
+    "bg-color":"#2D0841",
+    "text_color":"#FFBF00"
+    },
+    "Rising Pune Supergiants":{
+    "bg-color":"#2D0841",
+    "text_color":"#FFBF00"
+    },
+    "Mumbai Indians":{
+    "bg-color":"#015dda",
+    "text_color":"#eece99"
+    }
+    }
+}

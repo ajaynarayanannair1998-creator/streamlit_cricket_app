@@ -1,0 +1,331 @@
+batter,total_matches,total_runs,total_balls,total_dismissals,highest_score,debut_year,final_year,overall_strike_rate,batting_average,fifties,hundreds,teams_represented,last_known_team,predominant_batting_position
+V Kohli,275,9346,6930,229,113,2008,2026,134.86,40.81,69,9,"Royal Challengers Bangalore, Royal Challengers Bengaluru",Royal Challengers Bengaluru,Opener
+RG Sharma,275,7331,5517,244,109,2008,2026,132.88,30.05,49,2,"Mumbai Indians, Sunrisers Hyderabad",Mumbai Indians,Opener
+S Dhawan,221,6769,5326,187,106,2008,2024,127.09,36.2,51,2,"Delhi Capitals, Mumbai Indians, Punjab Kings, Sunrisers Hyderabad",Punjab Kings,Opener
+DA Warner,184,6567,4702,157,126,2009,2024,139.66,41.83,62,4,"Delhi Capitals, Sunrisers Hyderabad",Delhi Capitals,Opener
+KL Rahul,149,5828,4188,123,152,2013,2026,139.16,47.38,45,6,"Delhi Capitals, Lucknow Super Giants, Punjab Kings, Royal Challengers Bangalore, Sunrisers Hyderabad",Delhi Capitals,Opener
+SK Raina,200,5536,4046,162,100,2008,2021,136.83,34.17,39,1,"Chennai Super Kings, Gujarat Lions",Chennai Super Kings,No. 3
+MS Dhoni,241,5439,3957,139,84,2008,2025,137.45,39.13,24,0,"Chennai Super Kings, Rising Pune Supergiant",Chennai Super Kings,Finisher
+AM Rahane,197,5367,4273,172,105,2008,2026,125.6,31.2,35,2,"Chennai Super Kings, Delhi Capitals, Kolkata Knight Riders, Mumbai Indians, Rajasthan Royals, Rising Pune Supergiant",Kolkata Knight Riders,Opener
+SV Samson,185,5181,3671,159,119,2013,2026,141.13,32.58,27,5,"Chennai Super Kings, Delhi Capitals, Rajasthan Royals",Chennai Super Kings,No. 3
+AB de Villiers,170,5181,3411,122,133,2008,2021,151.89,42.47,41,3,"Delhi Capitals, Royal Challengers Bangalore",Royal Challengers Bangalore,No. 4
+CH Gayle,141,4997,3346,124,175,2009,2021,149.34,40.3,32,6,"Kolkata Knight Riders, Punjab Kings, Royal Challengers Bangalore",Punjab Kings,Opener
+RV Uthappa,197,4954,3801,175,88,2008,2022,130.33,28.31,27,0,"Chennai Super Kings, Kolkata Knight Riders, Mumbai Indians, Pune Warriors, Rajasthan Royals, Royal Challengers Bangalore",Chennai Super Kings,Opener
+KD Karthik,233,4843,3580,175,97,2008,2024,135.28,27.67,22,0,"Delhi Capitals, Gujarat Lions, Kolkata Knight Riders, Mumbai Indians, Punjab Kings, Royal Challengers Bangalore, Royal Challengers Bengaluru",Royal Challengers Bengaluru,Finisher
+F du Plessis,147,4773,3515,128,96,2012,2025,135.79,37.29,39,0,"Chennai Super Kings, Delhi Capitals, Rising Pune Supergiant, Royal Challengers Bangalore, Royal Challengers Bengaluru",Delhi Capitals,Opener
+JC Buttler,136,4647,3105,115,124,2016,2026,149.66,40.41,28,7,"Gujarat Titans, Mumbai Indians, Rajasthan Royals",Gujarat Titans,Opener
+Shubman Gill,130,4598,3236,111,129,2018,2026,142.09,41.42,32,5,"Gujarat Titans, Kolkata Knight Riders",Gujarat Titans,Opener
+SA Yadav,164,4581,3084,132,103,2012,2026,148.54,34.7,31,2,"Kolkata Knight Riders, Mumbai Indians",Mumbai Indians,No. 3
+AT Rayudu,185,4348,3409,148,100,2010,2023,127.54,29.38,22,1,"Chennai Super Kings, Mumbai Indians",Chennai Super Kings,Finisher
+SS Iyer,144,4233,3095,117,101,2015,2026,136.77,36.18,32,1,"Delhi Capitals, Kolkata Knight Riders, Punjab Kings",Punjab Kings,No. 3
+G Gambhir,151,4217,3404,128,93,2008,2018,123.88,32.95,36,0,"Delhi Capitals, Kolkata Knight Riders",Delhi Capitals,Opener
+MK Pandey,163,4021,3297,135,114,2008,2026,121.96,29.79,22,1,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians, Pune Warriors, Royal Challengers Bangalore, Sunrisers Hyderabad",Kolkata Knight Riders,No. 3
+SR Watson,141,3880,2813,123,117,2008,2020,137.93,31.54,21,4,"Chennai Super Kings, Rajasthan Royals, Royal Challengers Bangalore",Chennai Super Kings,Opener
+RR Pant,136,3879,2644,111,128,2016,2026,146.71,34.95,20,2,"Delhi Capitals, Lucknow Super Giants",Lucknow Super Giants,No. 4
+Ishan Kishan,127,3600,2508,115,106,2016,2026,143.54,31.3,23,1,"Gujarat Lions, Mumbai Indians, Sunrisers Hyderabad",Sunrisers Hyderabad,Opener
+RA Jadeja,205,3526,2699,119,77,2008,2026,130.64,29.63,5,0,"Chennai Super Kings, Gujarat Lions, Kochi Tuskers Kerala, Rajasthan Royals",Rajasthan Royals,Finisher
+Q de Kock,118,3444,2553,107,140,2013,2026,134.9,32.19,24,3,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians, Royal Challengers Bangalore, Sunrisers Hyderabad",Mumbai Indians,Opener
+KA Pollard,168,3437,2329,119,87,2010,2022,147.57,28.88,16,0,Mumbai Indians,Mumbai Indians,Finisher
+DA Miller,143,3288,2358,89,101,2012,2026,139.44,36.94,14,1,"Delhi Capitals, Gujarat Titans, Lucknow Super Giants, Punjab Kings, Rajasthan Royals",Delhi Capitals,Finisher
+YK Pathan,153,3222,2245,105,100,2008,2019,143.52,30.69,14,1,"Kolkata Knight Riders, Rajasthan Royals, Sunrisers Hyderabad",Sunrisers Hyderabad,Finisher
+N Rana,121,3078,2235,111,91,2016,2026,137.72,27.73,22,0,"Delhi Capitals, Kolkata Knight Riders, Mumbai Indians, Rajasthan Royals",Delhi Capitals,No. 4
+HH Pandya,150,2964,2025,104,91,2015,2026,146.37,28.5,10,0,"Gujarat Titans, Mumbai Indians",Mumbai Indians,Finisher
+WP Saha,143,2934,2300,118,115,2008,2024,127.57,24.86,13,1,"Chennai Super Kings, Gujarat Titans, Kolkata Knight Riders, Punjab Kings, Sunrisers Hyderabad",Gujarat Titans,Opener
+BB McCullum,109,2882,2190,102,158,2008,2018,131.6,28.25,13,2,"Chennai Super Kings, Gujarat Lions, Kochi Tuskers Kerala, Kolkata Knight Riders, Royal Challengers Bangalore",Royal Challengers Bangalore,Opener
+PA Patel,136,2848,2358,121,81,2008,2019,120.78,23.54,13,0,"Chennai Super Kings, Kochi Tuskers Kerala, Mumbai Indians, Royal Challengers Bangalore, Sunrisers Hyderabad",Royal Challengers Bangalore,Opener
+RD Gaikwad,84,2839,2093,72,108,2020,2026,135.64,39.43,22,2,Chennai Super Kings,Chennai Super Kings,Opener
+GJ Maxwell,134,2820,1818,114,95,2012,2025,155.12,24.74,18,0,"Delhi Capitals, Mumbai Indians, Punjab Kings, Royal Challengers Bangalore, Royal Challengers Bengaluru",Punjab Kings,No. 4
+MA Agarwal,125,2764,2066,117,106,2011,2025,133.79,23.62,13,1,"Delhi Capitals, Punjab Kings, Rising Pune Supergiant, Royal Challengers Bangalore, Royal Challengers Bengaluru, Sunrisers Hyderabad",Royal Challengers Bengaluru,Opener
+Yuvraj Singh,126,2754,2122,107,83,2008,2019,129.78,25.74,13,0,"Delhi Capitals, Mumbai Indians, Pune Warriors, Punjab Kings, Royal Challengers Bangalore, Sunrisers Hyderabad",Mumbai Indians,No. 4
+V Sehwag,104,2728,1755,95,122,2008,2015,155.44,28.72,16,2,"Delhi Capitals, Punjab Kings",Punjab Kings,Opener
+AD Russell,114,2655,1525,89,88,2012,2025,174.1,29.83,12,0,"Delhi Capitals, Kolkata Knight Riders",Kolkata Knight Riders,Finisher
+M Vijay,105,2619,2149,93,127,2009,2020,121.87,28.16,13,2,"Chennai Super Kings, Delhi Capitals, Punjab Kings",Chennai Super Kings,Opener
+YBK Jaiswal,82,2593,1697,76,124,2020,2026,152.8,34.12,18,2,Rajasthan Royals,Rajasthan Royals,Opener
+N Pooran,100,2527,1543,77,87,2019,2026,163.77,32.82,15,0,"Lucknow Super Giants, Punjab Kings, Sunrisers Hyderabad",Lucknow Super Giants,Finisher
+B Sai Sudharsan,57,2515,1686,51,108,2022,2026,149.17,49.31,20,3,Gujarat Titans,Gujarat Titans,Opener
+SPD Smith,93,2495,1945,70,101,2012,2021,128.28,35.64,11,1,"Delhi Capitals, Pune Warriors, Rajasthan Royals, Rising Pune Supergiant",Delhi Capitals,No. 3
+SE Marsh,69,2489,1871,61,115,2008,2017,133.03,40.8,20,1,Punjab Kings,Punjab Kings,No. 3
+JH Kallis,95,2427,2222,83,89,2008,2014,109.23,29.24,17,0,"Kolkata Knight Riders, Royal Challengers Bangalore",Kolkata Knight Riders,Opener
+DR Smith,88,2385,1764,80,87,2008,2017,135.2,29.81,17,0,"Chennai Super Kings, Gujarat Lions, Mumbai Indians, Sunrisers Hyderabad",Gujarat Lions,Opener
+Abhishek Sharma,89,2379,1389,80,141,2018,2026,171.27,29.74,13,2,"Delhi Capitals, Sunrisers Hyderabad",Sunrisers Hyderabad,Opener
+SR Tendulkar,78,2334,1948,67,100,2008,2013,119.82,34.84,13,1,Mumbai Indians,Mumbai Indians,Opener
+RA Tripathi,98,2291,1662,85,93,2017,2025,137.85,26.95,12,0,"Chennai Super Kings, Kolkata Knight Riders, Rajasthan Royals, Rising Pune Supergiant, Sunrisers Hyderabad",Chennai Super Kings,No. 3
+D Padikkal,89,2270,1705,84,101,2020,2026,133.14,27.02,14,1,"Lucknow Super Giants, Rajasthan Royals, Royal Challengers Bangalore, Royal Challengers Bengaluru",Royal Challengers Bengaluru,Opener
+MP Stoinis,108,2242,1520,77,124,2016,2026,147.5,29.12,10,1,"Delhi Capitals, Lucknow Super Giants, Punjab Kings, Royal Challengers Bangalore",Punjab Kings,Finisher
+R Dravid,82,2174,1882,75,75,2008,2013,115.52,28.99,11,0,"Rajasthan Royals, Royal Challengers Bangalore",Rajasthan Royals,Opener
+KS Williamson,76,2132,1697,58,89,2015,2024,125.63,36.76,18,0,"Gujarat Titans, Sunrisers Hyderabad",Gujarat Titans,No. 3
+S Dube,87,2129,1464,67,95,2019,2026,145.42,31.78,10,0,"Chennai Super Kings, Rajasthan Royals, Royal Challengers Bangalore",Chennai Super Kings,Finisher
+H Klaasen,60,2104,1262,49,105,2018,2026,166.72,42.94,13,2,"Rajasthan Royals, Royal Challengers Bangalore, Sunrisers Hyderabad",Sunrisers Hyderabad,Finisher
+AJ Finch,90,2092,1635,82,88,2010,2022,127.95,25.51,15,0,"Delhi Capitals, Gujarat Lions, Kolkata Knight Riders, Mumbai Indians, Pune Warriors, Punjab Kings, Rajasthan Royals, Royal Challengers Bangalore, Sunrisers Hyderabad",Kolkata Knight Riders,Opener
+AR Patel,134,2089,1562,94,66,2014,2026,133.74,22.22,4,0,"Delhi Capitals, Punjab Kings",Delhi Capitals,Lower Order
+AC Gilchrist,80,2069,1495,75,109,2008,2013,138.39,27.59,11,2,"Punjab Kings, Sunrisers Hyderabad",Punjab Kings,Opener
+JP Duminy,75,2029,1636,48,78,2009,2018,124.02,42.27,14,0,"Delhi Capitals, Mumbai Indians, Sunrisers Hyderabad",Mumbai Indians,Finisher
+KH Pandya,123,1982,1481,83,86,2016,2026,133.83,23.88,3,0,"Lucknow Super Giants, Mumbai Indians, Royal Challengers Bengaluru",Royal Challengers Bengaluru,Lower Order
+MEK Hussey,58,1977,1612,49,116,2008,2015,122.64,40.35,15,1,"Chennai Super Kings, Mumbai Indians",Chennai Super Kings,Opener
+PP Shaw,79,1892,1283,76,99,2018,2024,147.47,24.89,14,0,Delhi Capitals,Delhi Capitals,Opener
+R Parag,86,1879,1302,70,95,2019,2026,144.32,26.84,9,0,Rajasthan Royals,Rajasthan Royals,Finisher
+P Simran Singh,65,1865,1189,62,103,2019,2026,156.85,30.08,14,1,Punjab Kings,Punjab Kings,Opener
+Tilak Varma,65,1858,1284,50,101,2022,2026,144.7,37.16,10,1,Mumbai Indians,Mumbai Indians,Finisher
+MR Marsh,62,1855,1249,56,117,2010,2026,148.52,33.12,12,2,"Delhi Capitals, Lucknow Super Giants, Pune Warriors, Rising Pune Supergiant, Sunrisers Hyderabad",Lucknow Super Giants,Opener
+SP Narine,122,1820,1101,98,109,2012,2026,165.3,18.57,7,1,Kolkata Knight Riders,Kolkata Knight Riders,Opener
+DPMD Jayawardene,78,1808,1464,58,110,2008,2013,123.5,31.17,10,1,"Delhi Capitals, Kochi Tuskers Kerala, Punjab Kings",Delhi Capitals,Opener
+KK Nair,78,1712,1304,70,89,2013,2026,131.29,24.46,11,0,"Delhi Capitals, Punjab Kings, Rajasthan Royals, Royal Challengers Bangalore",Delhi Capitals,No. 3
+Mandeep Singh,97,1706,1388,80,77,2010,2023,122.91,21.32,6,0,"Delhi Capitals, Kolkata Knight Riders, Punjab Kings, Royal Challengers Bangalore",Kolkata Knight Riders,Finisher
+MK Tiwary,83,1695,1449,57,75,2008,2018,116.98,29.74,7,0,"Delhi Capitals, Kolkata Knight Riders, Punjab Kings, Rising Pune Supergiant",Punjab Kings,No. 4
+KC Sangakkara,68,1687,1392,65,94,2008,2013,121.19,25.95,10,0,"Punjab Kings, Sunrisers Hyderabad",Sunrisers Hyderabad,No. 3
+VR Iyer,62,1677,1181,53,104,2021,2026,142.0,31.64,13,1,"Kolkata Knight Riders, Royal Challengers Bengaluru",Royal Challengers Bengaluru,Opener
+JM Bairstow,52,1674,1146,47,114,2019,2025,146.07,35.62,9,2,"Mumbai Indians, Punjab Kings, Sunrisers Hyderabad",Mumbai Indians,Opener
+AK Markram,66,1671,1234,54,68,2021,2026,135.41,30.94,10,0,"Lucknow Super Giants, Punjab Kings, Sunrisers Hyderabad",Lucknow Super Giants,No. 4
+RM Patidar,52,1612,980,47,112,2021,2026,164.49,34.3,14,1,"Royal Challengers Bangalore, Royal Challengers Bengaluru",Royal Challengers Bengaluru,No. 4
+SO Hetmyer,85,1566,1049,56,75,2019,2026,149.29,27.96,5,0,"Delhi Capitals, Rajasthan Royals, Royal Challengers Bangalore",Rajasthan Royals,Finisher
+DJ Bravo,110,1560,1204,68,70,2008,2022,129.57,22.94,5,0,"Chennai Super Kings, Gujarat Lions, Mumbai Indians",Chennai Super Kings,Finisher
+TM Head,52,1556,915,47,102,2016,2026,170.05,33.11,10,1,"Royal Challengers Bangalore, Sunrisers Hyderabad",Sunrisers Hyderabad,Opener
+NV Ojha,94,1554,1313,72,94,2009,2018,118.35,21.58,6,0,"Delhi Capitals, Rajasthan Royals, Sunrisers Hyderabad",Delhi Capitals,Finisher
+DJ Hooda,101,1497,1173,79,64,2015,2025,127.62,18.95,8,0,"Chennai Super Kings, Lucknow Super Giants, Punjab Kings, Rajasthan Royals, Sunrisers Hyderabad",Chennai Super Kings,Finisher
+SS Tiwary,73,1494,1244,49,61,2008,2021,120.1,30.49,8,0,"Delhi Capitals, Mumbai Indians, Rising Pune Supergiant, Royal Challengers Bangalore",Mumbai Indians,Finisher
+S Badrinath,65,1441,1212,46,71,2008,2013,118.89,31.33,11,0,Chennai Super Kings,Chennai Super Kings,No. 4
+EJG Morgan,74,1406,1148,59,68,2010,2021,122.47,23.83,5,0,"Kolkata Knight Riders, Punjab Kings, Royal Challengers Bangalore, Sunrisers Hyderabad",Kolkata Knight Riders,Finisher
+BJ Hodge,63,1400,1118,41,73,2008,2014,125.22,34.15,6,0,"Kochi Tuskers Kerala, Kolkata Knight Riders, Rajasthan Royals",Rajasthan Royals,Finisher
+RK Singh,62,1398,956,41,87,2018,2026,146.23,34.1,6,0,Kolkata Knight Riders,Kolkata Knight Riders,Finisher
+SC Ganguly,56,1349,1263,52,91,2008,2012,106.81,25.94,7,0,"Kolkata Knight Riders, Pune Warriors",Pune Warriors,Opener
+CA Lynn,42,1329,945,38,93,2012,2021,140.63,34.97,10,0,"Kolkata Knight Riders, Mumbai Indians, Sunrisers Hyderabad",Mumbai Indians,Opener
+DJ Hussey,61,1322,1075,46,71,2008,2014,122.98,28.74,5,0,"Chennai Super Kings, Kolkata Knight Riders, Punjab Kings",Chennai Super Kings,No. 4
+R Tewatia,91,1302,943,53,68,2014,2026,138.07,24.57,2,0,"Delhi Capitals, Gujarat Titans, Punjab Kings, Rajasthan Royals",Gujarat Titans,Finisher
+PD Salt,40,1258,721,37,89,2023,2026,174.48,34.0,12,0,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bengaluru",Royal Challengers Bengaluru,Opener
+V Shankar,63,1233,950,46,69,2017,2025,129.79,26.8,7,0,"Chennai Super Kings, Delhi Capitals, Gujarat Titans, Sunrisers Hyderabad",Chennai Super Kings,Finisher
+KM Jadhav,81,1208,981,51,69,2010,2023,123.14,23.69,4,0,"Chennai Super Kings, Delhi Capitals, Kochi Tuskers Kerala, Royal Challengers Bangalore, Sunrisers Hyderabad",Royal Challengers Bangalore,Finisher
+Dhruv Jurel,51,1195,775,36,81,2023,2026,154.19,33.19,10,0,Rajasthan Royals,Rajasthan Royals,Finisher
+A Badoni,56,1178,836,45,74,2022,2026,140.91,26.18,7,0,Lucknow Super Giants,Lucknow Super Giants,Finisher
+MM Ali,59,1167,835,51,93,2018,2025,139.76,22.88,6,0,"Chennai Super Kings, Kolkata Knight Riders, Royal Challengers Bangalore",Kolkata Knight Riders,Finisher
+TM Dilshan,50,1153,1007,40,76,2008,2013,114.5,28.82,9,0,"Delhi Capitals, Royal Challengers Bangalore",Royal Challengers Bangalore,Opener
+TH David,59,1151,650,34,70,2021,2026,177.08,33.85,2,0,"Mumbai Indians, Royal Challengers Bangalore, Royal Challengers Bengaluru",Royal Challengers Bengaluru,Finisher
+IK Pathan,82,1150,950,49,60,2008,2017,121.05,23.47,1,0,"Delhi Capitals, Gujarat Lions, Punjab Kings, Rising Pune Supergiant, Sunrisers Hyderabad",Gujarat Lions,Finisher
+JM Sharma,59,1107,726,48,85,2022,2026,152.48,23.06,1,0,"Punjab Kings, Royal Challengers Bengaluru",Royal Challengers Bengaluru,Finisher
+ML Hayden,32,1107,806,27,93,2008,2010,137.34,41.0,8,0,Chennai Super Kings,Chennai Super Kings,Opener
+M Vohra,51,1083,829,47,95,2013,2023,130.64,23.04,3,0,"Lucknow Super Giants, Punjab Kings, Rajasthan Royals, Royal Challengers Bangalore",Lucknow Super Giants,Opener
+DP Conway,28,1080,773,24,92,2022,2025,139.72,45.0,11,0,Chennai Super Kings,Chennai Super Kings,Opener
+LMP Simmons,29,1079,852,26,100,2014,2017,126.64,41.5,11,1,Mumbai Indians,Mumbai Indians,Opener
+LS Livingstone,49,1066,687,41,94,2019,2026,155.17,26.0,7,0,"Punjab Kings, Rajasthan Royals, Royal Challengers Bengaluru, Sunrisers Hyderabad",Sunrisers Hyderabad,No. 4
+C Green,42,1029,681,26,100,2023,2026,151.1,39.58,4,1,"Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bengaluru",Kolkata Knight Riders,No. 3
+V Suryavanshi,23,1028,449,23,103,2025,2026,228.95,44.7,6,2,Rajasthan Royals,Rajasthan Royals,Opener
+LRPL Taylor,54,1017,822,38,81,2008,2014,123.72,26.76,3,0,"Delhi Capitals, Pune Warriors, Rajasthan Royals, Royal Challengers Bangalore",Delhi Capitals,Finisher
+KP Pietersen,36,1001,743,27,103,2009,2016,134.72,37.07,4,1,"Delhi Capitals, Rising Pune Supergiant, Royal Challengers Bangalore",Rising Pune Supergiant,No. 3
+MC Henriques,54,1000,788,36,74,2009,2021,126.9,27.78,5,0,"Delhi Capitals, Kolkata Knight Riders, Punjab Kings, Royal Challengers Bangalore, Sunrisers Hyderabad",Punjab Kings,Finisher
+SM Curran,53,997,731,40,88,2019,2025,136.39,24.92,6,0,"Chennai Super Kings, Punjab Kings",Chennai Super Kings,Finisher
+T Stubbs,43,986,649,21,71,2022,2026,151.93,46.95,5,0,"Delhi Capitals, Mumbai Indians",Delhi Capitals,Finisher
+Y Venugopal Rao,52,985,836,42,71,2008,2014,117.82,23.45,3,0,"Delhi Capitals, Sunrisers Hyderabad",Sunrisers Hyderabad,Finisher
+JA Morkel,67,975,687,38,73,2008,2016,141.92,25.66,3,0,"Chennai Super Kings, Delhi Capitals, Rising Pune Supergiant, Royal Challengers Bangalore",Rising Pune Supergiant,Finisher
+A Symonds,36,974,750,24,117,2008,2011,129.87,40.58,5,1,"Mumbai Indians, Sunrisers Hyderabad",Mumbai Indians,No. 4
+CL White,45,971,760,34,78,2008,2013,127.76,28.56,6,0,"Royal Challengers Bangalore, Sunrisers Hyderabad",Sunrisers Hyderabad,No. 4
+BA Stokes,43,935,698,38,107,2017,2023,133.95,24.61,2,2,"Chennai Super Kings, Rajasthan Royals, Rising Pune Supergiant",Chennai Super Kings,Finisher
+Priyansh Arya,31,909,471,31,103,2025,2026,192.99,29.32,6,1,Punjab Kings,Punjab Kings,Opener
+Shashank Singh,42,905,560,24,68,2022,2026,161.61,37.71,6,0,"Punjab Kings, Sunrisers Hyderabad",Punjab Kings,Finisher
+Washington Sundar,59,888,656,41,55,2017,2026,135.37,21.66,3,0,"Gujarat Titans, Rising Pune Supergiant, Royal Challengers Bangalore, Sunrisers Hyderabad",Gujarat Titans,Finisher
+HH Gibbs,36,886,807,31,69,2008,2012,109.79,28.58,6,0,"Mumbai Indians, Sunrisers Hyderabad",Mumbai Indians,Opener
+A Raghuvanshi,30,885,608,24,82,2024,2026,145.56,36.88,7,0,Kolkata Knight Riders,Kolkata Knight Riders,No. 3
+STR Binny,66,880,683,43,48,2010,2019,128.84,20.47,0,0,"Mumbai Indians, Rajasthan Royals, Royal Challengers Bangalore",Rajasthan Royals,Finisher
+Abdul Samad,58,859,578,43,45,2020,2026,148.62,19.98,0,0,"Lucknow Super Giants, Sunrisers Hyderabad",Lucknow Super Giants,Lower Order
+RD Rickelton,26,836,497,24,123,2025,2026,168.21,34.83,5,1,Mumbai Indians,Mumbai Indians,Opener
+Harbhajan Singh,88,833,604,51,64,2008,2021,137.91,16.33,1,0,"Chennai Super Kings, Kolkata Knight Riders, Mumbai Indians",Kolkata Knight Riders,Lower Order
+R Ashwin,93,833,705,61,50,2009,2025,118.16,13.66,1,0,"Chennai Super Kings, Delhi Capitals, Punjab Kings, Rajasthan Royals, Rising Pune Supergiant",Chennai Super Kings,Lower Order
+MS Bisla,39,798,702,36,92,2010,2015,113.68,22.17,4,0,"Kolkata Knight Riders, Punjab Kings, Royal Challengers Bangalore",Royal Challengers Bangalore,Opener
+Shakib Al Hasan,52,795,639,39,66,2011,2021,124.41,20.38,2,0,"Kolkata Knight Riders, Sunrisers Hyderabad",Kolkata Knight Riders,Finisher
+Nithish Kumar Reddy,35,787,541,27,76,2024,2026,145.47,29.15,3,0,Sunrisers Hyderabad,Sunrisers Hyderabad,Finisher
+N Wadhera,37,784,560,32,70,2023,2026,140.0,24.5,4,0,"Mumbai Indians, Punjab Kings",Punjab Kings,Finisher
+M Shahrukh Khan,53,775,524,34,58,2021,2026,147.9,22.79,2,0,"Gujarat Titans, Punjab Kings",Gujarat Titans,Finisher
+Abishek Porel,33,769,529,30,65,2023,2026,145.37,25.63,4,0,Delhi Capitals,Delhi Capitals,Opener
+ST Jayasuriya,30,768,532,28,114,2008,2010,144.36,27.43,4,1,Mumbai Indians,Mumbai Indians,Opener
+SN Khan,43,746,543,33,67,2015,2026,137.38,22.61,2,0,"Chennai Super Kings, Delhi Capitals, Punjab Kings, Royal Challengers Bangalore",Chennai Super Kings,Finisher
+GC Smith,29,739,668,26,91,2008,2011,110.63,28.42,4,0,"Pune Warriors, Rajasthan Royals",Pune Warriors,Opener
+AD Mathews,41,724,575,28,65,2009,2017,125.91,25.86,1,0,"Delhi Capitals, Kolkata Knight Riders, Pune Warriors",Delhi Capitals,Finisher
+Naman Dhir,33,710,433,26,62,2024,2026,163.97,27.31,3,0,Mumbai Indians,Mumbai Indians,Lower Order
+TL Suman,39,676,575,30,78,2009,2013,117.57,22.53,2,0,"Mumbai Indians, Pune Warriors, Sunrisers Hyderabad",Pune Warriors,No. 3
+AM Nayar,50,672,577,36,45,2008,2014,116.46,18.67,0,0,"Mumbai Indians, Pune Warriors, Punjab Kings, Rajasthan Royals",Rajasthan Royals,Finisher
+GJ Bailey,36,663,544,26,61,2009,2016,121.88,25.5,2,0,"Chennai Super Kings, Punjab Kings, Rising Pune Supergiant",Rising Pune Supergiant,Finisher
+E Lewis,26,654,477,24,65,2018,2022,137.11,27.25,4,0,"Lucknow Super Giants, Mumbai Indians, Rajasthan Royals",Lucknow Super Giants,Opener
+PJ Cummins,51,642,421,32,66,2015,2026,152.49,20.06,3,0,"Delhi Capitals, Kolkata Knight Riders, Sunrisers Hyderabad",Sunrisers Hyderabad,Lower Order
+Rashid Khan,72,635,406,46,79,2017,2026,156.4,13.8,1,0,"Gujarat Titans, Sunrisers Hyderabad",Gujarat Titans,Lower Order
+PP Chawla,86,624,563,53,24,2008,2024,110.83,11.77,0,0,"Kolkata Knight Riders, Mumbai Indians, Punjab Kings",Mumbai Indians,Lower Order
+CH Morris,49,618,398,28,82,2013,2021,155.28,22.07,2,0,"Chennai Super Kings, Delhi Capitals, Rajasthan Royals, Royal Challengers Bangalore",Rajasthan Royals,Lower Order
+JJ Roy,21,614,443,19,91,2017,2023,138.6,32.32,4,0,"Delhi Capitals, Gujarat Lions, Kolkata Knight Riders, Sunrisers Hyderabad",Kolkata Knight Riders,Opener
+D Brevis,24,606,415,24,57,2022,2026,146.02,25.25,2,0,"Chennai Super Kings, Mumbai Indians",Chennai Super Kings,Finisher
+JD Ryder,29,604,458,27,86,2009,2012,131.88,22.37,4,0,"Pune Warriors, Royal Challengers Bangalore",Pune Warriors,Opener
+Shahbaz Ahmed,40,603,489,28,59,2020,2026,123.31,21.54,1,0,"Lucknow Super Giants, Royal Challengers Bangalore, Sunrisers Hyderabad",Lucknow Super Giants,Finisher
+WG Jacks,26,602,379,21,100,2024,2026,158.84,28.67,2,1,"Mumbai Indians, Royal Challengers Bengaluru",Mumbai Indians,No. 3
+HM Amla,16,577,407,13,104,2016,2017,141.77,44.38,3,2,Punjab Kings,Punjab Kings,Opener
+Ashutosh Sharma,26,564,334,19,66,2024,2026,168.86,29.68,2,0,"Delhi Capitals, Punjab Kings",Delhi Capitals,Lower Order
+R Powell,30,555,390,24,67,2022,2026,142.31,23.12,1,0,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals",Kolkata Knight Riders,Finisher
+JP Inglis,16,544,314,14,85,2025,2026,173.25,38.86,4,0,"Lucknow Super Giants, Punjab Kings",Lucknow Super Giants,No. 3
+CJ Anderson,29,538,423,22,95,2014,2018,127.19,24.45,3,0,"Delhi Capitals, Mumbai Indians, Royal Challengers Bangalore",Royal Challengers Bangalore,Finisher
+RS Bopara,22,531,453,17,84,2009,2015,117.22,31.24,3,0,"Punjab Kings, Sunrisers Hyderabad",Sunrisers Hyderabad,Opener
+MK Lomror,35,527,373,29,54,2018,2024,141.29,18.17,1,0,"Rajasthan Royals, Royal Challengers Bangalore, Royal Challengers Bengaluru",Royal Challengers Bengaluru,Finisher
+JP Faulkner,45,527,390,25,46,2012,2017,135.13,21.08,0,0,"Gujarat Lions, Punjab Kings, Rajasthan Royals",Gujarat Lions,Lower Order
+SE Rutherford,27,520,364,21,71,2019,2026,142.86,24.76,1,0,"Delhi Capitals, Gujarat Titans, Mumbai Indians, Royal Challengers Bangalore",Mumbai Indians,Finisher
+M Manhas,38,514,470,23,42,2009,2014,109.36,22.35,0,0,"Chennai Super Kings, Delhi Capitals, Pune Warriors",Chennai Super Kings,Finisher
+Gurkeerat Singh,32,511,422,24,65,2012,2020,121.09,21.29,2,0,"Punjab Kings, Royal Challengers Bangalore",Royal Challengers Bangalore,Finisher
+OA Shah,22,506,389,12,76,2010,2013,130.08,42.17,4,0,"Kochi Tuskers Kerala, Kolkata Knight Riders, Rajasthan Royals",Rajasthan Royals,Finisher
+PC Valthaty,23,505,418,22,120,2009,2013,120.81,22.95,2,1,"Punjab Kings, Rajasthan Royals",Punjab Kings,Opener
+SW Billings,27,503,388,26,56,2016,2022,129.64,19.35,3,0,"Chennai Super Kings, Delhi Capitals, Kolkata Knight Riders",Kolkata Knight Riders,Finisher
+C Connolly,13,491,301,11,107,2026,2026,163.12,44.64,2,1,Punjab Kings,Punjab Kings,No. 3
+RR Rossouw,22,473,308,20,82,2014,2024,153.57,23.65,2,0,"Delhi Capitals, Punjab Kings, Royal Challengers Bangalore",Punjab Kings,No. 3
+DT Christian,41,460,398,27,39,2011,2021,115.58,17.04,0,0,"Delhi Capitals, Rising Pune Supergiant, Royal Challengers Bangalore, Sunrisers Hyderabad",Royal Challengers Bangalore,Finisher
+A Mhatre,13,441,240,12,94,2025,2026,183.75,36.75,3,0,Chennai Super Kings,Chennai Super Kings,No. 3
+NLTC Perera,30,424,309,22,40,2011,2016,137.22,19.27,0,0,"Kochi Tuskers Kerala, Mumbai Indians, Punjab Kings, Rising Pune Supergiant, Sunrisers Hyderabad",Rising Pune Supergiant,Finisher
+Sameer Rizvi,18,424,293,14,90,2024,2026,144.71,30.29,3,0,"Chennai Super Kings, Delhi Capitals",Delhi Capitals,No. 4
+SA Asnodkar,19,423,339,18,60,2008,2011,124.78,23.5,2,0,Rajasthan Royals,Rajasthan Royals,Opener
+JR Hopes,19,417,306,16,71,2008,2011,136.27,26.06,4,0,"Delhi Capitals, Punjab Kings",Delhi Capitals,Opener
+R Ravindra,18,413,287,16,65,2024,2025,143.9,25.81,2,0,Chennai Super Kings,Chennai Super Kings,Opener
+J Botha,28,409,359,20,67,2009,2015,113.93,20.45,1,0,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals",Kolkata Knight Riders,Finisher
+LR Shukla,33,405,350,27,48,2008,2014,115.71,15.0,0,0,"Delhi Capitals, Kolkata Knight Riders",Delhi Capitals,Finisher
+AL Menaria,23,401,356,21,40,2011,2013,112.64,19.1,0,0,Rajasthan Royals,Rajasthan Royals,Finisher
+MV Boucher,23,394,309,14,50,2008,2011,127.51,28.14,1,0,"Kolkata Knight Riders, Royal Challengers Bangalore",Kolkata Knight Riders,Finisher
+CA Pujara,22,390,391,18,51,2010,2014,99.74,21.67,1,0,"Kolkata Knight Riders, Punjab Kings, Royal Challengers Bangalore",Punjab Kings,Opener
+Azhar Mahmood,21,388,303,19,80,2012,2015,128.05,20.42,2,0,"Kolkata Knight Riders, Punjab Kings",Kolkata Knight Riders,Finisher
+J Fraser-McGurk,15,385,193,14,84,2024,2025,199.48,27.5,4,0,Delhi Capitals,Delhi Capitals,Opener
+A Mishra,55,381,419,28,31,2008,2023,90.93,13.61,0,0,"Delhi Capitals, Lucknow Super Giants, Sunrisers Hyderabad",Lucknow Super Giants,Lower Order
+KR Mayers,13,379,263,13,73,2023,2023,144.11,29.15,4,0,Lucknow Super Giants,Lucknow Super Giants,Opener
+DB Ravi Teja,25,375,317,19,60,2008,2013,118.3,19.74,1,0,Sunrisers Hyderabad,Sunrisers Hyderabad,Lower Order
+S Sohal,20,368,292,18,62,2008,2011,126.03,20.44,2,0,"Punjab Kings, Sunrisers Hyderabad",Sunrisers Hyderabad,Opener
+P Negi,35,365,289,22,36,2012,2019,126.3,16.59,0,0,"Chennai Super Kings, Delhi Capitals, Royal Challengers Bangalore",Royal Challengers Bangalore,Lower Order
+Rahmanullah Gurbaz,18,363,269,17,81,2023,2025,134.94,21.35,2,0,Kolkata Knight Riders,Kolkata Knight Riders,Opener
+B Kumar,75,354,377,35,27,2011,2026,93.9,10.11,0,0,"Pune Warriors, Royal Challengers Bengaluru, Sunrisers Hyderabad",Royal Challengers Bengaluru,Lower Order
+KV Sharma,40,352,295,24,39,2009,2025,119.32,14.67,0,0,"Mumbai Indians, Royal Challengers Bangalore, Royal Challengers Bengaluru, Sunrisers Hyderabad",Mumbai Indians,Lower Order
+DJ Mitchell,15,351,267,13,63,2022,2024,131.46,27.0,2,0,"Chennai Super Kings, Rajasthan Royals",Chennai Super Kings,No. 3
+SN Thakur,43,349,263,28,68,2015,2026,132.7,12.46,1,0,"Chennai Super Kings, Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians, Punjab Kings, Rising Pune Supergiant",Mumbai Indians,Lower Order
+FH Allen,11,349,163,10,100,2026,2026,214.11,34.9,1,1,Kolkata Knight Riders,Kolkata Knight Riders,Opener
+R Bhatia,47,342,284,29,26,2008,2017,120.42,11.79,0,0,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals, Rising Pune Supergiant",Rising Pune Supergiant,Lower Order
+P Kumar,57,340,314,34,34,2008,2017,108.28,10.0,0,0,"Gujarat Lions, Mumbai Indians, Punjab Kings, Royal Challengers Bangalore, Sunrisers Hyderabad",Gujarat Lions,Lower Order
+AP Tare,27,339,273,24,59,2010,2017,124.18,14.12,1,0,"Delhi Capitals, Mumbai Indians, Sunrisers Hyderabad",Delhi Capitals,Opener
+JEC Franklin,16,327,301,11,79,2011,2012,108.64,29.73,1,0,Mumbai Indians,Mumbai Indians,Opener
+RN ten Doeschate,21,326,235,14,70,2011,2015,138.72,23.29,1,0,Kolkata Knight Riders,Kolkata Knight Riders,Finisher
+JC Archer,40,326,225,24,32,2018,2026,144.89,13.58,0,0,"Mumbai Indians, Rajasthan Royals",Rajasthan Royals,Lower Order
+D Ferreira,16,326,191,12,69,2024,2026,170.68,27.17,2,0,"Delhi Capitals, Rajasthan Royals",Rajasthan Royals,Finisher
+JO Holder,34,324,263,26,47,2014,2026,123.19,12.46,0,0,"Gujarat Titans, Kolkata Knight Riders, Lucknow Super Giants, Rajasthan Royals, Sunrisers Hyderabad",Gujarat Titans,Lower Order
+Anuj Rawat,21,318,267,14,66,2021,2024,119.1,22.71,1,0,"Rajasthan Royals, Royal Challengers Bangalore, Royal Challengers Bengaluru",Royal Challengers Bengaluru,Opener
+Aniket Verma,20,315,196,14,74,2025,2026,160.71,22.5,1,0,Sunrisers Hyderabad,Sunrisers Hyderabad,Finisher
+R Vinay Kumar,42,310,274,25,26,2008,2018,113.14,12.4,0,0,"Kochi Tuskers Kerala, Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bangalore",Kolkata Knight Riders,Lower Order
+Lalit Yadav,21,305,290,15,48,2021,2024,105.17,20.33,0,0,Delhi Capitals,Delhi Capitals,Finisher
+DB Das,22,304,261,12,35,2008,2013,116.48,25.33,0,0,Kolkata Knight Riders,Kolkata Knight Riders,Finisher
+C de Grandhomme,21,303,225,14,40,2017,2019,134.67,21.64,0,0,"Kolkata Knight Riders, Royal Challengers Bangalore",Royal Challengers Bangalore,Lower Order
+LA Pomersbach,16,302,246,10,79,2008,2013,122.76,30.2,1,0,"Punjab Kings, Royal Challengers Bangalore",Punjab Kings,No. 3
+UBT Chand,20,300,300,20,58,2011,2016,100.0,15.0,1,0,"Delhi Capitals, Mumbai Indians, Rajasthan Royals",Mumbai Indians,No. 3
+Ramandeep Singh,26,299,205,16,35,2022,2026,145.85,18.69,0,0,"Kolkata Knight Riders, Mumbai Indians",Kolkata Knight Riders,Lower Order
+DJG Sammy,20,295,241,15,60,2013,2015,122.41,19.67,1,0,"Royal Challengers Bangalore, Sunrisers Hyderabad",Royal Challengers Bangalore,Finisher
+Kartik Sharma,11,295,216,9,71,2026,2026,136.57,32.78,2,0,Chennai Super Kings,Chennai Super Kings,Finisher
+SP Goswami,21,293,295,19,52,2008,2020,99.32,15.42,1,0,"Kolkata Knight Riders, Rajasthan Royals, Royal Challengers Bangalore, Sunrisers Hyderabad",Sunrisers Hyderabad,Opener
+A Manohar,20,292,235,19,43,2022,2025,124.26,15.37,0,0,"Gujarat Titans, Sunrisers Hyderabad",Sunrisers Hyderabad,Lower Order
+Y Nagar,20,285,259,14,44,2009,2012,110.04,20.36,0,0,Delhi Capitals,Delhi Capitals,Lower Order
+GH Vihari,23,284,321,19,46,2013,2019,88.47,14.95,0,0,"Delhi Capitals, Sunrisers Hyderabad",Delhi Capitals,No. 4
+VVS Laxman,20,282,267,16,52,2008,2011,105.62,17.62,1,0,"Kochi Tuskers Kerala, Sunrisers Hyderabad",Kochi Tuskers Kerala,Opener
+A Ashish Reddy,23,280,193,15,36,2012,2016,145.08,18.67,0,0,Sunrisers Hyderabad,Sunrisers Hyderabad,Lower Order
+B Chipli,21,280,251,15,61,2008,2013,111.55,18.67,1,0,"Delhi Capitals, Royal Challengers Bangalore, Sunrisers Hyderabad",Delhi Capitals,Finisher
+HV Patel,44,280,238,28,36,2012,2026,117.65,10.0,0,0,"Delhi Capitals, Punjab Kings, Royal Challengers Bangalore, Sunrisers Hyderabad",Sunrisers Hyderabad,Lower Order
+MJ Lumb,12,278,194,10,83,2010,2011,143.3,27.8,1,0,"Rajasthan Royals, Sunrisers Hyderabad",Sunrisers Hyderabad,Opener
+P Nissanka,10,278,175,10,62,2026,2026,158.86,27.8,2,0,Delhi Capitals,Delhi Capitals,Opener
+PBB Rajapaksa,13,277,191,12,50,2022,2023,145.03,23.08,1,0,Punjab Kings,Punjab Kings,No. 3
+PK Garg,19,273,241,18,51,2020,2023,113.28,15.17,1,0,"Delhi Capitals, Sunrisers Hyderabad",Delhi Capitals,Finisher
+MJ Guptill,13,271,197,12,50,2016,2019,137.56,22.58,1,0,"Mumbai Indians, Punjab Kings, Sunrisers Hyderabad",Sunrisers Hyderabad,Opener
+R Sathish,24,270,231,16,27,2010,2016,116.88,16.88,0,0,"Kolkata Knight Riders, Mumbai Indians, Punjab Kings",Kolkata Knight Riders,Finisher
+R Shepherd,19,268,153,11,53,2022,2026,175.16,24.36,1,0,"Lucknow Super Giants, Mumbai Indians, Royal Challengers Bengaluru, Sunrisers Hyderabad",Royal Challengers Bengaluru,Lower Order
+K Rabada,34,262,239,18,44,2017,2026,109.62,14.56,0,0,"Delhi Capitals, Gujarat Titans, Punjab Kings",Gujarat Titans,Lower Order
+Atharva Taide,10,260,177,9,66,2023,2025,146.89,28.89,2,0,"Punjab Kings, Sunrisers Hyderabad",Sunrisers Hyderabad,Opener
+M Kaif,22,259,250,16,34,2008,2012,103.6,16.19,0,0,"Punjab Kings, Rajasthan Royals, Royal Challengers Bangalore",Royal Challengers Bangalore,Finisher
+Harpreet Brar,27,249,206,12,29,2019,2026,120.87,20.75,0,0,Punjab Kings,Punjab Kings,Lower Order
+K Gowtham,27,247,148,18,33,2018,2023,166.89,13.72,0,0,"Lucknow Super Giants, Punjab Kings, Rajasthan Royals",Lucknow Super Giants,Lower Order
+SM Katich,11,241,186,9,75,2008,2009,129.57,26.78,2,0,Punjab Kings,Punjab Kings,Opener
+BCJ Cutting,17,238,141,10,39,2014,2019,168.79,23.8,0,0,"Mumbai Indians, Rajasthan Royals, Sunrisers Hyderabad",Mumbai Indians,Finisher
+MD Mishra,17,237,208,15,41,2010,2012,113.94,15.8,0,0,"Pune Warriors, Sunrisers Hyderabad",Pune Warriors,Opener
+Mohammad Nabi,19,221,152,15,37,2017,2024,145.39,14.73,0,0,"Mumbai Indians, Sunrisers Hyderabad",Mumbai Indians,Lower Order
+SB Dubey,17,220,143,10,34,2024,2026,153.85,22.0,0,0,Rajasthan Royals,Rajasthan Royals,Lower Order
+K Goel,16,218,231,13,38,2008,2010,94.37,16.77,0,0,Punjab Kings,Punjab Kings,Opener
+AA Jhunjhunwala,15,217,210,12,53,2010,2012,103.33,18.08,1,0,"Pune Warriors, Rajasthan Royals, Sunrisers Hyderabad",Sunrisers Hyderabad,Finisher
+Kuldeep Yadav,41,210,253,14,35,2017,2026,83.0,15.0,0,0,"Delhi Capitals, Kolkata Knight Riders",Delhi Capitals,Lower Order
+R Dhawan,22,210,187,10,25,2013,2023,112.3,21.0,0,0,"Mumbai Indians, Punjab Kings",Punjab Kings,Lower Order
+UT Yadav,48,208,201,20,24,2010,2024,103.48,10.4,0,0,"Delhi Capitals, Gujarat Titans, Kolkata Knight Riders, Royal Challengers Bangalore",Gujarat Titans,Lower Order
+CA Ingram,15,205,180,12,47,2011,2019,113.89,17.08,0,0,Delhi Capitals,Delhi Capitals,Finisher
+PD Collingwood,7,203,156,4,75,2010,2010,130.13,50.75,3,0,Delhi Capitals,Delhi Capitals,No. 4
+JD Unadkat,28,201,169,13,26,2013,2026,118.93,15.46,0,0,"Delhi Capitals, Lucknow Super Giants, Mumbai Indians, Rajasthan Royals, Rising Pune Supergiant, Royal Challengers Bangalore, Sunrisers Hyderabad",Sunrisers Hyderabad,Lower Order
+KS Bharat,8,199,163,7,78,2021,2022,122.09,28.43,1,0,"Delhi Capitals, Royal Challengers Bangalore",Delhi Capitals,No. 3
+SK Warne,27,198,214,17,34,2008,2011,92.52,11.65,0,0,Rajasthan Royals,Rajasthan Royals,Lower Order
+Urvil Patel,10,197,96,10,65,2025,2026,205.21,19.7,1,0,Chennai Super Kings,Chennai Super Kings,No. 3
+SP Fleming,10,196,165,9,45,2008,2008,118.79,21.78,0,0,Chennai Super Kings,Chennai Super Kings,Opener
+AS Raut,16,194,167,9,36,2009,2011,116.17,21.56,0,0,Rajasthan Royals,Rajasthan Royals,Lower Order
+BJ Rohrer,8,193,141,6,64,2013,2013,136.88,32.17,1,0,Delhi Capitals,Delhi Capitals,Finisher
+Salman Butt,7,193,161,7,73,2008,2008,119.88,27.57,1,0,Kolkata Knight Riders,Kolkata Knight Riders,Opener
+YV Takawale,10,192,178,8,45,2008,2014,107.87,24.0,0,0,"Mumbai Indians, Royal Challengers Bangalore",Royal Challengers Bangalore,Opener
+M Jansen,25,192,174,15,34,2021,2026,110.34,12.8,0,0,"Mumbai Indians, Punjab Kings, Sunrisers Hyderabad",Punjab Kings,Lower Order
+HC Brook,11,190,154,9,100,2023,2023,123.38,21.11,0,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Finisher
+Bipul Sharma,17,187,123,6,35,2010,2017,152.03,31.17,0,0,"Punjab Kings, Sunrisers Hyderabad",Sunrisers Hyderabad,Lower Order
+SD Hope,9,183,122,7,41,2024,2024,150.0,26.14,0,0,Delhi Capitals,Delhi Capitals,No. 3
+FY Fazal,11,183,173,9,45,2010,2011,105.78,20.33,0,0,Rajasthan Royals,Rajasthan Royals,No. 3
+MS Wade,14,183,177,13,35,2011,2024,103.39,14.08,0,0,"Delhi Capitals, Gujarat Titans",Gujarat Titans,No. 3
+Sikandar Raza,9,182,136,7,57,2023,2024,133.82,26.0,1,0,Punjab Kings,Punjab Kings,Finisher
+CR Brathwaite,14,181,111,13,43,2016,2019,163.06,13.92,0,0,"Delhi Capitals, Kolkata Knight Riders, Sunrisers Hyderabad",Kolkata Knight Riders,Lower Order
+AC Voges,7,181,143,4,45,2010,2010,126.57,45.25,0,0,Rajasthan Royals,Rajasthan Royals,Finisher
+S Gopal,22,180,169,12,24,2014,2022,106.51,15.0,0,0,"Mumbai Indians, Rajasthan Royals, Sunrisers Hyderabad",Sunrisers Hyderabad,Lower Order
+AB Agarkar,18,179,154,8,39,2008,2013,116.23,22.38,0,0,"Delhi Capitals, Kolkata Knight Riders",Delhi Capitals,Lower Order
+MW Short,9,177,143,9,36,2023,2026,123.78,19.67,0,0,"Chennai Super Kings, Punjab Kings",Chennai Super Kings,Opener
+MF Maharoof,14,177,123,10,39,2008,2010,143.9,17.7,0,0,Delhi Capitals,Delhi Capitals,Lower Order
+C Munro,11,177,141,9,40,2016,2019,125.53,19.67,0,0,"Delhi Capitals, Kolkata Knight Riders",Delhi Capitals,No. 3
+MD Choudhary,10,170,120,6,54,2026,2026,141.67,28.33,1,0,Lucknow Super Giants,Lucknow Super Giants,Lower Order
+DH Yagnik,17,170,137,9,34,2011,2014,124.09,18.89,0,0,Rajasthan Royals,Rajasthan Royals,Lower Order
+CM Gautam,13,169,150,9,33,2013,2015,112.67,18.78,0,0,"Delhi Capitals, Mumbai Indians",Delhi Capitals,Lower Order
+DW Steyn,33,167,160,20,19,2008,2020,104.38,8.35,0,0,"Gujarat Lions, Royal Challengers Bangalore, Sunrisers Hyderabad",Royal Challengers Bangalore,Lower Order
+MN van Wyk,5,167,132,3,74,2009,2009,126.52,55.67,1,0,Kolkata Knight Riders,Kolkata Knight Riders,Finisher
+MG Johnson,28,167,164,13,16,2013,2018,101.83,12.85,0,0,"Kolkata Knight Riders, Mumbai Indians, Punjab Kings",Kolkata Knight Riders,Lower Order
+Suryansh Shedge,10,165,101,7,57,2025,2026,163.37,23.57,1,0,Punjab Kings,Punjab Kings,Finisher
+PA Reddy,10,164,160,10,42,2012,2013,102.5,16.4,0,0,Sunrisers Hyderabad,Sunrisers Hyderabad,Opener
+JG Bethell,9,163,116,9,55,2025,2026,140.52,18.11,1,0,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Opener
+N Jagadeesan,10,162,147,9,39,2020,2023,110.2,18.0,0,0,"Chennai Super Kings, Kolkata Knight Riders",Kolkata Knight Riders,Opener
+MN Samuels,14,161,172,11,46,2012,2017,93.6,14.64,0,0,"Delhi Capitals, Pune Warriors",Delhi Capitals,Finisher
+R McLaren,13,159,171,8,51,2010,2013,92.98,19.88,1,0,"Kolkata Knight Riders, Mumbai Indians, Punjab Kings",Kolkata Knight Riders,Lower Order
+RE van der Merwe,15,159,141,11,35,2009,2013,112.77,14.45,0,0,"Delhi Capitals, Royal Challengers Bangalore",Delhi Capitals,Lower Order
+V Nigam,10,157,89,6,39,2025,2026,176.4,26.17,0,0,Delhi Capitals,Delhi Capitals,Lower Order
+Azmatullah Omarzai,11,151,101,10,38,2024,2026,149.5,15.1,0,0,"Gujarat Titans, Punjab Kings",Punjab Kings,Lower Order
+J Overton,8,151,93,5,43,2025,2026,162.37,30.2,0,0,Chennai Super Kings,Chennai Super Kings,Lower Order
+D Wiese,11,148,101,5,47,2015,2023,146.53,29.6,0,0,"Kolkata Knight Riders, Royal Challengers Bangalore",Kolkata Knight Riders,Lower Order
+AD Hales,6,148,118,6,45,2018,2018,125.42,24.67,0,0,Sunrisers Hyderabad,Sunrisers Hyderabad,Opener
+SM Pollock,8,147,111,8,33,2008,2008,132.43,18.38,0,0,Mumbai Indians,Mumbai Indians,Finisher
+S Vidyut,8,145,109,8,54,2008,2008,133.03,18.12,1,0,Chennai Super Kings,Chennai Super Kings,Opener
+Sachin Baby,11,144,118,9,33,2013,2021,122.03,16.0,0,0,"Rajasthan Royals, Royal Challengers Bangalore",Royal Challengers Bangalore,Finisher
+Arshad Khan,12,142,95,6,58,2023,2026,149.47,23.67,1,0,"Gujarat Titans, Lucknow Super Giants, Mumbai Indians",Gujarat Titans,Lower Order
+DL Chahar,20,142,103,10,39,2017,2026,137.86,14.2,0,0,"Chennai Super Kings, Mumbai Indians, Rising Pune Supergiant",Mumbai Indians,Lower Order
+N Saini,10,140,141,10,50,2012,2012,99.29,14.0,1,0,Punjab Kings,Punjab Kings,No. 3
+Anmolpreet Singh,9,139,115,9,36,2021,2024,120.87,15.44,0,0,"Mumbai Indians, Sunrisers Hyderabad",Sunrisers Hyderabad,Opener
+S Anirudha,12,136,113,8,64,2008,2014,120.35,17.0,1,0,"Chennai Super Kings, Sunrisers Hyderabad",Sunrisers Hyderabad,Lower Order
+MJ Santner,21,136,123,8,22,2019,2026,110.57,17.0,0,0,"Chennai Super Kings, Mumbai Indians",Mumbai Indians,Lower Order
+GD Phillips,13,132,109,11,25,2021,2026,121.1,12.0,0,0,"Gujarat Titans, Rajasthan Royals, Sunrisers Hyderabad",Gujarat Titans,Finisher
+SB Styris,10,131,133,7,36,2008,2011,98.5,18.71,0,0,"Chennai Super Kings, Sunrisers Hyderabad",Chennai Super Kings,Finisher
+W Jaffer,8,130,121,7,50,2008,2009,107.44,18.57,1,0,Royal Challengers Bangalore,Royal Challengers Bangalore,Opener
+RD Chahar,22,129,124,15,25,2017,2024,104.03,8.6,0,0,"Mumbai Indians, Punjab Kings, Rising Pune Supergiant",Punjab Kings,Lower Order
+Kamran Akmal,6,128,78,4,53,2008,2008,164.1,32.0,1,0,Rajasthan Royals,Rajasthan Royals,No. 3
+P Dogra,12,127,138,8,41,2010,2013,92.03,15.88,0,0,"Kolkata Knight Riders, Punjab Kings, Rajasthan Royals",Kolkata Knight Riders,Finisher
+TK Curran,10,127,107,5,54,2018,2021,118.69,25.4,1,0,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals",Delhi Capitals,Lower Order
+UT Khawaja,6,127,100,5,30,2016,2016,127.0,25.4,0,0,Rising Pune Supergiant,Rising Pune Supergiant,Opener
+SS Prabhudessai,10,126,106,9,34,2022,2024,118.87,14.0,0,0,"Royal Challengers Bangalore, Royal Challengers Bengaluru",Royal Challengers Bengaluru,Finisher
+M Morkel,20,126,90,10,23,2009,2016,140.0,12.6,0,0,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals",Kolkata Knight Riders,Lower Order
+MM Sharma,30,125,136,17,21,2013,2025,91.91,7.35,0,0,"Chennai Super Kings, Delhi Capitals, Gujarat Titans, Punjab Kings",Delhi Capitals,Lower Order
+MC Juneja,7,125,128,7,49,2013,2013,97.66,17.86,0,0,Delhi Capitals,Delhi Capitals,No. 4
+BB Samantray,8,125,113,5,55,2012,2013,110.62,25.0,1,0,Sunrisers Hyderabad,Sunrisers Hyderabad,Finisher
+B Lee,19,124,97,9,25,2008,2013,127.84,13.78,0,0,"Kolkata Knight Riders, Punjab Kings",Kolkata Knight Riders,Lower Order
+Harpreet Singh,8,123,119,6,41,2011,2024,103.36,20.5,0,0,"Pune Warriors, Punjab Kings",Punjab Kings,Finisher
+AB McDonald,9,123,100,5,33,2009,2013,123.0,24.6,0,0,"Delhi Capitals, Royal Challengers Bangalore",Royal Challengers Bangalore,Finisher
+S Arora,10,121,77,6,30,2026,2026,157.14,20.17,0,0,Sunrisers Hyderabad,Sunrisers Hyderabad,Finisher
+NK Patel,6,121,119,4,57,2008,2009,101.68,30.25,1,0,Rajasthan Royals,Rajasthan Royals,Opener
+DL Vettori,16,121,113,7,29,2009,2012,107.08,17.29,0,0,"Delhi Capitals, Royal Challengers Bangalore",Royal Challengers Bangalore,Lower Order
+TG Southee,19,120,107,11,36,2014,2022,112.15,10.91,0,0,"Kolkata Knight Riders, Mumbai Indians, Rajasthan Royals, Royal Challengers Bangalore",Kolkata Knight Riders,Lower Order
+AC Blizzard,7,120,90,7,51,2011,2012,133.33,17.14,1,0,Mumbai Indians,Mumbai Indians,Opener
+Mohammed Siraj,23,117,139,11,14,2018,2026,84.17,10.64,0,0,"Gujarat Titans, Royal Challengers Bangalore, Royal Challengers Bengaluru",Gujarat Titans,Lower Order
+Misbah-ul-Haq,8,117,81,7,47,2008,2008,144.44,16.71,0,0,Royal Challengers Bangalore,Royal Challengers Bangalore,No. 3
+Z Khan,27,117,141,14,23,2008,2017,82.98,8.36,0,0,"Delhi Capitals, Mumbai Indians, Royal Challengers Bangalore",Delhi Capitals,Lower Order
+RJ Harris,21,117,112,12,17,2009,2013,104.46,9.75,0,0,"Punjab Kings, Sunrisers Hyderabad",Punjab Kings,Lower Order
+KK Cooper,12,116,68,9,32,2012,2014,170.59,12.89,0,0,Rajasthan Royals,Rajasthan Royals,Lower Order
+DJM Short,7,115,99,7,44,2018,2018,116.16,16.43,0,0,Rajasthan Royals,Rajasthan Royals,Opener
+Aman Hakim Khan,10,115,104,9,51,2022,2023,110.58,12.78,1,0,"Delhi Capitals, Kolkata Knight Riders",Delhi Capitals,Lower Order
+Mohammed Shami,34,115,111,19,21,2013,2026,103.6,6.05,0,0,"Delhi Capitals, Gujarat Titans, Kolkata Knight Riders, Lucknow Super Giants, Punjab Kings, Sunrisers Hyderabad",Lucknow Super Giants,Lower Order
+M Kartik,14,113,108,6,21,2008,2013,104.63,18.83,0,0,"Kolkata Knight Riders, Pune Warriors, Royal Challengers Bangalore",Royal Challengers Bangalore,Lower Order
+MA Starc,22,111,121,11,29,2014,2026,91.74,10.09,0,0,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bangalore",Delhi Capitals,Lower Order
+JDP Oram,11,106,108,8,41,2008,2011,98.15,13.25,0,0,"Chennai Super Kings, Rajasthan Royals",Rajasthan Royals,Finisher
+LJ Wright,5,106,60,4,44,2013,2013,176.67,26.5,0,0,Pune Warriors,Pune Warriors,Finisher
+DS Kulkarni,20,104,108,8,28,2008,2020,96.3,13.0,0,0,"Gujarat Lions, Mumbai Indians, Rajasthan Royals",Mumbai Indians,Lower Order
+RJ Quiney,7,103,102,7,51,2009,2009,100.98,14.71,1,0,Rajasthan Royals,Rajasthan Royals,Opener
