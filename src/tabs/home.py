@@ -89,7 +89,7 @@ def home():
                 <h1 class="home-title">IPL ANALYTICS</h1>
                 <p class="home-subtitle">
                     One project, every angle. Match summaries, stadium behaviour,
-                    player deep-dives with an AI analyst, and full team head-to-heads —
+                    player deep-dives with an AI chatbot, and full team head-to-heads —
                     all in one place, built for people who watch cricket like it's data.
                 </p>
             </div>
