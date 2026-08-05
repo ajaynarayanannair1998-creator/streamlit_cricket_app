@@ -38,7 +38,7 @@ FEATURES = [
         "title": "Team Analytics",
         "tagline": "Franchise history and head-to-head rivalries.",
         "points": [
-            "Season-wise win % and top performers",
+            "Overall insights of teams",
             "Top run-scorers & wicket-takers for a team",
             "Head-to-head: overall vs knockout record",
             "Next-season qualification probability",
@@ -113,14 +113,13 @@ def home():
     st.markdown(
         """
         <div class="home-section-header">
-            <h2>Explore the Hub</h2>
-            <p>Five ways to break down the game — pick a tab above to start.</p>
+            <h2>Explore the Tabs</h2>
         </div>
         """,
         unsafe_allow_html=True,
     )
 
-    # Row 1: Single match, Stadium, Player
+
     row1 = st.columns(3)
     for slot, feat in zip(row1, FEATURES[:3]):
         with slot:
@@ -128,7 +127,7 @@ def home():
 
     st.markdown('<div class="home-row-spacer"></div>', unsafe_allow_html=True)
 
-    # Row 2: Team Analytics + Feedback, centered
+
     row2 = st.columns([1, 2, 2, 1])
     with row2[1]:
         _render_card(FEATURES[3])
