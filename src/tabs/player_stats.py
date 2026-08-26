@@ -1353,7 +1353,7 @@ def render_ai_chat(dfs, alias_map, csv_to_display):
         f'<div class="panel-header"><div>'
         f'<span class="panel-title">Cricket AI Analyst</span>'
         f'<span class="panel-sub">Ask about batters, bowlers, comparisons & knockouts</span>'
-        f'</div><span class="ai-badge">llama-3.3-70b-versatile</span></div>',
+        f'</div><span class="ai-badge">qwen3.8-27b</span></div>',
         unsafe_allow_html=True,
     )
 
