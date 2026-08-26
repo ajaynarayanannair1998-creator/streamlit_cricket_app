@@ -1328,13 +1328,14 @@ def ask_ai(question, context, history):
     try:
         time.sleep(0.5)
         r = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="qwen/qwen3.8-27b",
             messages=messages,
-            max_tokens=800,
+            max_tokens=2000,
             temperature=0.1,
         )
         return r.choices[0].message.content
     except Exception as e:
+        print(f"GROQ ERROR TYPE: {type(e).__name__} | DETAIL: {e}")
         logging.error(f"Groq internal processing crash: {str(e)}")
         return "An internal execution issue occurred. Please retry your analytical query shortly."
 
