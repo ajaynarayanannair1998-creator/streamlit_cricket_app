@@ -19,7 +19,7 @@ st.set_page_config(layout="wide", page_title="IPL Analytics | Personal Project")
 
 TAB_BACKGROUNDS = {
     "Home": "assets/bat_celebration.jpg",
-    "Single match data": "assets/cricketjersey.jpg",
+    "Single match analysis": "assets/cricketjersey.jpg",
     "Stadium Analytics": "assets/stadium_analy.jpg",
     "Player Analytics": "assets/4k_batsman.jpg",
     "Team Analytics": "assets/team_image.jpg",
