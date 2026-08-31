@@ -58,7 +58,7 @@ if "open_pill" not in st.session_state:
 if "active_tab" not in st.session_state:
     st.session_state["active_tab"] = "Home"
 
-TAB_LABELS = ["Home","Single match data", "Stadium Analytics", "Player Analytics", "Team Analytics", "Feedback"]
+TAB_LABELS = ["Home","Single match analysis", "Stadium Analytics", "Player Analytics", "Team Analytics", "Feedback"]
 
 
 with st.container():
@@ -75,7 +75,7 @@ with st.container():
     st.markdown('<div class="native-wrapper-box">', unsafe_allow_html=True)
     selected = st.session_state["active_tab"]
     if selected=="Home" : home()
-    elif selected == "Single match data":     run_app()
+    elif selected == "Single match analysis":     run_app()
     elif selected == "Stadium Analytics":     stadium_data()
     elif selected == "Player Analytics":    player_stats()
     elif selected == "Team Analytics": teams_analysis()
