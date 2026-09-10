@@ -1,6 +1,6 @@
 from playwright.sync_api import sync_playwright
 
-APP_URL = "https://your-app-name.streamlit.app"
+APP_URL = "https://iplanalyticspersonal.streamlit.app/"
 
 def wake_app():
     with sync_playwright() as p:
