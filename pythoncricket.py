@@ -5,6 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from PIL import Image
 import time
+import seaborn as sns
 from src.tabs.home import home
 from src.tabs.team_analysis import teams_analysis
 from src.tabs.stadium_analysis import stadium_data
