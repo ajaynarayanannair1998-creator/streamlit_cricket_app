@@ -17,13 +17,7 @@ import streamlit.components.v1 as components
 
 st.set_page_config(layout="wide", page_title="IPL Analytics | Personal Project")
 
-st.markdown("""
-<style>
-html {
-    zoom: 0.8;
-}
-</style>
-""", unsafe_allow_html=True)
+
 
 TAB_BACKGROUNDS = {
     "Home": "assets/bat_celebration.jpg",
