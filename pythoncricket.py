@@ -17,7 +17,7 @@ import streamlit.components.v1 as components
 
 st.set_page_config(layout="wide", page_title="IPL Analytics | Personal Project")
 
-
+st.caption("💡 For the best view, set your browser zoom to 80% (Ctrl + minus, or Cmd + minus on Mac)")
 
 TAB_BACKGROUNDS = {
     "Home": "assets/bat_celebration.jpg",
