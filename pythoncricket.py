@@ -14,7 +14,6 @@ from assets.styles import apply_styles,set_background
 from src.tabs.feedback import reviews
 import streamlit.components.v1 as components
 
-
 st.set_page_config(layout="wide", page_title="IPL Analytics | Personal Project")
 
 st.caption("Best viewed at 70-80% browser zoom. Higher zoom levels may cut off parts of the layout.")
